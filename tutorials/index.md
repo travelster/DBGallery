@@ -1,3 +1,7 @@
+---
+parent: Video and Slideshow Tutorials
+---
+
 ## Tutorials
 
 You can use the [editor on GitHub](https://github.com/mykola-devmiles/dbgdoc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

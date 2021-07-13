@@ -1,3 +1,6 @@
+---
+parent: Knowledge Base
+---
 
 ## How To
 
