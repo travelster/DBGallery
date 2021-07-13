@@ -1,1 +1,6 @@
+title: DBGallery
+description: DBGallery documentation and help articles   
+baseurl: "/dbgdocs" # the subpath of your site, e.g. /blog
+url: "https://mykola-devmiles.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 remote_theme: pmarsceill/just-the-docs
