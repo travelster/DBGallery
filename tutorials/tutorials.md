@@ -3,6 +3,7 @@ layout: default
 title: Video and Slideshow Tutorials
 has_children: true
 permalink: /tutorials
+parent: DBGallery
 ---
 
 # Knowledge Base
