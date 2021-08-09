@@ -1,3 +1,4 @@
 
 remote_theme: pmarsceill/just-the-docs
-logo: "/assets/logo-darklines.png "
+logo: "/assets/logo-darklines.png"
+favicon: "/favicon.ico"
