@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workflow
-permalink: /docs/workflow
+permalink: /workflow
 parent: Team Features
 grand_parent: DBGallery
 ---

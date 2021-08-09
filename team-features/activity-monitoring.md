@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activity Monitoring
-permalink: /docs/activity-monitoring
+permalink: /activity-monitoring
 parent: Team Features
 grand_parent: DBGallery
 ---
