@@ -3,7 +3,7 @@ layout: default
 title: Image Management
 has_children: true
 permalink: /image-management
-parent: DBGallery
+parent: hiddenDBGallery
 ---
 
 # Image Management

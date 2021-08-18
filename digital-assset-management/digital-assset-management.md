@@ -3,7 +3,7 @@ layout: default
 title: Digital Asset Management
 has_children: true
 permalink: /digital-asset-management
-parent: DBGallery
+parent: hiddenDBGallery
 ---
 
 # Knowledge Base

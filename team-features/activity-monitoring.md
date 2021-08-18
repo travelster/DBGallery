@@ -9,7 +9,7 @@ grand_parent: DBGallery
 # Activity Monitoring
 
 DBGallery's audit trail, aka activity monitoring, capabilities of the system is found on two pages:
-- List
+
 1. **The audit log page.**  Access this through the main menu's Tools / Audit trail.
 2. **Versions tab of in image preview.**  This displays all image changes as well as metadata changes (also considered a version in DBGallery).  
 
