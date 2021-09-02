@@ -4,6 +4,7 @@ title: Drag and Drop Folder and File Operations
 permalink: /dnd-folder-operations
 parent: Fundamentals
 grand_parent: DBGallery
+nav_order: 3
 ---
 
 # Drag and Drop Folder and File Operations

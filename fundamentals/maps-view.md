@@ -21,7 +21,7 @@ If image don't have GPS stamps, they can be added within DBGallery fairly easily
 
 3) When GPS stamps don't already exist in the image, set the location when editing data.  Start typing the location as you would in Google Maps and choose from the list. Press the expand button to see the map in full screen mode to tweak the map marker location. Tweak existing locations on images that already have GPS data by dragging the marker within the small map window or pressing the expand button.
 
-![Maps View Set Location](/assets/MapsView-SetLocation.png)
+![Maps View Set Location](/assets/MapsView-SetLocation.png){: width="90%" .ml-8}
 
 4) Reverse geocoding.  Street address is automatically added using <a href="https://en.wikipedia.org/wiki/Reverse_geocoding" target="_blank">reverse geocoding</a> anytime an image is uploaded or a new location is set in when editing data.  This info includes street name and number, city and country.
 

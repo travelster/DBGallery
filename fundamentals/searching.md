@@ -4,6 +4,7 @@ title: Searching
 permalink: /search
 parent: Fundamentals
 grand_parent: DBGallery
+nav_order: 1
 ---
 
 # Search
