@@ -5,7 +5,7 @@ permalink: /foundation
 parent: DBGallery
 ---
 
-# Foundation
+# DBGallery's Foundation
 
 ## Performance
 DBGallery's architecture and code, and especially its database, is optimized for performance! Typically search results are returned between 1/2 and 3 seconds. This is the case when run on moderate hardware and up to 500,000 images. Even when over 1 million images, search results are typically under 5 seconds.

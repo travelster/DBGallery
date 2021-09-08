@@ -11,5 +11,5 @@ title: DBGallery
 {: .no_toc}
 
 
-### Learn to manage, catalogue, archive and securely share your image, video, and document files, keep track of different versions and detect duplicates. Explore search capabilities that make files easy to find. Master workflows management and other team features that provide a collaborative environment for those inside and outside your organization.
+Learn to manage, catalogue, archive and securely share your image, video, and document files, keep track of different versions and configure how data is laid out. Explore search capabilities that make files easy to find. Master workflows management and other team features that provide a collaborative environment for those inside and outside your organization.
 {: .no_toc}
