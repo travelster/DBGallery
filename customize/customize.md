@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Digital Asset Management
+title: Customize
 has_children: true
-permalink: /digital-asset-management
+permalink: /customize
 parent: DBGallery
-nav_order: 4
 ---
 
-# Digital Asset Management
+# Taylor DBGallery to fit into your company
 
 Advanced features beyond image and file management.
 {: .fs-6 .fw-300 }

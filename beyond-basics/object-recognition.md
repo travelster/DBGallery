@@ -10,4 +10,4 @@ grand_parent: DBGallery
 
 Please see our <a href="https://docs.google.com/presentation/d/1bF6M1qUOMCuSmvR749XZ-UTfOnGS3cY3Xj-GRd9Y-oY/edit?usp=sharinghttps://docs.google.com/presentation/d/1bF6M1qUOMCuSmvR749XZ-UTfOnGS3cY3Xj-GRd9Y-oY/edit?usp=sharing" target="blank">Object Recognition</a> slideshow tutorial.
 
-![Object Recognition Tutorial](/assets/undraw_Online_learning.png)
+![Learning Grapic](/assets/undraw_Online_learning.png)

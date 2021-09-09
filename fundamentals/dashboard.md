@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dashboard
+title: The Dashboard *
 permalink: /dashboard
 parent: Fundamentals
 grand_parent: DBGallery

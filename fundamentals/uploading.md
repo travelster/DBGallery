@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uploading
+title: Uploading *
 permalink: /uploading
 parent: Fundamentals
 grand_parent: DBGallery

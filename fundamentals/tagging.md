@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tagging
+title: Tagging *
 permalink: /tagging
 parent: Fundamentals
 grand_parent: DBGallery
