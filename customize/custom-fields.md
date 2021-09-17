@@ -2,7 +2,7 @@
 layout: default
 title: Custom Fields (Slideshow)
 permalink: /custom-fields
-parent: Customize
+parent: Tayloring DBGallery
 grand_parent: DBGallery
 nav_order: 1
 ---

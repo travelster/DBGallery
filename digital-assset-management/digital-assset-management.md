@@ -9,6 +9,6 @@ nav_order: 4
 
 # Digital Asset Management
 
-Advanced features beyond image and file management.
+Advanced features beyond image and file management
 {: .fs-6 .fw-300 }
 

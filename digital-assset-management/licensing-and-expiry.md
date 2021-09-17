@@ -10,6 +10,7 @@ grand_parent: DBGallery
 
 Intellectual property (IP) licensing will be important if your company utilizes licensed digital assets.  
 
+
 DBGallery allows for:
 - Setting the date an asset expires (typically when a license agreement expires)
 - Pointing to a license agreement document
@@ -40,6 +41,8 @@ Expiration Icon Note: All images with an expiry date will have a clock icon.  Th
 - Black: Expires in more than 2 weeks.
 - Yellow: Expires with 2 weeks.
 - Red: Already expired.
+
+Pause the mouse cursor over the clock icon to see the date the asset expires (as shown in the lower-right)
 
 ![Licensing Search](/assets/Licensing-Search.png)
 

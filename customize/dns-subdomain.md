@@ -2,7 +2,7 @@
 layout: default
 title: Your own URL *
 permalink: /dns-subdomain
-parent: Customize
+parent: Tayloring DBGallery
 grand_parent: DBGallery
 nav_order: 3
 ---
