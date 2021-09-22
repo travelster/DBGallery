@@ -4,6 +4,6 @@ logo: "/assets/logo-darklines.png"
 favicon: "/favicon.ico"
 
 toc:
-  min_level: 3
+  min_level: 2
   max_level: 6
-  ordered_list: true
+  ordered_list: false
