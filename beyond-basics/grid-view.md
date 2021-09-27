@@ -27,4 +27,8 @@ It has following features:
 The data grid:
 <br />
 
-![Grid View](/assets/DataGrid.png)
+![Grid View](/assets/DataGrid.png){: .ml-8}
+
+Edit like a spreadsheet, using the arrow keys to move around:
+
+![Grid View](/assets/GridViewEdit.gif){: .ml-8}
