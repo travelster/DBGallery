@@ -1,5 +1,8 @@
-## Our most popular blogs
-
+---
+layout: default
+title: Our most popular blogs
+parent: DBGallery
+---
 
 <a href="https://dbgallery.com/workflow_value" target="_blank">The Business Value of Workflow in Digital Asset Management</a>
 
