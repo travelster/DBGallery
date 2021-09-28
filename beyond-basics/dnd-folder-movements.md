@@ -2,8 +2,8 @@
 layout: default
 title: Drag and Drop Folder and File Operations
 permalink: /dnd-folder-operations
-parent: Fundamentals
-grand_parent: Beyond Basics
+parent: Beyond Basics
+grand_parent: DBGallery
 nav_order: 3
 ---
 

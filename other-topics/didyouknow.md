@@ -2,7 +2,8 @@
 layout: default
 title: Did you know...
 permalink: /dyk
-parent: DBGallery
+parent: Interesting Topics
+grand_parent: DBGallery
 ---
 
 # Did You Know...

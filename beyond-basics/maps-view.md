@@ -16,7 +16,8 @@ Any images uploaded that have GPS coordinates can be shown across a map.  Select
 
 ![Maps View](/assets/MapsView.jpg)
 
-Click a marker to view the image, from there click Open, or replace the markers with thumbs shown across the map: 
+## Viewing images directly from Map View
+Click a marker to view the image.  To see the full image from there, click Open.  Replace the markers with thumbs by clicking the marker button in the top right corner of the map (the middle of the three buttons). 
 
 ![Maps View](/assets/Maps-Icons-and-Preview.gif)
 

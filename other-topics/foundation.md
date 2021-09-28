@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Foundation
+title: DBGallery's Foundation
 permalink: /foundation
-parent: DBGallery
+parent: Interesting Topics
+grand_parent: DBGallery
 ---
 
 # DBGallery's Foundation
