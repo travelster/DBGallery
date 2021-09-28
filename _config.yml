@@ -3,6 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/assets/logo-darklines.png"
 favicon: "/favicon.ico"
 search_enabled: true
+search_label: DBGallery Knowledge Base
 
 toc:
   min_level: 3

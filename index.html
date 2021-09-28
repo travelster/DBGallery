@@ -6,8 +6,10 @@ layout: home
 has_children: true
 title: DBGallery
 has_toc: false
+l1_color: rgb(39,38,43)
+l2_color: rgb(0,152,207)
 ---
-<h1>DBGallery Digital Asset Management</h1>
+<h1>DBGallery Knowledge Base</h1>
 
 <p>Learn to manage, catalogue, archive and securely share your image, video, and document files, keep track of different versions and configure how data is laid out. Explore search capabilities that make files easy to find. Master workflows management and other team features that provide a collaborative environment for those inside and outside your organization.
 </p>
@@ -77,14 +79,14 @@ has_toc: false
               {%- if child.has_children -%}
                 <a href="#" class="nav-list-expander"></a>
               {%- endif -%}
-              <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}"><h3>{{ child.title }}</h3></a>
+              <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}"><h3 style="color: {{page.l1_color}}">{{ child.title }}</h3></a>
               {%- if child.has_children -%}
                 {%- assign grand_children_list = pages_list | where: "parent", child.title | where: "grand_parent", node.title -%}
                 <ul class="nav-list_espand">
                 {%- for grand_child in grand_children_list -%}
                   {%- unless grand_child.nav_exclude -%}
                   <li class="nav-list-item item_l3 {% if page.url == grand_child.url %} active{% endif %}">
-                    <a href="{{ grand_child.url | absolute_url }}" class="nav-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
+                    <a href="{{ grand_child.url | absolute_url }}" class="nav-list-link{% if page.url == grand_child.url %} active{% endif %}" style="color: {{page.l2_color}}">{{ grand_child.title }}</a>
                   </li>
                   {%- endunless -%}
                 {%- endfor -%}
