@@ -2,8 +2,11 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/logo-darklines.png"
 favicon: "/favicon.ico"
+search_enabled: true
 
 toc:
   min_level: 3
   max_level: 6
   ordered_list: true
+footer_content: |
+  &copy;	 DBGallery 
