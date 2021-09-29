@@ -4,7 +4,7 @@ title: The Dashboard
 permalink: /dashboard
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 6
+nav_order: 7
 ---
 
 # The Dashboard
