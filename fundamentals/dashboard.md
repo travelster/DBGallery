@@ -9,8 +9,10 @@ nav_order: 7
 
 # The Dashboard
 
+<p><img style="border: 1px solid purple;" src="/assets/Dashboard.png" alt="Dashboard"/></p>
+
 The Dashboard provides:
-- An overview the collection.
+- An overview of the collection, such as file counts, how many have data, etc.
 - Recent Activity: A great way to see activity across the entire collection, seeing whether images have been added, updated recently, and which have been recently viewed.
 - Overall statistics.
 - Live links, such as those in 'Recent active folder'.  These are live links to immediately return to where you left off.  Click 'Most active users' to see activity for that user, or 'Most used keywords' to view those with that keyword.  (Note: Not all widgets are shown in the screenshot below, but can be added to the dashboard in the configure section.)
@@ -21,8 +23,6 @@ Configuration Options, accessible by selecting one of the three buttons in top-r
 - Button 3: Choose the background photo. Good for changing up the look now and again.
 
 To get to the dashboard, use the Dashboard button in the top-right corner of the main DBGallery page (or set it to automatically appear upon login). 
-
-<p><img style="border: 1px solid purple;" src="/assets/Dashboard.png" alt="Dashboard"/></p>
 
 ## Configure your dashboard
 The widgets that are shown are configurable via a drag and drop interface, allowing the setting of size and position within the dashboard.  
