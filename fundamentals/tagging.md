@@ -50,17 +50,17 @@ Tagging many images at once is by far the most efficient means to tag images.
 
 Take the zoom-in approach: Select all images which have common attributes, such as all those which match a specific project id, or all those taken during a specific photo shot.  If all are taken by a specific author or are of the same subject type, select all of them and key that data first.  Then zoom into less common factors, such as all those that have a smile in them.  Only then would single images be tagged with attributes speicific to only that one image.
 
-Start by selecting any number of thumbs (using the Shift and Ctrl/Cmd keys while clicking the thumbs).  Opening them is the same as with a single image: 1) Double click any selected image; 2) Roll the mouse of a selected thumb and press open; 3) Press Open from the Actions section of the top menu.  Also note the Select All and Select None buttons in the Select section of the top menu.  
+Start by selecting any number of thumbs.  Do so by using the Shift and Ctrl/Cmd keys while clicking the thumbs.  
 
-To deselect images, single click any image which is not selected.  Or press the Select None button in the Select section of the top menu.
+Opening them is the same as with a single image: 1) Double click any selected image; 2) Roll the mouse of a selected thumb and press open; 3) Press Open from the Actions section of the top menu.  Also note the Select All and Select None buttons in the Select section of the top menu. To deselect images, single click any image which is not selected.  Or press the Select None button in the Select section of the top menu.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Tagging-SelectMultiple.jpg" alt="Tagging - Select Multiple Images"/></p>
 
 The editing of multiple images is much the same as with a single image.  (Although when there is existing data it can get more complex...see "When there is existing data" below.)
 
-If there are thumbs on the left side which were selected by mistake or don't belong for some reason, clicking the thumb will remove it.
-
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Tagging-MultipleInfo.jpg" alt="Tagging - Edit Multiple Images"/></p>
+
+If there are thumbs on the left side which were selected by mistake or don't belong for some reason, clicking the thumb will remove it.
 
 ## Seeing ALL the data: Full Data View
 
@@ -91,4 +91,4 @@ The data fields shown in either the Full Data view, or the simpler Info view, ma
 
 Data Layout for the Info panel can range from just a couple fields to a high number of them, as shown in these three examples below.  The top half of the Full Data panel may also be similarly customized.
 
-<p><img style="border: 1px solid purple;" src="/assets/InfoLayout-3Examples.jpg" alt="Data Layout Settings Examples"/></p>
+<p><img src="/assets/InfoLayout-3Examples.jpg" alt="Data Layout Settings Examples"/></p>
