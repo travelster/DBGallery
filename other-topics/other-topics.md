@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Interesting Topics
+title: Other Topics
 has_children: true
 permalink: /other-topics
 parent: DBGallery
 nav_order: 6
 ---
 
-# Interesting Topics
+# Other Topics
 
 
