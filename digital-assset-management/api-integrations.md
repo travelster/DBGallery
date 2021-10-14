@@ -15,17 +15,19 @@ DBGallery integrates with other systems in the following ways:
     Full access to your image collection via a programmable interface.  While company staff may manage your company's digital assets using our web UI, allow your own website or 3rd party applications to fully access it programmatically.  Search and find. Download. Upload.  Add metadata.</li>
     <br/>
     <li><b>Site to site.</b>
-    <br/>
     Integrate by providing login and guest access to DBGallery using a subdomain of your website (e.g. photo.yourcompany.com).  
-    DBGallery becomes a full-featured image viewing, searching, and management service that appears to be running from your website...with negligable effort!  
+    DBGallery becomes a full-featured image viewing, searching, and management service that appears to be running from your website...with negligable effort on your web developers part!  
     <br/><br/>
-    A Scenario: Your site has paying members (Birdwatchers or Equine photographer groups, for example) in which each member has their own portfolio of images.  
-    When on one of those sites pressing a member's Photo Portfolio button takes the person directly to a the member's portfolio 
-    section of DBGallery.  If the member choses to Login, they may manage their own collection within DBGallery, while appearing to be still on the original site.  
-    See the <a href="/solutions/dam-website-integration">Digital Asset Management Website Integration</a> page for details on how the above scenario works in general.
-    Or see the <a href="/epn-example">Equine Prographers Network</a> example for a direct look at how it works for an existing customer, 
+    A Scenario: Your site has paying members in which each member has their own portfolio of images. Birdwatchers or Equine photographer groups, for example.  
+    When one of the visitors to those sites presses a member's Photo Portfolio button it takes that visitor directly to the member's portfolio 
+    section of DBGallery.  If the member choses to Login, they may manage their own collection within DBGallery while appearing to be still on the original site.  
+    <br/><br/>
+    See the <a href="https://dbgallery.com/solutions/dam-website-integration">Digital Asset Management Website Integration</a> page for details on how the above scenario works in general.
+    Or see the <a href="https://dbgallery.com/epn-example">Equine Prographers Network</a> example for a direct look at how it works for an existing customer, 
     which includes a Quick Guide to Integration.
-    <br/><br/></li>
+    <br/><br/>
+    </li>
+
     <li><b>Direct file access.</b>
     <br/>
     All files are stored directly in folders on your file server (on-prem server version) or on our fileserver where secure access is provided upon request (SaaS Enterprise).
