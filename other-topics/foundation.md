@@ -2,7 +2,7 @@
 layout: page
 title: DBGallery's Foundation
 permalink: /foundation
-parent: Interesting Topics
+parent: Other Topics
 grand_parent: DBGallery
 ---
 

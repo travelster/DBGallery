@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our most popular blogs
-parent: Interesting Topics
+parent: Other Topics
 grand_parent: DBGallery
 ---
 
