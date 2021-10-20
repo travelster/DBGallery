@@ -42,7 +42,7 @@ Audit events of a specific image can be critical when data has been mismanaged o
 
 Audit events of a specific image can be critical when data has been mismanaged or incorrect versions uploaded.  Hopefully it rarely or never happens, but its generally a comfort to know it can been seen when it does.
 
-It is sometimes useful to go back to the beginning, from when an image was initially added, to potentially years later as data was edited, comments made, and new versions uploaded. All activities shown in the Audit Trail Type dropdown (screenshot above) which relates to an image will show here. 
+It is sometimes useful to go back to the beginning, from when an image was initially added, to potentially years later as data was edited, comments made, and new versions uploaded. All activities shown in the Audit Trail Type dropdown (shown in the screenshot above) which relates to an image will show here. 
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87481&public=f68700c18564409f80a0b42c0f99228d&1385710884" alt="Activity Versions Tab" width="80%"/></p>
 

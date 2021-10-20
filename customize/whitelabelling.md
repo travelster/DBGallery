@@ -34,4 +34,7 @@ To set the icon shown in browsers' tab, select 'Upload and save' to choose eithe
 The default values are:</p>
 	<add key="MainHeaderText" value="DBGallery" />
 	<add key="MainHeaderDefaultRight" value="Digital Asset Management" />
-<p>After adding these, stop and restart the IIS website.</p>
+<p>After changing tab text, stop and restart the IIS website.</p>
+
+## Related
+<a href="https://dbgallery.com/dns-subdomain">Your own URL</a>
