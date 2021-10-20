@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Download Image Data *
-permalink: /grid-view
+permalink: /download-data
 parent: Beyond Basics
 grand_parent: DBGallery
 ---
