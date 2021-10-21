@@ -4,6 +4,7 @@ title: Object Recognition (Slideshow)
 permalink: /object-recognition
 parent: Beyond Basics
 grand_parent: DBGallery
+nav_order: 4
 ---
 
 # Object Recognition

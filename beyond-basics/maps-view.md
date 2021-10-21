@@ -4,6 +4,7 @@ title: Maps View
 permalink: /maps-view
 parent: Beyond Basics
 grand_parent: DBGallery
+nav_order: 3
 ---
 
 # Maps View and Features
