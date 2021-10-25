@@ -59,8 +59,6 @@ Only the latest version will show in search results.  If a previous version is 
 
 Sharing Note: If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared can be replaced by adding a new version.
 
-**ADD TO SHARING:** If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared can be replaced by adding a new version.
-
 ## Data Versions
 
 While not true versions, all changes to an images data may also be seen from the VERSIONS panel.  Immediately below, Mr Marketing set the Expiration Date to 10/31/2021, changed the Image Status from Approved to Requires Adjustment and made a License/Expiry note.  Just before that, Jane Yu added 3 keywords, and DAdmin changed the Author from DBGallery to DBGallery Training.

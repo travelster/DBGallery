@@ -34,6 +34,6 @@ The above three steps:
 
 ## Notes
 
-For common image file types, such as jpg, png, tiff, webp, and Adobe Files (pdf, psd, ai, eps), metadata is also stored in the <a href="https://en.wikipedia.org/wiki/Extensible_Metadata_Platform"  target="_blank">XMP/IPTC metadata</a> area of the files themselves.
+For common image file types, such as jpg, png, tiff, and Adobe Files (pdf, psd, ai, eps), metadata is also stored in the <a href="https://en.wikipedia.org/wiki/Extensible_Metadata_Platform"  target="_blank">XMP/IPTC metadata</a> area of the files themselves.
 
 Special usage note: If it is required that data for asset files is modified outside DBGallery, this CSV file may be modified manually or by 3rd party systems then re-imported into DBGallery.  See the Data Import Guide for import instructions.
