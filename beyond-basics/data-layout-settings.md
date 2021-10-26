@@ -38,8 +38,9 @@ Data layout settings can be customized for all those listed in the Data Layout S
 <b>Dashboard:</b> The collection overview and launchpad.
 <br/>
 <br/>
-<b>NOTE: Your Account <b>VS</b> Global Layout Setting</b>
-The lower part of the menu to the left, "Global layout settings", is available only to administrators and sets the default layout for all users.  
+<b>FAQ:</b> What is the difference between the <b>Your account layout settings</b> and <b>Global layout setting?</b>
+<br/>
+<b>A:</b> The lower part of the menu to the left, "Global layout settings", is available only to administrators and sets the default layout for all users.  
 <br/>
 <br/>
 That default layout can be overridden by each user by changing those under "Your account layout settings".   Note that it is not possible to restrict users from changing their Gallery View data layout or their Dashboard layout, nor can they be reset to the default (i.e. users always have control over what they see there).  The other views, Shared, Preview and Full Data, cannot be controlled by individual users.
@@ -49,38 +50,42 @@ That default layout can be overridden by each user by changing those under "Your
 
 ## Configuring the Data Layouts
 To configure data layout settings:
-- Add Data Fields: Drag image data fields from the list on the left to the image card on the right.
-- Remove Data Fields: Drag data fields from the image card back to the list to remove them.
-- Saving changes is not required. They are automatically saved as changes are made. 
-- A page refresh is required on any pages already open before being visible.
+- **Add Data Fields:** Drag image data fields from the list on the left to the image card on the right.
+- **Remove Data Fields:** Drag data fields from the image card back to the list to remove them.
+- **Saving changes is not required.** They are automatically saved as changes are made. 
+- **A page refresh is required** on any pages already open prior to data layout setting changes, on the device making the changes and any other users' devices which may have those pages open.
 
-Configuring Gallery View
+## Configuring Gallery View
 Sample: adding a field to the data shown under thumbs in the Gallery View:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\ui-settings-gallery-view-example.gif" alt="Gallery view: Drag and drop data layout"/></p>
 
-The page area being configured:
+The Gallery View page area example:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\gallery-view-interface-screenshot.webp" alt="Gallery view: which area is affected"/></p>
+
+The Gallery View is different from the other areas in that data **above** or **under** the thumbnails is configured seperately.  The above screenshot shows both the Data Under Thumbs and Data Over Thumbs.  Switch between them using the button under the sample image, then drag data fields from the left.
+
+<p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayout-OverAndAboveThumbs.gif" alt="Data layout settings: setting above and below data"/></p>
 
 
 ### Configuring Shared View
 Sample: adding a field to the data shown under thumbs in the Shared View:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\ui-settings-info-example.gif" alt="Shared View: Drag and drop data layout"/></p>
 
-The page area being configured:
+A Shared View page area example:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\shared-view-interface-screenshot.webp" alt="Shared View: which area is affected"/></p>
 
 ### Configuring Preview Info
 Sample: adding a field to the data shown under thumbs in the Preview View:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\ui-settings-info-example.gif" alt="Preview View: Drag and drop data layout"/></p>
 
-The page area being configured:
+A Preview Info page area example:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\info-interface-screenshot.webp" alt="Preview View: which area is affected"/></p>
 
 ### Configuring Full data view
 Sample: adding a field to the data shown under thumbs in the Full Data panel:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\ui-settings-info-example.gif" alt="Full Data View: Drag and drop data layout"/></p>
 
-The page area being configured:
+A Full Data View page area example:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayouts-PlusWebCopy\full-data-interface-screenshot.webp" alt="Full Data View: which area is affected"/></p>
 
 
@@ -100,7 +105,7 @@ NOTE: Click "How to use and where it will take effect" on any of the configurati
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayout-HowToLink.jpg" alt="Data Layout Setting help on each page"/></p>
 
 ## Restricting which data can be entered by users
-While not obvious, administrators can determine which data can be entered by users, such as volunteers logging in.  This is done by:
+While not obvious, administrators can determine which data can be entered by users, such as volunteer who only enter data for images.  This is done by:
 1. Turning off Full Data View access in their role.
 2. Using Data Layout Settings to determine which data is shown on the data.
 
@@ -109,4 +114,4 @@ In the screenshot below, a volunteer user can edit only keywords, description an
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayout-LimitedDataEntry.jpg" alt="Data Layout Setting help on each page"/></p>
 
 ### Sharing Note
-After Sharing images, if the data layout setting is changed, the new layout is what the user will see (not the data layout when the images were shared).  Any data that has changed since the share was created will also be seen.
+If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).
