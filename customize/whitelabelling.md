@@ -37,4 +37,4 @@ The default values are:</p>
 <p>After changing tab text, stop and restart the IIS website.</p>
 
 ## Related
-<a href="https://dbgallery.com/dns-subdomain">Your own URL</a>
+<a href="/dns-subdomain">Your own URL</a>

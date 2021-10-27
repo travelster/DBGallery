@@ -40,6 +40,6 @@ When the link is clicked the following would appear.
 ## Changes after Sharing
 After an image is shared, several things can change regarding what the user will see.
 
-- Data Layout: If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown for shared images.
-- Image Data: Any data which has changed since the share was created will be seen by those opening the share link.
-- The image itself: If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared, and hence the one viewed by share link recipients, can be replaced by adding a new version.  See <a href="/versioning">Version Control</a> for how a new version may be uploaded.
+- **Data Layout:** If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown for shared images.
+- **Image Data:** Any data which has changed since the share was created will be seen by those opening the share link.
+- **The image itself:** If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared, and hence the one viewed by share link recipients, can be replaced by adding a new version.  See <a href="/versioning">Version Control</a> for how a new version may be uploaded.
