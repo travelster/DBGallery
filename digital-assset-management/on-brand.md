@@ -2,7 +2,7 @@
 layout: default
 title: On-brand *
 permalink: /on-brand
-parent: Digital Asset Management
+parent: xDigital Asset Management
 grand_parent: DBGallery
 ---
 
