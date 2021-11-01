@@ -12,7 +12,7 @@ There are scenarios where some users should not have access to image assets whic
 
 <p >
 Marriam-webster defines <b>on-brand</b> as:
-	"appropriate to, typical of, consistent with, or supportive of a particular brand or public image or identity"  (<a href="https://www.merriam-webster.com/dictionary/on-brand">https://www.merriam-webster.com/dictionary/on-brand</a>)
+	"appropriate to, typical of, consistent with, or supportive of a particular brand or public image or identity"  (<a href="https://www.merriam-webster.com/dictionary/on-brand" target="_blank">https://www.merriam-webster.com/dictionary/on-brand</a>)
 </p>
 
 ## How on-brand works
