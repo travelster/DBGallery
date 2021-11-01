@@ -4,7 +4,7 @@ title: Data Layout Settings
 permalink: /datalayoutsettings
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 1
+nav_order: 2
 ---
 
 # Data Layout Settings

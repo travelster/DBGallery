@@ -4,7 +4,7 @@ title: Grid View - Excel-like Data Entry Grid
 permalink: /grid-view
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 2
+nav_order: 3
 ---
 
 # Grid View: Excel-like Data Entry Grid
