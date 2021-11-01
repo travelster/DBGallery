@@ -10,10 +10,10 @@ grand_parent: DBGallery
 
 There are scenarios where some users should not have access to image assets which are not deemed to be on-brand.  Examples can include out-dated images, or those in draft by the creative department.  In both cases they should not be available to some groups of users.
 
-<p >
-Marriam-webster defines <b>on-brand</b> as:
-	"appropriate to, typical of, consistent with, or supportive of a particular brand or public image or identity"  (<a href="https://www.merriam-webster.com/dictionary/on-brand" target="_blank">https://www.merriam-webster.com/dictionary/on-brand</a>)
-</p>
+Merriam-webster defines <b>on-brand</b> as:
+
+"appropriate to, typical of, consistent with, or supportive of a particular brand or public image or identity" (<a href="https://www.merriam-webster.com/dictionary/on-brand" target="_blank">https://www.merriam-webster.com/dictionary/on-brand</a>)
+{: .px-6 }
 
 ## How on-brand works
 When the on-brand feature is turned on (covered in the configuration section below), general users are unable to see images not flagged as on-brand (see the orange On-Brand toggle button below).  All search results for them will exclude images not on-brand.  When simply browsing around DBGallery in any way (searches, folders, collections, or data views), those images will be excluded.
