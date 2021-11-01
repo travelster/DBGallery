@@ -10,11 +10,10 @@ grand_parent: DBGallery
 
 Intellectual property (IP) licensing will be important if your company utilizes licensed digital assets.  
 
-
-DBGallery allows for:
-- Setting the date an asset expires (typically when a license agreement expires)
-- Pointing to a license agreement document
-- Making license/expiry notes 
+DBGallery supports IP licensing by:
+- **Setting the date an asset expires** (typically when a license agreement expires)
+- **Pointing to a license agreement document**
+- **Making license/expiry notes**
 
 Each of these are shown within the red box:
 
