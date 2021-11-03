@@ -57,7 +57,9 @@ On-brand can be renamed in Tools | Preferences:
 
 Clients reported that this handy field/feature had uses beyond just branding, where calling it something else can be quite useful.  This is because of the way images with this attribute turned off can be hidden from specific roles.  For example:
 
-A rename could essentially provide new functionality:  "External Access".  In this case, if any client roles that didn't have the "Can see off-brand files" set would not be able to see those images.
+A rename could essentially provide new functionality:  
+- "External Access".  In this case, if any client roles that didn't have the "Can see off-brand files" set would not be able to see those images.
+- "Approved".  With this example, only images which are approved would be visible to those without special access ("Can see off-brand files").
 
 Of course the rename could be something as simple changing it to OnBrand.  
 

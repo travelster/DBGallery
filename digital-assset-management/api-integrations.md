@@ -4,6 +4,7 @@ title: API and other Integrations
 permalink: /api-integrations
 parent: Digital Asset Management
 grand_parent: DBGallery
+nav_order: 1
 ---
 
 # API and other Integrations
@@ -16,7 +17,7 @@ DBGallery integrates with other systems in the following ways:
     <br/>
     <li><b>Site to site.</b>
     Integrate by providing login and guest access to DBGallery using a subdomain of your website (e.g. photo.yourcompany.com).  
-    DBGallery becomes a full-featured image viewing, searching, and management service that appears to be running from your website...with negligable effort on your web developers part!  
+    DBGallery becomes a full-featured image viewing, searching, and management service that appears to be running from your website...with negligable effort on your web developers part!  This integration works well for WordPress and Drupal sites, as examples.
     <br/><br/>
     A Scenario: Your site has paying members in which each member has their own portfolio of images. Birdwatchers or Equine photographer groups, for example.  
     When one of the visitors to those sites presses a member's Photo Portfolio button it takes that visitor directly to the member's portfolio 
