@@ -17,7 +17,11 @@ Add files by dragging and dropping them onto the Upload window.  Alternatively, 
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-DnD.png" alt="Uploading Drag and Drop Files"/></p>
 
-**Note:** Entire folders may be added.  Any sub-folders and their images will be included.  The folder structure will be reflected within DBGallery.
+**Things to know about uploading:**
+
+- **Entire folders may be added.**  Any sub-folders and their images will be included.  The folder structure will be reflected within DBGallery.
+- **Any file type may be added.**
+- **Files may be of any size.**  (The maximum file size is limited only by available storage.)
 
 Be sure to select Automatically Recognize Objects and Duplicates Detection if appropriate (they usually are). Recognizing objects will automatically tag common items found in photos.  Those two options are found by pressing 'Advanced settings' just under the Upload button (and are shown in the screenshot below the next one).
 
