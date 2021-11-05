@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Did you know...
+title: Did you know? (Fun Facts)
 permalink: /dyk
 parent: Other Topics
 grand_parent: DBGallery
