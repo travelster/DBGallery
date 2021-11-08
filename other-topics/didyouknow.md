@@ -6,7 +6,7 @@ parent: Other Topics
 grand_parent: DBGallery
 ---
 
-# Did You Know...
+# Did You Know?
 
 There are cool, interesting and useful features and capabilities in DBGallery that aren't always obvious or well known.  Did you know...
 

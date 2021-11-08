@@ -25,6 +25,7 @@ Version control in DBGallery allows multiple versions of the same file to be sto
 **Covered here:**
 - Where versions are found
 - Uploading a new version
+- Side-by-side version review
 - Downloading previous versions
 - Make a previous version the latest
 - Data versions
@@ -34,8 +35,6 @@ Version control in DBGallery allows multiple versions of the same file to be sto
 Shows below are two versions of a photo: the latest one on the left has had an annotation added.  When viewing any image, press the VERSIONS panel button just to the right of the top center to get here.
 
 ![Where versions are found](/assets/Versions-Side-by-Side.jpg){: .ml-8}
-
-NOTE: Versioning works with any file type.  The side-by-side view shown above will work only with photo and other photo-like formats such as Photoshop and Vector files (any files listed as Level 1 and Level 2 in the Photos section of <a href="https://dbgallery.com/file-formats">File Formats Supported page.</a>
 
 ## Uploading a new version
 
@@ -48,6 +47,13 @@ There are two ways to upload a new version.  The first one being the most common
 2) When on the generic upload dialog, if that same filename exists in the folder being uploaded to, the user is presented with the option to create a new version.  There may be multiple "Create a new version" buttons, as shown below.  The top one allows the option to be chosen for all files.
 
 ![Uploading a new version from the upload dialog](/assets/Versions-CreateNewVersion-UploadWindow.jpg){: .ml-8}
+
+## Side-by-side version review
+Comparing uploaded versions of photo file provides a means of doing a detailed comparision.  When in the Versions panel, click any image version to compare it with the latest.
+
+While versioning works with any file type, the side-by-side view shown below will work only with photo and other photo-like formats such as Photoshop and Vector files (any files listed as Level 1 and Level 2 in the Photos section of <a href="https://dbgallery.com/file-formats">File Formats Supported page.)</a>
+
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=92677&public=ffb7f74dcece45f3bac7cd387b8b7016&607545244" width="100%" alt="Size-by-side version comparison"/></p>
 
 ## Downloading previous versions
 Any previous version may be downloaded by pressing the three dots to the right of that version.  
