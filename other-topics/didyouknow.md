@@ -10,7 +10,7 @@ grand_parent: DBGallery
 
 There are cool, interesting and useful features and capabilities in DBGallery that aren't always obvious or well known.  Did you know...
 
-- You can upload huge files? We've tested with many gigabytes but the limit is diskspace.
+- You can upload huge files? We've tested with many gigabytes but the limit is storage space.
 
 - Files can be of any type. Office files. CAD, 3D. Anything.   
 
