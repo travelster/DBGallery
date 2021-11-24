@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Action Notifications (Slideshow)
-permalink: /action-notifircations
+permalink: /action-notifications
 parent: Team Features
 grand_parent: DBGallery
 ---
