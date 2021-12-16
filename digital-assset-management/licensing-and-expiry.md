@@ -4,6 +4,7 @@ title: Licensing and Expiry
 permalink: /licensing
 parent: Digital Asset Management
 grand_parent: DBGallery
+nav_order: 10
 ---
 
 # Licensing and Expiry (IP)

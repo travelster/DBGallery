@@ -4,6 +4,7 @@ title: Action Notifications (Slideshow)
 permalink: /action-notifications
 parent: Team Features
 grand_parent: DBGallery
+nav_order: 10
 ---
 
 # Action Notifications

@@ -4,6 +4,7 @@ title: Workflow
 permalink: /workflow
 parent: Team Features
 grand_parent: DBGallery
+nav_order: 40
 ---
 
 # Workflow

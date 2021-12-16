@@ -4,6 +4,7 @@ title: User and Role Management (Slideshow)
 permalink: /user-mgmt
 parent: Team Features
 grand_parent: DBGallery
+nav_order: 30
 ---
 
 # User and Role Management

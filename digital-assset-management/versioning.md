@@ -4,7 +4,7 @@ title: Version Control
 permalink: /versioning
 parent: Digital Asset Management
 grand_parent: DBGallery
-nav_order: 2
+nav_order: 30
 ---
 
 # Version Control

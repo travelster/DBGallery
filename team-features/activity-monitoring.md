@@ -4,6 +4,7 @@ title: Activity Monitoring
 permalink: /activity-monitoring
 parent: Team Features
 grand_parent: DBGallery
+nav_order: 20
 ---
 
 # Activity Monitoring

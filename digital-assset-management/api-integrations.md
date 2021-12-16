@@ -4,7 +4,7 @@ title: API and other Integrations
 permalink: /api-integrations
 parent: Digital Asset Management
 grand_parent: DBGallery
-nav_order: 1
+nav_order: 40
 ---
 
 # API and other Integrations
