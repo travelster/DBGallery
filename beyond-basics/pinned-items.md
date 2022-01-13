@@ -14,7 +14,7 @@ This feature enables pinning Folders and Collections to the quick access section
 - Building image/document Collections for a project and there is a need to move between specific folders and Collections many times while building that Collection or Collections. A good example: you’re building out all the images and documents for a new marketing campaign. You create a Collection called “Feb 2022” and pin it so it’s available to drop images on until that campaign has all the images needed. (Note: While the items pinned is visible only in your quick access area above the folders tree, the Collection itself can be visible to your team.)
 - There is a folder or Collection you go to very often.
 - Because they're very easy to pin and unpin, if you're working in a given folder or two for the day, pin it so it's there all day.
-- They help remember the areas recently worked in.
+- They help recall which areas were recently worked in.
 
 ## In Action
 Shown in this short animation:
