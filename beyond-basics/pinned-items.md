@@ -8,7 +8,7 @@ grand_parent: DBGallery
 
 # Pinned Items
 
-This feature enables pinning Folders and Collections to the quick access section directly above the folders list. A pinned item is essentially the same as that item. For example, dropping a thumbnail onto a pinned folder is the same dropping it onto that folder in the tree. Pin folders and Collections you are currently working with, or those that you use frequently, to avoid scrolling up and down the folder and Collection tree.
+Pin Folders and Collections to the quick access section directly above the folders list.  Having them there is same as having the Folder or Collection there but in that static area and easily accessible to: drag and drop items to, click to view its contents, or click the direction icon to go directly to that Folder or Collection in the tree.  Super convenient and comes in very handy for frequently used Folders and Collections, especially when working with large folder tree structures. 
 
 ## Pinned items are especially useful when:
 - Building image/document Collections for a project and there is a need to move between specific folders and Collections many times while building that Collection or Collections. A good example: you’re building out all the images and documents for a new marketing campaign. You create a Collection called “Feb 2022” and pin it so it’s available to drop images on until that campaign has all the images needed. (Note: While the items pinned is visible only in your quick access area above the folders tree, the Collection itself can be visible to your team.)
