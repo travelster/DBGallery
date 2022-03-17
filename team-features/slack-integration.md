@@ -54,7 +54,7 @@ To share or view images from the search results there are 4 courses of action (f
 3. **Open this file in the browser**: Show just that one file in Preview mode in DBGallery in the default web browser.
 4. **Show 54 results in DBGallery**: Show the full search result in DBGallery in the default web browser.
 
-**Save to my app**:
+After using **Save to my app** share to others on Slack by going to the App then pressing the Share button, as shown here:
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Slack-SaveToMyApp.png" width="80%" alt="Slack Integration: Save to my App"/></p>
 
