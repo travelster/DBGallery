@@ -48,5 +48,3 @@ DBGallery integrates with other systems in the following ways:
     </li>
 </ol>
 <p>These options are limited to Enterprise subscriptions and on-prem versions only.</p>
-
-
