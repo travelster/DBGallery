@@ -4,7 +4,7 @@ title: Recommended Tagging Practices
 permalink: /recommended-tagging
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 6
+nav_order: 60
 ---
 
 # Recommended Keyword Practices

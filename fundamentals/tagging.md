@@ -4,7 +4,7 @@ title: Tagging
 permalink: /tagging
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 5
+nav_order: 50
 ---
 
 # Tagging

@@ -4,7 +4,7 @@ title: Downloading
 permalink: /downloading
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 2
+nav_order: 20
 ---
 
 # Downloading

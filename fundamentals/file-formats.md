@@ -4,6 +4,7 @@ title: Supported File Formats
 permalink: /file-formats
 parent: Fundamentals
 grand_parent: DBGallery
+nav_order: 33
 ---
 
 # Supported File Formats

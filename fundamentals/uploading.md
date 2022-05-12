@@ -4,7 +4,7 @@ title: Uploading
 permalink: /uploading
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 3
+nav_order: 30
 ---
 
 # Uploading

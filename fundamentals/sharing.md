@@ -4,7 +4,7 @@ title: Sharing
 permalink: /sharing
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 4
+nav_order: 40
 ---
 
 # Sharing

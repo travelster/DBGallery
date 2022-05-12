@@ -4,7 +4,7 @@ title: Folder and File Operations
 permalink: /folder-operations
 parent: Fundamentals
 grand_parent: DBGallery
-nav_order: 8
+nav_order: 80
 ---
 
 # Folder and File Operations
