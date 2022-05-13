@@ -9,7 +9,7 @@ nav_order: 90
 
 # Duplicates Detection
 
-DBGallery detects duplicates as they are uploaded but can check for them across the entire collection.
+DBGallery detects duplicates as they are uploaded and can also check for them across the entire collection.
 
 ## Detection during Upload
 The most appropiate place to check is when they're being added to the system.&nbsp; There is a checkbox in its upload dialog which everyone should use: Detect Duplicates.&nbsp; When duplicates are detected the upload page lights up a "Resolve Duplicates" button (Figures 1), which leads to a "Resolve Duplicates" page (Figure 2 below).
