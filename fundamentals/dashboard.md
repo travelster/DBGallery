@@ -3,7 +3,7 @@ layout: default
 title: The Dashboard
 permalink: /dashboard
 parent: Fundamentals
-grand_parent: DBGallery Knowledge Base
+grand_parent: DBGallery
 nav_order: 70
 ---
 
