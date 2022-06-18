@@ -28,7 +28,7 @@ For these scenarios there is a Global Duplicates Check. It is found in the Tools
 There is an option to ignore a group of duplicates when in rare case they're valid or need to be kept around while it's decided what the initial creator wants to do with them.  Press "Hide from dup searches" and they will not appear in subsequent duplicates searches.  These can be viewed in the future by ticking the "Show those set as hidden from duplicates searches" checkbox in the upper right corner.
 
 
-<p style="padding-left: 5%;"><img style="border: 1px solid black;" src="https://cdn.dbgallery.cloud/Download.aspx?id=142884&amp;public=1d7b23fb41524937882d586f9ed7a39b&amp;633751934" /></p>
+<p style="padding-left: 5%;"><img style="border: 1px solid black;" src="https://cdn.dbgallery.cloud/Download.aspx?id=142884&public=b26a9e425e6842abacae8a2afd49a7e6&1106663234" /></p>
 <p style="padding-left: 5%;"><strong>Figure 3:</strong> The global duplicates check page.</p>
 
 <hr>
