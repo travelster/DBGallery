@@ -12,9 +12,13 @@ nav_order: 45
 Logging into DBGallery is achieved in one of the following ways:
 - A username and password created in DBGallery
 - Active Directory Integration
-- Coming soon: A May 2022 release will support SSO (single sign-on) and MFA (multi-factor authentication) for both our SaaS and on-prem products.  Additional details will be provided upon its release.
+- Single Sign-on (SSO).
 
+## A username and password created in DBGallery
 Please see our <a href="https://docs.google.com/presentation/d/1zcp2KJ5JI3qDXTSAh6pEzQGyuuB7KpCU662XLYpyrKo/edit#slide=id.g85342cdac2_0_260" target="_blank">User Management</a> slideshow for creating logins within DBGallery.
+
+<p style="margin-left: 5%;"><img src="/assets/ChangeLogo-Login.png" alt="DBGallery Login Page" width="70%"/></p>
+<p style="margin-left: 5%;">A sample login page.</p>
 
 ## Active Directory Integration
 DBGallery’s on-prem web server can be integrated with Microsoft Active Directory (AD).  It is used to provide easy access to DBGallery for existing Active Directory users without requiring each user be added manually in DBGallery.  With AD integration enabled any AD user can login to DBGallery using their windows credentials. Access to DBGallery can be limited to a certain group of users from Active Directory.  Users can be assigned specific roles within DBGallery, where DBGallery-specific permissions can be set.
@@ -45,3 +49,11 @@ A configuration snippet example is shown below, which may already be in the apps
     <add key="LdapPassword1" value="password" />
     <add key="LdapUserRoles1" value="Marketing;Sales"/>
     <add key="LdapGroup1" value="DbGallery Users" />
+
+## Single Sign-on (SSO)
+
+For added convenience and security, companies who currently use single sign-on (SSO) do not need a seperate username and pw to sign into DBGallery. Multi-factor authenication may be a part of that SSO configuration as well.  A compatible SSO service provider and some configuration is required.  DBGallery's support team would work with your company's IT department to configure SSO.  For additional information or to start a SSO configuration conversation, please contact either support or your primary DBGallery contact person.
+
+Also See: Our <a href="/blog-sso" target="_blank">SSO blog</a>.
+
+<p style="margin-left: 25%;"><img src="/assets/SSOlogo.png" alt="Single Sign-on Graphic" width="50%"/></p>

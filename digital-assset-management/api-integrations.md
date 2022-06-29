@@ -13,7 +13,7 @@ DBGallery integrates with other systems in the following ways:
 <ol>
     <li><b>Our REST API</b>
     <br/>
-    Full access to your image collection via a programmable interface.  While company staff may manage your company's digital assets using our web UI, allow your own website or 3rd party applications to fully access it programmatically.  Search and find. Download. Upload.  Add metadata.</li>
+    Full access to your image collection via a programmable interface.  While company staff may manage your company's digital assets using our web UI, allow your own website or 3rd party applications to fully access it programmatically.  Search and find. Download. Upload.  Add metadata.  The place to begin is using our <a href="https://docs.google.com/document/d/1sofEiXO8_bN7BEn_fBYMH8sdti4MPvzNWZfmirp_yrg/edit?usp=sharing">REST API Guide</a>, which is kept in Google Docs.</li>
     <br/>
     <li><b>Site to site.</b>
     Integrate by providing login and guest access to DBGallery using a subdomain of your website (e.g. photo.yourcompany.com).  
