@@ -13,7 +13,7 @@ Uploading always starts by selecting a folder to upload images to.  The folder t
 
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="50%" src="/assets/Upload-FolderTree.gif" alt="Uploading Drag and Drop Files"/></p>
 
-Add files by dragging and dropping them onto the Upload window.  Alternatively, press Add files then select any number of file and press enter.  Shown immediately below, an example addition of files by dropping files onto the upload window from Windows Explorer.
+Add files by dragging and dropping them onto the Upload window.  Alternatively, press Add files then select any number of file and press enter.  Shown immediately below is an example of adding files by dropping an entire folder onto the upload window from Windows Explorer.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-DnD.png" alt="Uploading Drag and Drop Files"/></p>
 
