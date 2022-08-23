@@ -11,7 +11,7 @@ nav_order: 50
 Tagging is one of the most important areas of a digital asset management or image management system.  Therefore this section is rather large.  It begins with the simpler but less efficient tagging of single images, doing so to provide the basics quickly.  Following that, tagging many images at once is covered.
 
 ## Single Images
-The first step in tagging is to select the image thumb.  Once selected, it can be opened in 3 ways: 1) Simply double click that image; 2) Roll the mouse of the thumb and press open; 3) Click on the thumb and press Open from the Actions section of the top menu.
+The first step in tagging is to select the image thumb.  Once selected, it can be opened in 3 ways: 1) Simply double click that image; 2) Roll the mouse over the thumb and press open; 3) Click on the thumb and press Open from the Actions section of the top menu.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Tagging-SelectSingle.jpg" alt="Tagging Select Single Image"/></p>
 
