@@ -46,7 +46,7 @@ By default, previous metadata updates are not shown (only previous image version
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Tagging-VersionTab.jpg" alt="Tagging - Version Tab"/></p>
 
 ## Tagging Multiple Images
-Tagging many images at once is by far the most efficient means to tag images.  
+Tagging many images, or editing their data, at once is by far the most efficient means to tag images.  
 
 Take the zoom-in approach: Select all images which have common attributes, such as all those which match a specific project id, or all those taken during a specific photo shot.  If all are taken by a specific author or are of the same subject type, select all of them and key that data first.  Then zoom into less common factors, such as all those that have a smile in them.  Only then would single images be tagged with attributes speicific to only that one image.
 
