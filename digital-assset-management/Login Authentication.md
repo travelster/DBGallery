@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Authentication (Login)
+title: Authentication (logging in)
 permalink: /authentication
 parent: Digital Asset Management
 grand_parent: DBGallery
