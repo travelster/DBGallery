@@ -128,4 +128,4 @@ There are times when data layouts are changed by an administrator but those chan
 
     <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="55%" src="/assets/DataLayout-ResetToDefault.png" alt="Data Layout Settings - Reset to Default"/></p>
 
-4. If none of these work, please contact DBGallery support.  One way is to use our <a href="https://dbgallery.com/contact" target="blank">Contact Form</a>.
+4. If none of these work, please contact DBGallery support.  One way is to use our <a href="https://dbgallery.com/contact">Contact Form</a>.
