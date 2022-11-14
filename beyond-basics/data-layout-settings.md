@@ -117,7 +117,7 @@ In the screenshot below, a volunteer user can edit only keywords, description an
 If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).
 
 ## Troubleshooting
-There are times when data layouts are changed by an administrator but those changes do not immediately show for other users as intended.  When that occurs try the following:
+There are times when data layouts are changed by an administrator but those changes do not show for other users as intended (after a simple page refresh or that user logs in after the change).  When that occurs try the following:
 1. Be sure to choose Global Layout Settings in the left menu.  They set the default for all users.  If those under "Your account layout settings" were chosen (the section above), they would set data layouts for only you.
 
     <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="35%" src="/assets/DataLayout-GlobalLayoutSettings.png" alt="Data Layout Global Settings"/></p>
