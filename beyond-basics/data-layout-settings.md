@@ -115,3 +115,17 @@ In the screenshot below, a volunteer user can edit only keywords, description an
 
 ### Sharing Note
 If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).
+
+## Trouble Shooting
+There are times when data layouts are changed by an administrator but those changes do not immediately show for other users as intended.  When that occurs try the following:
+1. Be sure to choose Global Layout Settings in the left menu.  They set the default for all users.  If those under "Your account layout settings" were chosen (the section above), they would set data layouts for only you.
+
+    <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="35%" src="/assets/DataLayout-GlobalLayoutSettings.png" alt="Data Layout Global Settings"/></p>
+
+2. Refresh the other user's browser because sometimes it won't automatically pick up changes. If that doesn't work, use in Incognito window in Chrome (InPrivate in Edge,, Private Browsing in Safari) and login as that user again.  This will ensure the cache isn't being used.  If the new settings are shown in Incongito mode but not the normal mode then it is a cache refresh problem, where clearing the users browser cache should resolve it.
+
+3. Users can set their own data layout setttings so it might be those you're seeing.  To set a users' data layout to the global default, press Reset to Default on their layout settings page.  This would immediately set their layouts to those which were set under Global Layout Settings.
+
+    <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="55%" src="/assets/DataLayout-ResetToDefault.png" alt="Data Layout Settings - Reset to Default"/></p>
+
+4. If none of these work, please contact DBGallery support.  One way is to use our <a href="https://dbgallery.com/contact" target="blank">Contact Form</a>.
