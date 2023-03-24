@@ -2,7 +2,7 @@
 layout: default
 title: UI and Functionality Customizations
 permalink: /customizations
-parent: Tayloring DBGallery
+parent: Tailoring DBGallery
 grand_parent: DBGallery
 nav_order: 10
 ---

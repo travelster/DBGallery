@@ -2,7 +2,7 @@
 layout: default
 title: White Labelling
 permalink: /white-labelling
-parent: Tayloring DBGallery
+parent: Tailoring DBGallery
 grand_parent: DBGallery
 nav_order: 2
 ---

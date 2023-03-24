@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tayloring DBGallery
+title: Tailoring DBGallery
 has_children: true
 permalink: /customize
 parent: DBGallery
