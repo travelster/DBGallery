@@ -7,7 +7,7 @@ parent: DBGallery
 nav_order: 5
 ---
 
-# Taylor DBGallery to fit your company
+# Tailor DBGallery to fit your company
 
 Advanced features beyond image and file management
 {: .fs-6 .fw-300 }
