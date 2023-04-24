@@ -22,17 +22,13 @@ DBGallery's audit trail, aka activity monitoring, capabilities are extensive.  T
 <hr>
 **1) The audit trail page**
 
-Access the audit log through the main menu's Tools / Audit trail.  From here, search by date, user and activity type.  Each are shown below. 
+Access the audit log through the main menu's Tools / Audit trail.  From here, search by date, user and activity type.
 
-Search by date with no results shown:
+An audit trail can be for all or specific types of events, such as data edits, or a shared links having been open.  Use the Type dropdown to select the activity to search for.  Shown in the next screenshot are Downloads for all users for the Januar 24 to April 25, 2023.  NOTE: While only 10 results are displayed at a time, the total count of results is shown immediately below the Search button.  With the count of results, the audit trail results can be used as a usage report of sorts.
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87484&public=f68700c18564409f80a0b42c0f99228d&303232858" alt="Audit by Downloads"/></p>
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87485&public=f68700c18564409f80a0b42c0f99228d&303232858" alt="Audit trail"/></p>
-
-An audit trail for a specific user:  
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87484&public=f68700c18564409f80a0b42c0f99228d&303232858" alt="Audit by User"/></p>
-
-An audit trail for specific types of events.  Such as delete, or a shared links having been open.  Use the Type dropdown to select the activity search for.
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87483&public=f68700c18564409f80a0b42c0f99228d&541239013" alt="Audit by Operations"/></p>
+An audit trail for a specific user for July 2021 and showing the Type dropdown list (any portion of a user name can be entered):
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87483&public=f68700c18564409f80a0b42c0f99228d&541239013" alt="Audit by User"/></p>
 
 <hr>
 **2) The Versions tab of image preview: An audit trail for a specific image.**
