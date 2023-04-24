@@ -17,12 +17,17 @@ The Dashboard provides:
 - Overall statistics.
 - Live links, such as those in 'Recent active folder'.  These are live links to immediately return to where you left off.  Click 'Most active users' to see activity for that user, or 'Most used keywords' to view those with that keyword.  (Note: Not all widgets are shown in the screenshot below, but can be added to the dashboard in the configure section.)
 
+**TIP**: To view who may have performed recent activity such as Recently Updated Data, go to Tools | Audit Trail and select Upload Images from the Type dropdown.
+
 Configuration Options, accessible by selecting one of the three buttons in top-right of the dashboard:
 - Button 1: Toggle whether the dashboard automatically appears upon login.
 - Button 2: Configure your dashboard, choosing which widgets are shown where (see the section by that name below).
 - Button 3: Choose the background photo. Good for changing up the look now and again.
 
 To get to the dashboard, use the Dashboard button in the top-right corner of the main DBGallery page (or set it to automatically appear upon login). 
+
+NOTE: Most of the the dashboard widgets that are counts of recent activity, such as Recently Added, Recently Uploaded, etc., are 
+read from the audit trail.  For deeper details of that activity, go to the Tools | Audit Trail and choose that specific activity from the Type dropdown.  See <a href="https://dbgallery.com/activity-monitoring">Activity Monitoring</a> to learn more.
 
 ## Configure your dashboard
 The widgets that are shown are configurable via a drag and drop interface, allowing the setting of size and position within the dashboard.  
@@ -33,5 +38,5 @@ The widgets that are shown are configurable via a drag and drop interface, allow
 
 Configuration changes to the dashboard are made to your dashboard only and will not affect other users of the system.
 
-**Administrator Note**: To change the default dashboard layout, use Tools - Data Layout Setting from the main menu, then choose Dashboard under 'Global layout setting'.
+**Administrator Note**: To change the default dashboard layout for all users, use Tools - Data Layout Setting from the main menu, then choose Dashboard under 'Global layout setting'.
 
