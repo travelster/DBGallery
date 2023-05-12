@@ -24,7 +24,10 @@ DBGallery's audit trail, aka activity monitoring, capabilities are extensive.  T
 
 Access the audit log through the main menu's Tools / Audit trail.  From here, search by date, user and activity type.
 
-An audit trail can be for all or specific types of events, such as data edits, or a shared links having been open.  Use the Type dropdown to select the activity to search for.  Shown in the next screenshot are Downloads for all users for the Januar 24 to April 25, 2023.  NOTE: While only 10 results are displayed at a time, the total count of results is shown immediately below the Search button.  With the count of results, the audit trail results can be used as a usage report of sorts.
+An audit trail can be for all or specific types of events, such as data edits, or a shared links having been open.  Use the Type dropdown to select the activity to search for.  Shown in the next screenshot are Downloads for all users for the January 24 to April 25, 2023. While only 10 results are displayed at a time, the total count of results is shown immediately below the Search button.  With the count of results, the audit trail results can be used as a usage report of sorts.
+
+NOTE: The audit results count may not always match counts on the dashboard.  For example, Date Edit results count here on the audit trail will show a count of 2 if an image has had two updates today, whereas the Dashboard's Recently Updated Images will show only 1 since only 1 image was edited.
+
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87484&public=f68700c18564409f80a0b42c0f99228d&303232858" alt="Audit by Downloads"/></p>
 
 An audit trail for a specific user for July 2021 and showing the Type dropdown list (any portion of a user name can be entered):
