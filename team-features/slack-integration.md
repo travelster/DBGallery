@@ -12,9 +12,9 @@ nav_order: 50
 DBGallery integrates with Slack to let users search across their entire asset collection directly from Slack.  Results may then be shared to channels or direct messaged to your Slack contacts.  It's very convenient for teams which use Slack regularly.  Here we explain usage in detail with examples on how to use it. | <img src="/assets/Slack-DBGalleryIntegration.png" alt="DBGallery - Slack Integration"/>
 
 ## Where to get the app
-DBGallery may be downloaded from the <a href="https://dbgallery.slack.com/apps/A02MCEC1UMQ-dbgallery">Slack App Directory</a>, or directly from our site at our <a href="https://cloud.dbgallery.com/slack">Slack integration page</a>.
+DBGallery may be downloaded from the <a href="https://dbgallery.slack.com/apps/A02MCEC1UMQ-dbgallery">Slack App Directory</a>, or directly from our site at our <a href="https://dbgallery.cloud/slack">Slack integration page</a>.
 
-**NOTE:** A direct install works when you have an account at **cloud.dbgallery.com**.  If using our on-prem server or you are a cloud Enterprise client using your own domain name, please contact DBGallery support for the required config settings.
+**NOTE:** A direct install works when you have an account at **dbgallery.cloud**.  If using our on-prem server or you are a cloud Enterprise client using your own domain name, please contact DBGallery support for the required config settings.
 
 ## Usage
 As with other Slack apps, use / to begin a command.  All DBGallery commands begin with /dbgallery, so just typing /dbg and pressing enter is a good way to begin.  
