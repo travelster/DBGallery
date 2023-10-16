@@ -4,7 +4,7 @@ logo: "/assets/logo-darklines.png"
 favicon: "/favicon.ico"
 search_enabled: true
 search_label: DBGallery Knowledge Base
-ga_tracking: UA-2678039-1
+ga_tracking: 288035619
 toc:
   min_level: 3
   max_level: 6
