@@ -33,7 +33,7 @@ When GPS stamps don't already exist in the image, set the location when editing 
 ![Maps View Set Location](/assets/MapsView-SetLocation.png){: width="90%" .ml-8}
 
 ## Reverse Geocoding  
-Street address data is automatically added using <a href="https://en.wikipedia.org/wiki/Reverse_geocoding" target="_blank">reverse geocoding</a> anytime an image is uploaded or a new location is set on an image within DBGallery.  This info includes street name and number, city and country.
+The street address data is automatically added using <a href="https://en.wikipedia.org/wiki/Reverse_geocoding" target="_blank">reverse geocoding</a> anytime an image is uploaded or a new location is set on an image within DBGallery.  This info includes street name and number, city and country.
 
 ![Maps View Reverse GeoCoding](/assets/MapsView-ReverseGeocoding.png){: width="75%" .ml-8}
 
