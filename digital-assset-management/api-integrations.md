@@ -48,4 +48,8 @@ DBGallery integrates with other systems in the following ways:
     <br/>
     </li>
 </ol>
-<p>These options are limited to Enterprise subscriptions and on-prem versions only.</p>
+
+<b>Third-party Systems Help</b>
+<p>Need to integrate with a third-party system? We're here to help, whether it's a simple connection or a complex integration. Our extensive experience integrating with various systems allows us to tackle any challenge,  
+whether using third-party integration options or those mentioned above. We work efficiently and cost-effectively, ensuring a smooth and successful integration process.  
+Contact <a href="mailto:support@dbgallery.com?subject=Integration%20Assistence">support@dbgallery.com</a> or use our <a href="https://dbgallery.com/contact">contact page</a> to leave us a message.</p>
