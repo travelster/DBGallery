@@ -2,7 +2,7 @@
 layout: default
 title: Custom Fields
 permalink: /custom-fields
-parent: Tailoring DBGallery
+parent: Beyond Basics
 grand_parent: DBGallery
 nav_order: 1
 ---
@@ -66,6 +66,17 @@ Field names and descriptions can be changed at anytime.  When changed, those cha
 ## Showing custom fields across DBGallery pages
 The next step is to place the fields on the DBGallery pages where it would be convenient to see that data.  By default, custom fields are shown only in the Preview page's Full Data view, which is rather hidden and out of the way.  Usually these fields would at a minimum be added to the Preview's Info tab.  Very often they're added under each thumb and in the Shared view that a client would see.   This is done fairly easily, see <a href="/datalayoutsettings" target="_blank">Data Layout Settings</a> for exactly how to do that.
 
-<!--Please see our <a href="https://docs.google.com/presentation/d/1-fM1YyNQt5tcddxngUYA_U-hSEoXKkaVklvI2fHoCSg/edit?usp=sharing" target="_blank">Custom Fields</a> slideshow tutorial for how to use them. -->
+<!-- Please see our <a href="https://docs.google.com/presentation/d/1-fM1YyNQt5tcddxngUYA_U-hSEoXKkaVklvI2fHoCSg/edit?usp=sharing" target="_blank">Custom Fields</a> slideshow tutorial for how to use them. -->
+
+## FAQs
+**Q:** Is there a limit to the number of custom fields which can be added? <br>
+**A:** No.  But do keep in mind that having hundreds of custom fields can have an impact on system performance.
+
+**Q:** When adding new custom fields, where are they displayed? <br>
+**A:** By default they appear only in the Full Data tab when previewing an image.  To add them to other areas of the system, use Data Layout Settings. 
+
+**Q:** Are custom data fields stored in the image files along with other metadata such as IPTC and EXIF information? <br>
+**A:** No.  These fields are stored in the database only.  The reason for this is there is no metadata standard for custom fields.  That data could be added there but no other program or website would understand how to read it.
+
 
 ![Learning Grapic](/assets/undraw_Online_learning.png)

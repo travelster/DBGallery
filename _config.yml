@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/logo-darklines.png"
 favicon: "/favicon.ico"
-search_enabled: true
+search_enabled: false
 search_label: DBGallery Knowledge Base
 ga_tracking: 288035619
 toc:

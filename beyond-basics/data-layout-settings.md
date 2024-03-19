@@ -4,19 +4,21 @@ title: Data Layout Settings
 permalink: /datalayoutsettings
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 2
+nav_order: 3
 ---
 
 # Data Layout Settings
 
-Which metadata is viewed shown across various pages within the system can be of crucial importance.  If not crucial, determining which data is shown, and where, can add significant convenience and value to the system and its image collection. 
+Which metadata is viewed shown across various pages within the system can be of crucial importance.  Even when not critical, determining which data is shown, and where, can add significant convenience and value to the system and its image collection.
 
-Following are a couple examples of changes to data being displayed.
+All DBGallery metadata fields can be arranged using these data layout settings, including custom fields.
 
-Data layout differences under thumbnails in the main Gallery View:
+Following are a couple examples of changes to data being displayed:
+
+1) Data layout differences under thumbnails in the main Gallery View:
 <p style="margin-left: 15%;"><img style="border: 1px solid purple;" width="80%" src="/assets/DataLayout-UnderThumbs.jpg" alt="Configuring data under thumbs"/></p>
 
-Different data shown to those opening shared images:
+2) Different data shown to those opening shared images:
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="100%" src="/assets/DataLayout-SharedView.jpg" alt="Configuring data in the shared view"/></p>
 
 ## Which pages can have data layouts configured
