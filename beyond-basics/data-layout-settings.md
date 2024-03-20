@@ -9,9 +9,9 @@ nav_order: 3
 
 # Data Layout Settings
 
-Which metadata is viewed shown across various pages within the system can be of crucial importance.  Even when not critical, determining which data is shown, and where, can add significant convenience and value to the system and its image collection.
+Which data is viewed shown across various pages within the system can be of crucial importance.  Even when not critical, determining which data is shown, and where, can add significant convenience and value to the system and its image collection.
 
-All DBGallery metadata fields can be arranged using these data layout settings, including custom fields.
+All DBGallery data fields can be arranged using these data layout settings, including custom fields.
 
 Following are a couple examples of changes to data being displayed:
 
@@ -20,6 +20,10 @@ Following are a couple examples of changes to data being displayed:
 
 2) Different data shown to those opening shared images:
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="100%" src="/assets/DataLayout-SharedView.jpg" alt="Configuring data in the shared view"/></p>
+
+## Getting there
+Access data layout settings from the Tools menu:
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="100%" src="/assets/DataLayout-ToolsMenu.png" alt="Data layout setting menu"/></p>
 
 ## Which pages can have data layouts configured
 Data layout settings can be customized for all those listed in the Data Layout Setting left sidebar:
