@@ -4,15 +4,14 @@ title: Custom Fields
 permalink: /custom-fields
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 1
+nav_order: 2
 ---
 
 # Custom Fields
 
-## Intro
-Custom fields extend search and data display capabilities by defining data fields specific to an industry or organization.  
+Custom fields extend search and data display capabilities by defining additional data fields specific to an industry or organization within DBGallery.  
 
-They are used for data entry and their data is included in all searches.  You choose where this data is shown on various pages across DBGallery by using DBGallery's Data Layout settings.  Where the data can be placed includes under or above thumbs in the main gallery view, the Info tab when viewing an image, and the data tab seen by those who images are shared to.  By default they appear only in the Full Data tab of image preview.
+They are used for data entry and their data is included in all searches.  You choose where this data is shown on various pages across DBGallery by using its Data Layout settings.  Where the data can be placed includes under or above thumbs in the main gallery view, the Info tab when viewing an image, and the data tab seen by those who images are shared to.  By default they appear only in the Full Data tab of image preview.
 
 ## Defining Custom Fields
 
@@ -64,7 +63,7 @@ Change the ordering of custom fields displayed by dragging and dropping the squa
 Field names and descriptions can be changed at anytime.  When changed, those changes are reflected throughout the system.  (The system uses generated database keys rather than the names of fields to identify them in the database, so it’s perfectly safe to change the names.)
 
 ## Showing custom fields across DBGallery pages
-The next step is to place the fields on the DBGallery pages where it would be convenient to see that data.  By default, custom fields are shown only in the Preview page's Full Data view, which is rather hidden and out of the way.  Usually these fields would at a minimum be added to the Preview's Info tab.  Very often they're added under each thumb and in the Shared view that a client would see.   This is done fairly easily, see <a href="/datalayoutsettings" target="_blank">Data Layout Settings</a> for exactly how to do that.
+The next step is to place the fields on the appropriate DBGallery pages.  By default, custom fields are shown only in the Preview page's Full Data view, which is rather hidden and out of the way.  Usually these fields would, at a minimum, be added to the Preview's Info tab.  Very often they're added under the main gallery view's thumbs and in the Shared view that a client might see.   This is done fairly easily using the <a href="/datalayoutsettings" target="_blank">Data Layout Settings</a> tool.
 
 <!-- Please see our <a href="https://docs.google.com/presentation/d/1-fM1YyNQt5tcddxngUYA_U-hSEoXKkaVklvI2fHoCSg/edit?usp=sharing" target="_blank">Custom Fields</a> slideshow tutorial for how to use them. -->
 
