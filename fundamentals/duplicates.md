@@ -37,3 +37,9 @@ There is an option to ignore a group of duplicates when in rare case they're val
 
 <hr>
 <strong>Also See:</strong> Our <a href="https://dbgallery.com/avoid-duplicates">Avoiding Duplicate Images</a> blog post, which includes how to avoid the need to have duplicates in an image collection.
+
+**See Also**
+<ul>
+<li><a href="https://docs.dbgallery.com/related-images/" target="_blank">Related Images (Also known as Find Similar)</a>
+</li>
+</ul>
