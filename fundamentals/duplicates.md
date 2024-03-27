@@ -40,6 +40,6 @@ There is an option to ignore a group of duplicates when in rare case they're val
 
 **See Also**
 <ul>
-<li><a href="https://docs.dbgallery.com/related-images/" target="_blank">Related Images (Also known as Find Similar)</a>
+<li><a href="https://docs.dbgallery.com/related-images" target="_blank">Related Images (Also known as Find Similar)</a>
 </li>
 </ul>

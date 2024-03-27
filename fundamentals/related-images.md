@@ -41,6 +41,6 @@ Photos can be opened from there by clicking the view button which appears of the
 
 **See Also**
 <ul>
-<li><a href="https://docs.dbgallery.com/duplicates-detection/" target="_blank">Duplicates Detection</a>
+<li><a href="https://docs.dbgallery.com/duplicates-detection" target="_blank">Duplicates Detection</a>
 </li>
 </ul>
