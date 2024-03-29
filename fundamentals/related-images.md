@@ -17,7 +17,7 @@ Please note: Not all DBGallery systems have this feature enabled.  Contact your 
 
 There are the categories of related images:
 
-1) **Visually similar:** Uses an algorithm to show images that have similar colors and contrast. 
+1) **Visually similar:** Uses an algorithm to show images that have similar colors and contrast.
 
 2) **Similar time:** Shows images with a Date Taken within 5 minutes before and after the selected photo.
 

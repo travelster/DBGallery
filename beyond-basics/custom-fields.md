@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Custom Fields
+title: Custom Data Fields
 permalink: /custom-fields
 parent: Beyond Basics
 grand_parent: DBGallery
 nav_order: 2
 ---
 
-# Custom Fields
+# Custom Data Fields
 
 Custom fields extend search and data display capabilities by defining additional data fields specific to an industry or organization within DBGallery.  
 
@@ -53,8 +53,8 @@ A List field in action:
 **Editing values in a list** <br>
 Any item change made on the custom fields definition page will not modify the values already assigned to images. To remove or edit existing list data values from images, go to the main gallery thumbs view and search for that value. Then select returned images from the search, opening them in Preview and removing or replacing that data.
 
-**Converting a text field to a list**                            
-To convert an existing text field to a list, where all existing text values are moved to the list, contact support@dbgallery.com and they will be happy to accommodate that.  This can be valuable when freeform text was entered prior to DBGallery's ability to have this static dropdown list. 
+**Converting a Text field to a List**                            
+To convert an existing text field to a list, where all existing text values are moved to the list, simply change the Text field type to List.  This can be valuable when freeform text was entered prior to DBGallery's ability to have this static dropdown list. All unique values in the current Text field will be converted to a list!  It is also possible to do the reverse, where each List value chosen for images will be converted to text. NOTE: Pressing page refresh in the browser is required for either coversion to appear. 
 
 
 ## Notes
