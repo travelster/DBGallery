@@ -36,10 +36,10 @@ There is an option to ignore a group of duplicates when in rare case they're val
 <p style="padding-left: 5%;"><strong>Figure 4:</strong> The global duplicates check page.</p>
 
 <hr>
-<strong>Also See:</strong> Our <a href="https://dbgallery.com/avoid-duplicates">Avoiding Duplicate Images</a> blog post, which includes how to avoid the need to have duplicates in an image collection.
-
-**See Also**
+<strong>See Also:</strong> 
 <ul>
+<li>Our <a href="https://dbgallery.com/avoid-duplicates">Avoiding Duplicate Images</a> blog post, which includes how to avoid the need to have duplicates in an image collection.
+</li>
 <li><a href="https://docs.dbgallery.com/related-images" target="_blank">Related Images (Also known as Find Similar)</a>
 </li>
 </ul>
