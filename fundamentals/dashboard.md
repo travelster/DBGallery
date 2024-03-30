@@ -9,7 +9,7 @@ nav_order: 70
 
 # The Dashboard
 
-<p><img style="border: 1px solid purple;" src="/assets/Dashboard.png" alt="Dashboard"/></p>
+<p><img style="border: 1px solid purple;" src="/assets/Dashboard.jpg" alt="Dashboard"/></p>
 
 The Dashboard provides:
 - An overview of the collection, such as file counts, how many have data, etc.

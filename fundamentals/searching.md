@@ -14,7 +14,7 @@ There are a number of search options, from easy to sophisticated binary searches
 ## The Basic Search
 Let's start with the easiest and most often used search: a single word. Interestingly this easiest search is most often all this is required. From the Architecture collection, we search for photos in Toronto:
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Search-Basic.png" alt="Search Basics: One word search"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Search-Basic.jpg" alt="Search Basics: One word search"/></p>
 
 All data for an image is searched.  This includes common data such as keywords, subject, author, etc., but also camera, date, filename, folder name, city and more.  
 

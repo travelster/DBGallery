@@ -23,7 +23,7 @@ Following are a couple examples of changes to data being displayed:
 
 ## Getting there
 Access data layout settings from the Tools menu:
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="100%" src="/assets/DataLayout-ToolsMenu.png" alt="Data layout setting menu"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="100%" src="/assets/DataLayout-ToolsMenu.jpg" alt="Data layout setting menu"/></p>
 
 ## Which pages can have data layouts configured
 Data layout settings can be customized for all those listed in the Data Layout Setting left sidebar:

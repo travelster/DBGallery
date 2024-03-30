@@ -20,12 +20,12 @@ There are two ways to download a single file.
 
 1) The quickest way is to select a single file and press the download button.  This will download the full resolution file.  It will appear at the bottom of your browser as with other non-DBGallery downloads.
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Gallery.png" alt="Download Single File - Gallery"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Gallery.jpg" alt="Download Single File - Gallery"/></p>
 
 
 2) The second way is to open the image and choose the download button in the top left corner.  For common photo types, such as .jpg and .png, choose a resolution to download (as shown below).  For other file types, such as Photoshop or vector files, the original full-resolution file will download.  For Word or other document types, there will, of course, not be a resolution dropdown.
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Preview.png" alt="Download Single File - Preview"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Preview.jpg" alt="Download Single File - Preview"/></p>
 
 ## Downloading Multiple Files
 To download more than one file at a time, select any number of files at once, and press the Download button.  This is very similar to downloading a single file, except the all files will be downloaded in a single zip file.  This zip file will contain all selected files.  For common photo formats, such as .jpg and .png, the full-resolution file will be downloaded.   All other file types will have the original file downloaded.  (Selecting multiple files: Use the Shift or Ctrl/Cmd keys while clicking thumbs with the mouse.)

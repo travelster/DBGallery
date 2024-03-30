@@ -34,7 +34,7 @@ This is the most common type, and is a freeform field where any value can be ent
 
 An example: from the above first screenshot, a Client Name field would look like this when placed on the Preview's Info tab:
 
-<p><img src="/assets/CustomFields-TextSample.png" alt="Custom Fields Text Field Exmample" width="100%"/></p>
+<p><img src="/assets/CustomFields-TextSample.jpg" alt="Custom Fields Text Field Exmample" width="100%"/></p>
 
 Any type of data can be entered, such as dates or numbers.  But it is freeform text entry and there are not rules for the inputted format to enforce numbers, dates, etc. 
 

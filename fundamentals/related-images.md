@@ -12,7 +12,7 @@ Select a photo and DBGallery can show related photos in a sidebar.  To get to th
 
 Please note: Not all DBGallery systems have this feature enabled.  Contact your DBGallery administrator, or DBGallery support, to have this turned on.  There is no additional cost. 
 
-<p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-Overview.png" /></p>
+<p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-Overview.jpg" /></p>
 <p style="padding-left: 5%;"><strong>Figure 1:</strong> Related images button and sidebar.</p>
 
 There are the categories of related images:
