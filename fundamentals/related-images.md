@@ -33,7 +33,7 @@ This feature works for photo formats only.
 ## In Action
 
 <p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-UsageVideo.gif" /></p>
-<p style="padding-left: 5%;"><strong>Figure 2:</strong> Related Images: Pressing the related images button and dragging an resulting thumbnail.</p>
+<p style="padding-left: 5%;"><strong>Figure 2:</strong> Related Images: Pressing the related images button and dragging a resulting thumbnail.</p>
 
 Photos in the sidebar can be dragged and dropped onto a Folder (a move) or a Collection (added there).  
 
