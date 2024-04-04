@@ -23,7 +23,7 @@ There are the categories of related images:
 
 3) **Similar Objects:** Expermental: Finds photos that have an object recognition keyword that matches the selected image's first object recognition keyword. [This is an experimental early release and a future release will show those most similar to all the selected photo's keywords.]
 
-Where it looks for related images: The current folder and all sub-folders.  If in a Collection, it searches the entire system.
+**Where it looks for related images:** The current folder and all sub-folders.  If in a Collection, it searches the entire system.
 
 Each category will show a maximum of 28 images.
 
