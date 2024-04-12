@@ -8,7 +8,9 @@ nav_order: 95
 ---
 # Related Images
 
-Select a photo and DBGallery can show related photos in a sidebar.  To get to that sidebar, press the button shown in the sreenshot below near the top right.  An image must be selected or the sidebar won't appear.
+Select a photo and DBGallery can show related photos in a sidebar!  
+
+To get to that sidebar, press the button shown in the sreenshot below near the top right.  An image must be selected for the sidebar to appear.
 
 Please note: Not all DBGallery systems have this feature enabled.  Contact your DBGallery administrator, or DBGallery support, to have this turned on.  There is no additional cost. 
 
@@ -29,15 +31,22 @@ Each category will show a maximum of 28 images.
 
 This feature works for photo formats only.
 
+## Doing things with the sidebar images
+**Drop them somewhere:** Single images in the sidebar can be dragged to folders or collections.  This would be the same as when dragging them from the normal gallery thumbs view (except only single images can be dragged).  Dropping a related image thumb to a folder moves the image file to that folder.  Dropping a thumb to a collection adds the photo to that collection.  The screenshot video below shows an image being dragged from the sidebar.
+
+**View them:** Photos can be opened from there by clicking the view button which appears over the photo thumb.
+
+**TIP:** It can often be useful to go to the folder a related image belongs to.  To do this open the image, go to the Full Data panel, and click a folder name (see the red arrow below).
+
+<p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-SelectingAFolder.png" /></p>
+<p style="padding-left: 5%;"><strong>Figure 2:</strong> Click a folder name to go to that folder.</p>
+
 
 ## In Action
 
 <p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-UsageVideo.gif" /></p>
-<p style="padding-left: 5%;"><strong>Figure 2:</strong> Related Images: Pressing the related images button and dragging a resulting thumbnail.</p>
+<p style="padding-left: 5%;"><strong>Figure 3:</strong> Related Images: Pressing the related images button and dragging a resulting thumbnail.</p>
 
-Photos in the sidebar can be dragged and dropped onto a Folder (a move) or a Collection (added there).  
-
-Photos can be opened from there by clicking the view button which appears of the photo.
 
 **See Also**
 <ul>
