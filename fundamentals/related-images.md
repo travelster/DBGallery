@@ -27,7 +27,7 @@ There are the categories of related images:
 
 **Where it looks for related images:** The current folder and all sub-folders.  If in a Collection, it searches the entire system.
 
-Each category will show a maximum of 28 images.
+Each category will show a maximum of 27 images.
 
 This feature works for photo formats only.
 
