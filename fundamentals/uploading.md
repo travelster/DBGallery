@@ -19,7 +19,8 @@ Add files by dragging and dropping them onto the Upload window.  Alternatively, 
 
 **Things to know about uploading:**
 
-- **Entire folders may be added.**  Any sub-folders and their images will be included.  The folder structure will be reflected within DBGallery.
+- **Entire folders may be added.**  When dropping a folder on this upload page, any sub-folders and their images will be included.  The folder structure will be reflected within DBGallery.
+- **Upload multiple folders.**  After dropping / adding the first folder, do the same with as many folders as you wish.  Just keep pressing the Add Files button, or dragging and dropping folders.  You needn't wait for the first one added to complete.  If the subsequent folder(s) need to go into a different area of DBGallery, open DBGallery in as many tabs as you wish and add files to those.
 - **Any file type may be added.**
 - **Files may be of any size.**  (The maximum file size is limited only by available storage.)
 - **Open other tabs while waiting for uploads to complete.** Uploading can take a while and you must stay on that upload area until it completes or the upload stops.  To do other operations in DBGallery while uploading open another tab.  For example, to tag previous uploads or do a search, etc, open another tab and go DBGallery.  Open as many tabs as needed to do various operations within DBGallery.
