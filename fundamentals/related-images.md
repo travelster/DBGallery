@@ -10,9 +10,10 @@ nav_order: 95
 
 Select a photo and DBGallery can show related photos in a sidebar!  
 
-To get to that sidebar, press the button shown in the sreenshot below near the top right.  An image must be selected for the sidebar to appear.
+To get to that sidebar, select a thumb and press the Related Images button (it is near the top right as in the screenshot below).
 
-Please note: Not all DBGallery systems have this feature enabled.  Contact your DBGallery administrator, or DBGallery support, to have this turned on.  There is no additional cost. 
+Notes: An image must be selected for the sidebar to appear.  Once turned on, select another thumb to see its related images. 
+This works for a single thumbs only. The sidebar will hide when more than one thumb is seleced.
 
 <p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-Overview.jpg" /></p>
 <p style="padding-left: 5%;"><strong>Figure 1:</strong> Related images button and sidebar.</p>
@@ -48,6 +49,7 @@ This feature works for photo formats only.
 <p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-UsageVideo.gif" /></p>
 <p style="padding-left: 5%;"><strong>Figure 3:</strong> Related Images: Pressing the related images button and dragging a resulting thumbnail.</p>
 
+Please Note: Not all DBGallery systems have this feature enabled.  Contact your DBGallery administrator, or DBGallery support, to have this turned on.  There is no additional cost. 
 
 **See Also**
 <ul>
