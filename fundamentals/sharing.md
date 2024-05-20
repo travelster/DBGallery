@@ -21,15 +21,15 @@ The quickest way to share the selected images would be to press Ok to have the U
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
 
-Share links do not require a login.  They are secure in that to view the images in the share the full long and complex link would have to be guessed.
+Share links do not require a login.
 
-Important options above are:
+Important options in the share window are:
 - **Expiry Date**: The link will display an Expired message after the date and time set. This cannot be changed later.
 - **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly makes for a much more meaningful URL that the recipients see.
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
-Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened.  Those that will exist will, of course, so delete one image doesn’t break the share link entirely.
+Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
 
 ## Unfurling
 
