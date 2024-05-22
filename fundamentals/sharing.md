@@ -62,5 +62,3 @@ Found under the Tools menu, the share management page provides a means to view p
 - Find previous shares by sorting by when the share was created, its name, expiration date, and more.
 
 ![Sharing Unfurling](/assets/Share-Management.png)
-
-NOTE: Currently only those with administrative access can see this page.
