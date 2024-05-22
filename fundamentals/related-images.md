@@ -18,7 +18,7 @@ This works for a single thumbs only. The sidebar will hide when more than one th
 <p style="padding-left: 5%;"><img style="border: 1px solid black;" src="/assets/RelatedImages-Overview.jpg" /></p>
 <p style="padding-left: 5%;"><strong>Figure 1:</strong> Related images button and sidebar.</p>
 
-There are the categories of related images:
+The categories of related images are:
 
 1) **Visually similar:** Uses an algorithm to show images that have similar colors and contrast. While it can be a great at find images that a normal text search doesn't find, these results can sometimes seem way off.  This is because the algorithm uses pixels level elements rather than seeking similar objects the human eye might see as the same. But in cases where it is difficult to find images via a text search, the visually similar objects ca be helpful.
 
