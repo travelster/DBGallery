@@ -7,17 +7,19 @@ grand_parent: DBGallery
 nav_order: 20
 ---
 
-# Activity Monitoring
+# Activity Monitoring (Audit Trails)
 
-DBGallery's audit trail, aka activity monitoring, capabilities are extensive.  They are found on four pages:
+DBGallery's audit trail, aka activity monitoring, capabilities are extensive.  They are found across five pages depending on the specifiy type of activity being sought:
 
-1) **The audit trail page:**  Provides access to activity across all users and images.
+1) **The audit trail page:**  The primary activity monitoring page, it provides access to activity across all users and images.
 
 2) **Versions tab of image preview:**  Displays all changes for a single image: data edits, annotations, versions, when it has been opened in a share, etc.
 
 3) **Dashboard:**  A less detailed view providing a quick overvew of recent activity.
 
 4) **Sort by activity type:** Provides a full look at all images recently viewed, updated and added.
+
+5) **Sharing Management Page:** Lists sharing activity.
 
 <hr>
 **1) The audit trail page**
@@ -60,3 +62,17 @@ The dashboard provides a quick view of recently added, updated and viewed images
 The final option is to sort by either Added to DBG (short for Added to DBGallery), by Last viewed, or by Last updated.  Its similar to the quick view from the Dashboard, but provides more detail in that its possible to see all the images updated today, for example.  Using the 'Group by' toggle button to the right of the sort options will group by the sort options.  In the example below, there were 3 images added on January 1, 2021 (see left middle of the screenshot).
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=87482&public=f68700c18564409f80a0b42c0f99228d&1385710884" alt="Sort by activity type"/></p>
+
+
+<hr>
+**5) Share management page**
+
+While it's always been possible to view the sharing activity in the audit trail and Versions tab of an individual image, the share management page introduced in June 2024 provides a convenient place to review overview sharing activity.
+- Search for a share name
+- View the number of times the share has been opened
+- View the number of images in the share
+- Sort by when the share was created, its name or even the open count
+
+For full details on sharing and the management page, see the <a title="Sharing knowledge base page" href="https://docs.dbgallery.com/sharing">Sharing</a> Knowledge Base page.
+
+<p style="padding-left: 30px;"><img class="wnew-image" style="width: 100%;" src="https://cdn.dbgallery.cloud/Download.aspx?id=357216&amp;public=16521c583946422aa35daf87a1236f94&amp;1502276040" alt="Asset Sharing Management page" /></p>
