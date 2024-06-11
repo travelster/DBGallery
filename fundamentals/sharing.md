@@ -52,7 +52,7 @@ After an image is shared, several things can change regarding what the user will
 
 ## Share Management
 
-Found under the Tools menu, the share management page provides a means to view previous shares and perform some operations on them.
+Found under the Tools menu, the share management page provides a means to view previous shares and perform operations on them.
 
 - Search for a share name.
 - Get a copy the share URL.
@@ -61,4 +61,6 @@ Found under the Tools menu, the share management page provides a means to view p
 - View the number of images in the share.
 - Find previous shares by sorting by when the share was created, its name, expiration date, and more.
 
-![Sharing Unfurling](/assets/Share-Management.png)
+If logged in as an administrator, shares activity will be shown for all users. When logged in as an individual user, share activity for that use only will be displayed.
+
+![Share Management](/assets/Share-Management.png)
