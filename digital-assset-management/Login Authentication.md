@@ -54,6 +54,6 @@ A configuration snippet example is shown below, which may already be in the apps
 
 For added convenience and security, companies who currently use single sign-on (SSO) do not need a seperate username and pw to sign into DBGallery. Multi-factor authenication may be a part of that SSO configuration as well.  A compatible SSO service provider and some configuration is required.  DBGallery's support team would work with your company's IT department to configure SSO.  For additional information or to start a SSO configuration conversation, please contact either support or your primary DBGallery contact person.
 
-Also See: Our <a href="/blog-sso" target="_blank">SSO blog</a>.
+Also See: Our <a href="https://dbgallery.com/blog-sso" target="_blank">SSO blog</a>.
 
 <p style="margin-left: 25%;"><img src="/assets/SSOlogo.png" alt="Single Sign-on Graphic" width="50%"/></p>
