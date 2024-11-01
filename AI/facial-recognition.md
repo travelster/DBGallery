@@ -24,7 +24,7 @@ That is pretty well all that is needed to use facial recognition in DBGallery. T
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Unidentified Person 63 - Naming.png" alt="Renaming 'Unidentified Person 63' to 'Johanna Jones'"/></p>
 
 
-**Step 3:** Press Close to see the result of 'Unidentified Person 63' having been renamed in all photos that face exists. **Important:** Subsequent uploads with that face in it will automatically be tagged with 'Johanna Jones'!
+**Step 3: View the updated names.** Press Close to see the result of 'Unidentified Person 63' having been renamed in all photos that face exists. **Important:** Subsequent uploads with that face in it will automatically be tagged with 'Johanna Jones'!
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Unidentified Person 63 - after.png" alt="After renaming 'Unidentified Person 63' to 'Johanna Jones'"/></p>
 
 Repeat Step 1 & 2 for all the names of the 'Unidentified Person" names.  In most cases, this needs to be done only once per person.  
