@@ -2,9 +2,9 @@
 layout: default
 title: Object Recognition (Slideshow)
 permalink: /object-recognition
-parent: Beyond Basics
+parent: AI
 grand_parent: DBGallery
-nav_order: 5
+nav_order: 10
 ---
 
 # Object Recognition
