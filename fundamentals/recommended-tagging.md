@@ -9,7 +9,7 @@ nav_order: 60
 
 # Recommended Keyword Practices
 
-Tagging, aka keywording, an image collection using a digital asset management (DAM) system or image management tool is a big topic!  How it is done is hugely contextual; highly dependent on the given industry and the company within that industry.  That said, here are a number of general suggestions to consider which should be of immediate help and provide food for thought on how to do it best for your scenario.  While some are DBGallery specific, many are generic practices.
+Tagging, aka keywording, an image collection using a digital asset management (DAM) system or image management tool is a big topic!  How it is done is hugely contextual; highly dependent on the given industry and the company within that industry.  That said, here are a number of best practices to consider which should be of immediate help and provide food for thought on how to do it best for your scenario.  While some are DBGallery specific, many are generic practices.
 
 ## Avoid keywording individual images where possible.
 Starting tagging the selecting the largest number of images possible at one time.  If tagging a folder or new set of images, select all those and tag them with common attributes.  Then within those, select a small group with common attributes and tag them.  Tag individual images only when they're unique.
@@ -17,12 +17,14 @@ Starting tagging the selecting the largest number of images possible at one time
 ## In General
 Consider if only admins can add new keywords.  This has the benefit of a cleaner list of keywords and prevents inappropriate or incorrect data from being entered.  (In DBGallery, use the Keywords Dictionary tool and choose "Fixed keyword dictionary".) Note that within DBGallery all data for an image is searchable.  This includes folder and file names, exif and iptc metadata, dates info such as the year, and collection names.  Hence perhaps some keywords aren't needed, such as data already in the folder name, or the camera and year. Consider marking images as having data tagged or not.  This can be via a special tag itself, or even better, creating a DBGallery workflow: New Image, Partial Data Entered, Data Complete.  (These are defined in the Workflow tool within DBGallery.) Consider having new or images not yet tagged placed in a non-published folder that only admins or data entry personal have access to, then move them to a published area for general access once tagged. Given a large collection, consider enlisting help.  This can be work-term students or volunteers.  Availability of volunteers is heavily organization specific, such as parents volunteering to tag school photos or your clubs membership tagging images.
 
-## Use AI Object Recognition
-It won't replace manual tagging anytime soon, if ever, but it can be a huge help reducing the amount of manual tagging.  You'll likely never need to add commons object keywords such as car, house, dog, etc.
+## Use AI Auto-tagging
+While it won't fully replace manual tagging anytime soon, it can be a huge help reducing the amount of manual tagging.
 
-- **Pro:** can be helpful in that they are effort free and can often provide keywords you wouldn't normally key but are useful in a search.
+- **Pro:** can be helpful in that they are effort free and can provide keywords, descriptions, etc. you wouldn't normally key but are useful in a search.
 - **Con:** can return results you wouldn't expect.  There can be incorrect keywords.
-At lease try object recognition for a while.  You may find it does reduce manual tagging.  Misc tags it adds that you likely wouldn't both with can be useful.  And in the end if the cons outweigh the pros, all it's data can generally be easily removed.  (In DBGallery use multi-edit and set the Object Rekognition field to blank.  This can be done with 1000's of images at a time.)
+At lease try AI auto-tagging for a while.  You will almost surely find that it greatly reduces manual tagging.  Misc tags it adds that you likely wouldn't bother with can be useful.  And in the end if the cons outweigh the pros, all it's data can generally be easily removed.
+
+Also see our blog posts <a href="https://dbgallery.com/heaps-of-metadata">Heaps of Automated Metadata in DBGallery</a> and <a href="https://dbgallery.com/metadatapost">DBGallery's Metadata Capabilities</a> for deeper thoughts on this topic.
 
 ## Specific keywords
 - Consider tagging the dominant color.  Can be useful when matching colors with a web page or printed page.

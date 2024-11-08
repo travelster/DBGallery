@@ -29,6 +29,7 @@ That is pretty well all that is needed to use facial recognition in DBGallery. T
 
 Repeat Step 1 & 2 for all the names of the 'Unidentified Person" names.  In most cases, this needs to be done only once per person.  
 
+## When the AI doesn't detect a known face
 There may be times when the AI doesn't recognize that person in subsequent uploads, due to lighting conditions, blurry photos, or the angle of the face.  When that happens, click on the face and select that name from the existing list of names. As this is done the AI will learn to recognise the person more accurately.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="60%" src="/assets/Faces Dropdown List.png" alt="Faces Dropdown List"/></p>
 
@@ -38,18 +39,20 @@ To see the names of people when viewing a photo, roll the mouse cursor over the 
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Rectangles in Preview.gif" alt="Viewing face rectangles in image preview"/></p>
 
 
+## Renaming a Person
+Rename a person by simply selecting the new name from the names dropdown in the Person tab, or by entering a completely new name for them in the Person tab.  This will rename the person in all photos.  When entering a completely new name, press the “Add” button and it will be added to the system, with the old name deleted from the system.
+
+
+## Deleting names (usually Unidentified Person or Unidentified Face)
+Often there are faces that aren't relevant in a photo.  This might be due to background people irrelevant to the photo or faces in photo frames on a wall.  Select that face either by clicking on it in the photo, or finding it in the People tab of image preview.  Then click the Trash icon to remove it.  That 'Unidentified Person' tag will be removed from the list and a rectangle will no longer appear when rolling the mouse cursor of that face.  A name delete is for just that one photo.
+
+
+
 ## Adding the names data field to various DBGallery pages
 By default, peoples names are listed only in the Full Data tab (just under the thumbnail) and the People tab in image preview. Peoples names can be added to various pages using Data Layout Setting under Tools | Data Layout Settings.  Below, the People data field is added to the info tab in the Shared view (the data which is seen by those images are shared to).  See Data Layout Settings for more on the specifics of how to place the People data field in the various pages within DBGallery.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Data Settings for Facial Recognition.png" alt="Viewing face rectangles in image preview"/></p>
 
-
-
-## Renaming a Person
-Rename a person by simply selecting the new name from the names dropdown in the Person tab, or by entering a completely new name for them in the Person tab.  This will rename the person in all photos.  When entering a completely new name, press the “Add” button and it will be added to the system, with the old name deleted from the system.
-
-## Deleting names (usually Unidentified Person or Unidentified Face)
-Often there are faces that aren't relevant in a photo.  This might be due to background people irrelevant to the photo or faces in photo frames on a wall.  Select that face either by clicking on it in the photo, or finding it in the People tab of image preview.  Then click the Trash icon to remove it.  That 'Unidentified Person' tag will be removed from the list and a rectangle will no longer appear when rolling the mouse cursor of that face.  A name delete is for just that one photo.
 
 
 ## Q&A: 
