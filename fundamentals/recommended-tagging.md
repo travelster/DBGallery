@@ -45,6 +45,11 @@ Other than manual and AI tagging, there are additional ways to import data:
 ## Searching
 Be sure to provide search tips to users.  No matter the amount of data entry effort, suggesting how to find images can be key to a making a collection more valuable.  Let them know about wildcard, exclusion and inclusion searches (*, +, - respectively).  For additional search tips within DBGallery, see our <a href="https://dbgallery.com/introducing-a-smarter-search/" target="_blank">Smarter Search</a> blog entry or Help on the main menu. Provide a channel for those searching images to have a way to provide feedback on tagging.  This can be huge in ensuring images can be found by all users even if sometimes combersome given too much or shallow feedback.  Missing or misspelled keywords can be identified, whole categories of keywords or other data can be suggested. Offer search and image collection navigation training from time to time.  Making sessions available for later viewing.
 
+## Custom fields
+Consider creating custom data fields tailored to your organization's specific needs, such as descriptive, technical, and administrative 
+metadata. This can be exceptionally useful and make it extra easy for those searching that have specific data they're looking for such as Project Number, Cliet ID, SKU, etc.
+It being its own field makes it stand out from a data entry and data view perspective. For how to create them, see <a href="https://docs.dbgallery.com/custom-fields">Custom Data Fields</a>.
+
 ## Conclusion
 While most companies would want to have a perfect tagging plan at the started, the truth is that unless there is a good deal of company-specific image management experience available on the team for that plan it's likely to be something which evolves over time.  Presuming that isn't the scenerio where you work, the above recommendations are good place to start.
 
