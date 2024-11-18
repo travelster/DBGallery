@@ -10,21 +10,29 @@ nav_order: 20
 # Facial Recognition
 
 ## Getting Started
-Starting with facial recognition in DBGallery couldn't be easier!  Start by uploading images with faces.  Each face will first be assigned default names such as 'Unidentified Person 1' or 'Unidentified Person 63', and so on.  When there are multiple faces of the same person, there may be many images with 'Unidentified Person 63' listed.  Rename that one name to something real, like 'Johanna Jones', and all 'Unidentified Person 63' will be assigned to that name.  Then any subsequent uploads of that person will be named 'Johanna Jones'.  In the search areas of the main gallery view, that name can immediately be searched for.
+Starting with facial recognition in DBGallery couldn't be easier!  Start by uploading images with faces.  You'll then name each unique face just once to have it assigned across the collection and on subsequent uploads.  
 
-That is pretty well all that is needed to use facial recognition in DBGallery. The rest of this page will cover special cases, features, along with Q&A.
+**How that works**
+Each unique face will be assigned default names such as 'Unidentified Person 1' or 'Unidentified Person 63', and so on.  When there are multiple faces of the same person, there may be many images with 'Unidentified Person 63' listed, for example.  Rename that one name to something real, like 'Johanna Jones', and all 'Unidentified Person 63' will be assigned to that name.  
+
+Any subsequent uploads of that person will be named 'Johanna Jones'.  In the search areas of the main gallery view, that name can immediately be searched for.
+
+That is pretty well all that is needed to use facial recognition in DBGallery. The rest of this page will cover special cases, features, and Q&A.
 
 **Note:** Not all DBGallery accounts have Facial Recogntion turned on.  Contact your DBGallery administrator to inquire about this, or send DBGallery support a message at support@dbgallery.  
 
-**Step 1: Upload.**  Upon first uploading new faces, 'Unidentified Person 63' is seen in 3 photos:
+**Step 1: Upload.**
+Upon first uploading new faces, 'Unidentified Person 63' is seen in 3 photos:
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Unidentified Person 63 - before.png" alt="Before renaming 'Unidentified Person 63' to 'Johanna Jones'"/></p>
 
 
-**Step 2: Rename.** Open one of the photos with that person in it and click that face to have the People tab automatically opened.  Then type the actual name of that person, then press Add.
+**Step 2: Rename.**
+Open one of the photos with that person in it and click that face to have the People tab automatically opened.  Then type the actual name of that person, then press Add.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Unidentified Person 63 - Naming.png" alt="Renaming 'Unidentified Person 63' to 'Johanna Jones'"/></p>
 
 
-**Step 3: View the updated names.** Press Close to see the result of 'Unidentified Person 63' having been renamed in all photos that face exists. **Important:** Subsequent uploads with that face in it will automatically be tagged with 'Johanna Jones'!
+**Step 3: View the updated names.**
+Press Close to see the result of 'Unidentified Person 63' having been renamed in all photos that face exists. **Important:** Subsequent uploads with that face in it will automatically be tagged with 'Johanna Jones'!
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Unidentified Person 63 - after.png" alt="After renaming 'Unidentified Person 63' to 'Johanna Jones'"/></p>
 
 Repeat Step 1 & 2 for all the names of the 'Unidentified Person" names.  In most cases, this needs to be done only once per person.  
