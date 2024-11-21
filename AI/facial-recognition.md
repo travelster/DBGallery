@@ -41,14 +41,14 @@ Repeat Step 1 & 2 for all the names of the 'Unidentified Person" names.  In most
 ## During new uploads
 When new photos are added which have already names faces, they will automatically be tagged with their name.
 
-## When the AI doesn't detect a known face
-There may be times when the AI doesn't recognize that person in subsequent uploads, due to lighting conditions, blurry photos, or the angle of the face.  When that happens, click on the face and select that name from the existing list of names. As this is done the AI will learn to recognise the person more accurately.
-<p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="60%" src="/assets/Faces Dropdown List.png" alt="Faces Dropdown List"/></p>
-
-
 ## Viewing face names in Preview
 To see the names of people when viewing a photo, roll the mouse cursor over the face to see the name:
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Rectangles in Preview.gif" alt="Viewing face rectangles in image preview"/></p>
+
+
+## When the AI doesn't detect a known face
+There may be times when the AI doesn't recognize that person in subsequent uploads, due to lighting conditions, blurry photos, or the angle of the face.  When that happens, click on the face and select that name from the existing list of names. As this is done the AI will learn to recognise the person more accurately.
+<p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="60%" src="/assets/Faces Dropdown List.png" alt="Faces Dropdown List"/></p>
 
 
 ## Renaming a Person
