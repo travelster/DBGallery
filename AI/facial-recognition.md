@@ -79,7 +79,7 @@ By default, peoples names are listed only in the Full Data tab (just under the t
 
 
 ## Q&A: 
-**Q:** Why can't select multiple photos to edit faces/people?
+**Q:** Why can't multiple photos be selected to edit many faces/people at the same time?
 
 **A:**  This is because naming and renaming a face is global and automatically updated for all of the same face across all images in the system. This is better because if 10 images with a person existed and only 3 were selected to perform a multi-edit then 7 would not be updated.
 
