@@ -9,12 +9,13 @@ nav_order: 30
 
 # Version Control
 
-Version control in DBGallery allows multiple versions of the same file to be stored in the system while only the latest version is shown in search results. Older versions are available when needed by going to the Versions panel  when viewing an image.
+Version control in DBGallery allows multiple versions of the same file to be stored in the system while only the latest version is shown in search results. Older versions are available when needed by going to the Versions panel when viewing an image.
 
 **Features of version control in DBGallery:**
 - Upload different file types (perhaps the draft was a jpeg file, but the latest is in photoshop format);
 - Replace the current version directly from the preview window;
 - In the upload dialog, if the filename already exists, an option to create a new version is available;
+- Multiple versions of file show as one thumb in search results, meaning users without concern for previous versions need not see them.
 - Metadata versions are visible to show a history of data changes made to an image. This makes an excellent addition to activity/audit logging because each image shows who has made what changes to data;
 - See a side-by-side comparison of older versions compared to the latest, and zoom in to see the details of each;
 - Restore older versions of a file, making them the latest version so show in search results;
@@ -35,6 +36,9 @@ Version control in DBGallery allows multiple versions of the same file to be sto
 Shows below are two versions of a photo: the latest one on the left has had an annotation added.  When viewing any image, press the VERSIONS panel button just to the right of the top center to get here.
 
 ![Where versions are found](/assets/Versions-Side-by-Side.jpg){: .ml-8}
+
+When a file has multiple versions, there is a button with the number of versions in the thumbs top right corner of image thumbs in the main gallery.  Clicking that button will automatically go to the Versions panel of image preview.
+![Versions button atop thumbnails](/assets/versions-with-button.png){: .ml-8}
 
 ## Uploading a new version
 
