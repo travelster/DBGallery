@@ -35,5 +35,4 @@ Shown in this short animation:
 - Sub-folders/sub-Collections do not display in the pinned items area (for ease of use).
 - Go to the source folder or Collection in the tree by clicking the pinned item.
 - There are no restrictions on the number of elements, but the height of the section is limited and a scrollbar appears.
-
-Note: There is no quick access (aka Pinned Items) section in the left panel until the first item is pinned.
+- There is no quick access (aka Pinned Items) section in the left panel until the first item is pinned.
