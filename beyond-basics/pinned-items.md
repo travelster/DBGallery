@@ -27,7 +27,7 @@ Shown in this short animation:
 <p><img src="/assets/PinnedItems.gif" alt="Pinned Items"/></p>
 
 ## Facts of note for pinned items:
-- **Files can be dropped to the pinned items.**
+- **Files and Folders can be dropped to the pinned items.** When dropping files or folders to a pinned folder, these items are moved to that pinned folder as it would if dropping onto the folder itself.
 - Collections can be pinned as well as Folders.
 - Pinned items are sticky: they stay in the same place when the rest of the tree scolls.
 - Items can be pinned and unpinned at anytime.
