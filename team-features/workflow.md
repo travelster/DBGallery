@@ -63,6 +63,11 @@ What happens to those assets post-approval varies greatly depending on the speci
 <p style="margin-left: 5%;"><img src="https://cdn.dbgallery.cloud/Download.aspx?id=75412&amp;public=a5d1dcddf5844642a3ccd8b14c0116d9&amp;1226448926" width="95%" /></p>
 <p style="margin-left: 5%;"><strong>Figure 8:</strong> The creative team sees the images are in an Approved state.</p>
 
+## **Searching for specific workflow states**
+Filter images with specific workflow statuses from the main gallery page by using Advanced Search.
+
+<p style="margin-left: 5%;"><img src="https://cdn.dbgallery.cloud/Download.aspx?id=411507&public=2/workflow-search&" width="65%" /></p>
+
 ## **Summary**
 This example illustrates workflow efficiencies through automation and the accessible communication between the team and the client. There is a clear trail of who has the asset and is working on it, and the status makes it clear where in the workflow assets are.
 
