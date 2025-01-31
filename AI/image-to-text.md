@@ -9,18 +9,22 @@ nav_order: 23
 
 # Image-to-text (OCR)
 
-Any text in a photo will be read and stored as part of the data associated with that photo.  This can include:
+Any text in a photo can be read and stored as part of the data associated with that photo.  This can include:
 -	Company logo’s
 -	Business cards
 -	Street signs
 -	Handwritten text
 -	Photos of full page documents
+
 Up to 64k of text can be read and stored.
+
 The text read is editable within DBGallery. 
 NOTE: While the read text is editable, sending a photo for text recognition subsequent times will override edits.
 
+This text is, of course, used when searching for images across DBGallery.
+
 ## How to read text from images
-As images are uploaded, text in images is automatically recognized.  On the upload dialog be sure the image-to-text checkbox is selected.
+As images are uploaded, text in images is automatically recognized when the .  On the upload window be sure the image-to-text checkbox is selected.
 
 Alternatively, in the main gallery, select one or more images and press the Image-to-text button.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411512&public=2/image-to-text-main-menu-button&1965106490" alt="AI Image-to-text main menu button"/></p>
