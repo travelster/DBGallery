@@ -27,5 +27,5 @@ Here the default prompt above was used to describe an iconic Qatar building.
 
 
 ## Defining the AI Prompt
-While the default prompt is available to administrator under Tools | Preferences, when pressing the above mentioned Describe Images button a text area is shown where the default can be changed to something appropriate to the images being currently described.
+While the default prompt is available to administrators under Tools | Preferences, when pressing the above mentioned Describe Images button a text area is shown where the default can be changed to something appropriate to the images being currently described.
 
