@@ -42,3 +42,7 @@ Below is an example of handwritten text being read.
 ### Reading poor quality text
 This example demonstrates how a fair poor photo of a screen can be read quite accurately.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411509&public=2/image-to-text-2&" alt="AI Image-to-text poor quality sample"/></p>
+
+## Q&A
+**Q:** Will this feature read contents of documents, such as PDFs?
+**A:** No. It reads text from photos and graphics only.
