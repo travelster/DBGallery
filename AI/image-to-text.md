@@ -45,4 +45,5 @@ This example demonstrates how a fair poor photo of a screen can be read quite ac
 
 ## Q&A
 **Q:** Will this feature read contents of documents, such as PDFs?
+
 **A:** No. It reads text from photos and graphics only.
