@@ -1,13 +1,13 @@
 ---
 layout: default
-title: AI Descriptions
+title: AI-generated Descriptions
 permalink: /ai-descriptions
 parent: AI
 grand_parent: DBGallery
 nav_order: 26
 ---
 
-# AI Descriptions
+# AI-generated Descriptions
 
 This feature uses artificial intelligence to automatically generate detailed, two-paragraph descriptions of images and graphics. Users can provide their own prompts to the AI, asking it to describe specific aspects of the images and request shorter or longer descriptions.
 This provides valuable extra data to help find the images.
