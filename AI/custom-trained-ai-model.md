@@ -7,7 +7,7 @@ grand_parent: DBGallery
 nav_order: 30
 ---
 
-# Custom Training AI Model
+# Custom Trained AI Model
 
 To use your own custom trained object detection model, simply enter the model's ARN (Amazon Resource Name) in DBGallery: Go to Tools / Preferences, then the Advanced tab.  Set the 'Custom object recognition' checkbox and enter the model's ARN, as shown below.
 
