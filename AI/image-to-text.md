@@ -43,6 +43,10 @@ Below is an example of handwritten text being read.
 This example demonstrates how a fair poor photo of a screen can be read quite accurately.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411509&public=2/image-to-text-2&" alt="AI Image-to-text poor quality sample"/></p>
 
+## TIP: Making this data visible across DBGallery 
+While this data field, and all others, can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
+
 ## Q&A
 **Q:** Will this feature read contents of documents, such as PDFs?
 

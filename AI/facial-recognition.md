@@ -76,7 +76,9 @@ By default, peoples names are listed only in the Full Data tab (just under the t
 
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="/assets/Data Settings for Facial Recognition.png" alt="Viewing face rectangles in image preview"/></p>
 
-
+## TIP: Making this data visible across DBGallery 
+While this data field, and all others, can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
 
 ## Q&A
 **Q:** Why can't multiple photos be selected to edit many faces/people at the same time?

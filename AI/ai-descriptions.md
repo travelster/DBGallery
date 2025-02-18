@@ -26,6 +26,10 @@ Here the default prompt above was used to describe an iconic Qatar building.
 <p><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411514&public=2/ai-descriptions-example-1&999069643" alt="AI descriptions example"/></p>
 
 
-## Defining the AI Prompt
-While the default prompt is available to administrators under Tools | Preferences, when pressing the above mentioned Describe Images button a text area is shown where the default can be changed to something appropriate to the images being currently described.
+## TIP: Making this data visible across DBGallery 
+While this data field, and all others, can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
 
+## TIP: Making this data visible across DBGallery 
+While this data field and all other can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
