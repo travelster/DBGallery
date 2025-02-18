@@ -27,9 +27,9 @@ Here the default prompt above was used to describe an iconic Qatar building.
 
 
 ## TIP: Making this data visible across DBGallery 
-While this data field, and all others, can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+While this data field, and all others, can be foundin our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
 in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
 
 ## TIP: Making this data visible across DBGallery 
-While this data field and all other can been found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
+While this data field and all other can be foundin our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
 in our Tools menu to place it in the Info tab and other areas of DBGallery.  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown where.
