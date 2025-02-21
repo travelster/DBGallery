@@ -10,7 +10,7 @@ nav_order: 20
 # Facial Recognition
 
 ## Getting Started
-Starting with facial recognition in DBGallery couldn't be easier!  Start by uploading images with faces.  You'll then name each unique face just once to have it assigned across the collection and on subsequent uploads.  
+Starting with facial recognition in DBGallery couldn't be easier!  Start by uploading images with faces.  You'll then name each unique face just once to have it assigned across the entire image collection and on subsequent uploads.  
 
 **How that works**
 
