@@ -39,9 +39,12 @@ The prompt, be it the default or for a custom prompt for selected images, is **i
 <p style="margin-left: 5%; color: blue" >The architectural style of this building is characterized by its organic forms and fluid shapes, typical of Zaha Hadid's work. It exemplifies Deconstructivism, where the design emphasizes unpredictability and dynamic interaction with the surrounding environment.</p>
 
 This example is likely not relevant to your company's images, but the prompt could be worded to describe:
-1. The state of a poverty photo, including any damage found in the building photos.
-2. The history of a style in a fashion photo, with the output formatted to specification.  
-3. Another interesting example to add to the prompt: "Name the colors of all those which take up more than 10% of the photo".
+1. "This is a photo of a poverty situation. Describe the emotional state of any people as well as the general surroundings."
+2. "Provide the history of styles found in this fashion photo. Start each paragraph with the style name followed by a semi-colon."  
+3. "Name the colors of all those which take up more than 10% of the photo".
+4. “Create an engaging social media caption and hashtags for this image.”
+5. “Describe this image in detail, including lighting, composition, and mood.”
+6. "Name the architectural styles in this image.  When possible, name the architect and location of the structure."
 
 **Building complex custom prompts to describe image**
 
