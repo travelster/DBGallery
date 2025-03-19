@@ -50,7 +50,7 @@ This example is likely not relevant to your company's images, but the prompt cou
 
 **Building complex custom prompts to describe image**
 
-See our <a href="/custom-prompts">Custom Prompts for AI-generated Descriptions</a> blog post. There you'll find examples for getting the most out of your AI-generated descriptions, including how to get structured data for uses beyond just searching within DBGallery. 
+See our <a href="https://dbgallery.com/custom-prompts">Custom Prompts for AI-generated Descriptions</a> blog post. There you'll find examples for getting the most out of your AI-generated descriptions, including how to get structured data for uses beyond just searching within DBGallery. 
 
 ## An Architectural Example:
 Following is the description provided when this iconic Qatar building was uploaded:
