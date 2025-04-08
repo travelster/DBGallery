@@ -20,11 +20,13 @@ There are 2 ways to get descriptions added to images' metadata.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411513&public=2/ai-descriptions-2&1273070938" alt="AI descriptions main menu button"/></p>
 
-## Setting your own custom prompts
-1: That default prompt is set by a system administrator, and would look something like the following:
+That default prompt is set by a system administrator, and would look something like the following:
 <p style="margin-left: 5%;">“Analyze this image and provide a detailed, context-aware description. Identify key objects, people, scenes, and any significant activities. If applicable, describe the mood, colors, and overall composition. If the image contains branding, logos, or text, mention those as well. Ensure the description is useful for cataloging and retrieval in a digital asset management system. Keep it concise yet informative.”</p>
 
-2: To use a one-time custom prompt, select any number of images and provide a custom prompt just for those images.  This works well when images have special attributes which could benefit from special instructions (I.e. the custom prompt).   
+## Setting your own custom prompts
+Prompts can complex and creative, providing exceptionally valuable output descriptions.
+
+To use a one-time custom prompt, select any number of images and provide a custom prompt just for those images.  This works well when images have special attributes which could benefit from special instructions (I.e. the custom prompt).   
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=419606&public=2/custom-prompt-from-main-menu&" alt="Custom prompt menu for AI-generated descriptions"/></p>
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=419939&public=2/custom-prompt-popup-with-gallery-background&" alt="Custom prompt popup for AI-generated descriptions"/></p>
 
@@ -48,15 +50,42 @@ This example is likely not relevant to your company's images, but the prompt cou
 5. “Describe this image in detail, including lighting, composition, and mood.”
 6. "Name the architectural styles in this image.  When possible, name the architect and location of the structure."
 
-**Building complex custom prompts to describe image**
-
-See our <a href="https://dbgallery.com/custom-prompts">Custom Prompts for AI-generated Descriptions</a> blog post. There you'll find examples for getting the most out of your AI-generated descriptions, including how to get structured data for uses beyond just searching within DBGallery. 
-
-## An Architectural Example:
+## Another Architectural Example:
 Following is the description provided when this iconic Qatar building was uploaded:
 
 <p><img style="margin-left: 5%; border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411514&public=2/ai-descriptions-example-1&999069643" alt="AI descriptions example"/></p>
 
+
+## Building complex custom prompts to describe image
+
+Here's one great example of a complex prompt used to describe company logos, and includes structured output.  Because effective prompts can be difficult to formulate, ChatGPT was asked to provide a suggested prompt for describing logos. This is what it suggested: 
+
+    You are an expert brand designer and marketer. I will provide the name of a company and its logo (or a brief visual reference). Your task is to describe the logo in a structured, detailed way. 
+
+    Please follow these rules in your response:
+    1. Identify the company name and logo text (if any).
+    2. Provide a concise description of the logo’s overall design (shapes, main elements, colors, layout).
+    3. Mention any significant symbols or icons within the logo and what they might represent.
+    4. Note the primary color scheme (hex or simple color terms).
+    5. Include any relevant brand attributes or style descriptors (e.g., minimalistic, bold, playful, professional).
+    6. If the logo includes a tagline, mention it and explain how it relates to the design.
+
+    Format your response as follows, with a blank line between each:
+    - **Company Name:** 
+    - **Visible Text:** 
+    - **Overall Layout/Shape:** 
+    - **Color Palette:** 
+    - **Main Symbol or Icon (if any):** 
+    - **Brand Impression or Style:** 
+    - **Tagline (if applicable):** 
+    - **Additional Observations:**
+
+    Use clear, professional language, and stay objective while noting possible symbolic meaning or brand associations.
+
+
+## More custom prompt examples
+
+For more examples, both simple and complex, see our <a href="https://dbgallery.com/custom-prompts">Custom Prompts for AI-generated Descriptions</a> blog post. There you'll find examples for getting the most out of your AI-generated descriptions, including how to get structured data for uses beyond just searching within DBGallery. 
 
 ## IMPORTANT TIP: Making this data visible across DBGallery 
 While this data field, and all others, can be found in our Full Data View (FDV) tab in image preview, consider using Data Layout Settings 
