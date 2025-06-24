@@ -25,11 +25,13 @@ Share links do not require a login.
 
 Important options in the share window are:
 - **Expiry Date**: The link will display an Expired message after the date and time set. This cannot be changed later.
-- **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly makes for a much more meaningful URL that the recipients see.
+- **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see.
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
+
+**TIP: Use Share Names.** There is little reason not to, and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort.  And of couse the URL receiver seems a much friendlier URL.
 
 ## Unfurling
 
@@ -49,6 +51,8 @@ After an image is shared, several things can change regarding what the user will
 - **Data Layout:** If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown for shared images.
 - **Image Data:** Any data which has changed since the share was created will be seen by those opening the share link.
 - **The image itself:** If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared, and hence the one viewed by share link recipients, can be replaced by adding a new version.  See <a href="/versioning">Version Control</a> for how a new version may be uploaded.
+
+
 
 ## Share Management
 
