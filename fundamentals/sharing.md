@@ -31,7 +31,7 @@ Important options in the share window are:
 
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
 
-**TIP: Use Share Names.** There is little reason not to, and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort.  And of couse the URL receiver seems a much friendlier URL.
+**TIP: Use Share Names.** There is little reason not to, and the benefit of being able to easily identify all your shares on the Share Management page (see screenshot below) is worth the effort.  And of couse the URL receiver seems a much friendlier URL.
 
 ## Unfurling
 
@@ -41,9 +41,23 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 
 ## What the Recipient Sees
 
-When the link is clicked the following would appear.  
+When the link is clicked the following would appear.
+![Sharing: What the recipient sees](/assets/ShareGallery.jpg)
+
+Clicking on the larger image to the right in the above screenshot expands the image.  
 
 ![Sharing: What the recipient sees](/assets/Share-Result.webp)
+What's a available from there:
+- Zoom using the mouse wheel, or you fingers if on a touch screen.
+- Move to the next or previous image.  Upon clicking the large image, the right and left arrow keys on your keyboard work to move back and forward.  One a mobile devic, or any touchscreen, swipe right and left. 
+- Make comments on the image.  May not be available if a system admin turned Comments off in system preferences.
+- There is a lower thumbsbar also available here.  If not shown, click the up arrow in the lower right corner area.
+- Depending on the options chosen when the share was created:
+    - Download options in the top left corner.
+    - A slideshow button.
+    - View image data in the Info tab.
+
+Return to the gallery view by pressing Esc or clicking "Return to Gallery".
 
 ## Changes after Sharing
 After an image is shared, several things can change regarding what the user will see.
