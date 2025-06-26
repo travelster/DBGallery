@@ -42,24 +42,25 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 ## What the Recipient Sees
 
 When the link is clicked the following would appear:
-![Sharing: What the recipient sees](/assets/ShareGallery.jpg)
+![Sharing: What the recipient sees](/assets/ShareGallery.png)
 
 Notes on this shared gallery view:
-- **Logo:** The logo shown is the one set in the main DBGallery. By default it is DBGallery's logo, but that can be easily changed.  See <a href="/white-labelling#logo-change">Logo Change</a> under White Labelling.
+- **Logo:** The logo shown is the one set in the main DBGallery. By default it is DBGallery's logo, but that can be easily changed, and may have already been on your DBGallery.  See <a href="/white-labelling#logo-change">Logo Change</a> under White Labelling.
 - **Thumbs:** The thumbs shown are in pages, with the number of thumbs shown depending on your devive screen resolution, up to approx. 18.
-- **Text Shown below thumbs:** Here is the name of the share, as entered when the share was created. Below that in smaller text is the profile name of the user who created the share along with the total number of images.
-- **Below the larger image on right:** the filename, the image count and current position, the Download current image and Download All images buttons.
+- **Text Shown below thumbs:** Here is the name of the share, as entered when the share was created. Below that, in smaller text, is the profile name of the user who created the share, along with the total number of images.
+- **Below the larger image on right:** Shown here is the filename, the image count and current position, the Download current image and Download All images buttons.
+    - Download note: In this view the "Download this image" downloads the full resolution original image. To download difference resolutions/sizes, use Download in the top left corner of the Expanded View.
 - **Arrow Keys:** The up and down arrows are used to move to the next and previous image. 
-- **Expand to an even larger image:** Click the larger image to the right to open an expanded view, covered in detail in the next section below.
+- **Expand to an even larger image:** Click the larger image on the right to open an expanded view, covered in detail in the next section below.
 
-**Keyboard TIP**
+**Keyboard TIP:**
 Use the right or down keyboard arrows to navigate to the next image.  Use left or up keyboard arrows to navigate to the previous image.
 
-**Mobile APP Note**
-The mobile version of the shared gallery view is diffent in that it shows just the list of thumbs, where the user must tap an individual thumbs to see an expanded image. From  there, the Expanded View section below describes the funcationality (although the image in the screenshow won't be exactly the same).
+**Mobile APP Note:**
+The mobile version of the shared gallery view is diffent in that it shows just the list of thumbs.  From there, the user must tap an individual thumb to see an expanded image. From there, the Expanded View section below describes the funcationality (although the image in the screenshow won't be exactly the same).
 
 
-## An Expanded View
+## Expanded View
 Clicking on the larger image to the right in the above screenshot expands the image: 
 
 ![Sharing: What the recipient sees](/assets/Share-Result.webp)
