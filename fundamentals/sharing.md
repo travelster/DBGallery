@@ -41,21 +41,37 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 
 ## What the Recipient Sees
 
-When the link is clicked the following would appear.
+When the link is clicked the following would appear:
 ![Sharing: What the recipient sees](/assets/ShareGallery.jpg)
 
-Clicking on the larger image to the right in the above screenshot expands the image.  
+Notes on this shared gallery view:
+- **Logo:** The logo shown is the one set in the main DBGallery. By default it is DBGallery's logo, but that can be easily changed.  See <a href="/white-labelling#logo-change">Logo Change</a> under White Labelling.
+- **Thumbs:** The thumbs shown are in pages, with the number of thumbs shown depending on your devive screen resolution, up to approx. 18.
+- **Text Shown below thumbs:** Here is the name of the share, as entered when the share was created. Below that in smaller text is the profile name of the user who created the share along with the total number of images.
+- **Below the larger image on right:** the filename, the image count and current position, the Download current image and Download All images buttons.
+- **Arrow Keys:** The up and down arrows are used to move to the next and previous image. 
+- **Expand to an even larger image:** Click the larger image to the right to open an expanded view, covered in detail in the next section below.
+
+**Keyboard TIP**
+Use the right or down keyboard arrows to navigate to the next image.  Use left or up keyboard arrows to navigate to the previous image.
+
+**Mobile APP Note**
+The mobile version of the shared gallery view is diffent in that it shows just the list of thumbs, where the user must tap an individual thumbs to see an expanded image. From  there, the Expanded View section below describes the funcationality (although the image in the screenshow won't be exactly the same).
+
+
+## An Expanded View
+Clicking on the larger image to the right in the above screenshot expands the image: 
 
 ![Sharing: What the recipient sees](/assets/Share-Result.webp)
 What's a available from there:
-- Zoom using the mouse wheel, or you fingers if on a touch screen.
-- Move to the next or previous image.  Upon clicking the large image, the right and left arrow keys on your keyboard work to move back and forward.  One a mobile devic, or any touchscreen, swipe right and left. 
-- Make comments on the image.  May not be available if a system admin turned Comments off in system preferences.
-- There is a lower thumbsbar also available here.  If not shown, click the up arrow in the lower right corner area.
+- **Zoom:** Use the mouse wheel to zoom in and out, or your fingers if on a touch screen.
+- **Navigating to Next / Prev:** Move to the next or previous image.  Upon clicking the large image, the right and left arrow keys on your keyboard work to move back and forward. One a mobile device, or any touchscreen, swipe right and left. 
+- **Comments:** Make comments on the image.  May not be available if a system admin turned Comments off in system preferences.
+- **Thumbsbar:** There is a lower thumbsbar also available here.  If not shown, click the up arrow in the lower right corner area.
 - Depending on the options chosen when the share was created:
-    - Download options in the top left corner.
-    - A slideshow button.
-    - View image data in the Info tab.
+    - **Download** options in the top left corner.
+    - A **slideshow** button.
+    - **View image data** in the Info tab.
 
 Return to the gallery view by pressing Esc or clicking "Return to Gallery".
 
