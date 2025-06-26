@@ -44,6 +44,8 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 When the link is clicked the following would appear:
 ![Sharing: What the recipient sees](/assets/ShareGallery.png)
 
+**Theme-based:** The whitish background is shown when DBGallery's white theme is chosen in Tools | Preferences.  The above background may be Blue or Brown depending on the choice there.  RECOMMENDATION: Our white theme, introduced in the spring of 2025, is our recommended theme. It has a cleaner and more modern look. If your DBGallery has a your company logo, check that it is compatible with any new theme chosen, possibly using a new logo within DBGallery (See <a href="/white-labelling#logo-change">Logo Change</a>).
+
 Notes on this shared gallery view:
 - **Logo:** The logo shown is the one set in the main DBGallery. By default it is DBGallery's logo, but that can be easily changed, and may have already been on your DBGallery.  See <a href="/white-labelling#logo-change">Logo Change</a> under White Labelling.
 - **Thumbs:** The thumbs shown are in pages, with the number of thumbs shown depending on your devive screen resolution, up to approx. 18.
