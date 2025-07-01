@@ -32,7 +32,7 @@ Important options in the share window are:
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
 
 ## TIP: Use Share Names 
-Give your share a name. There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page (see screenshot below) is worth the effort.  And of course the URL receiver seems a much friendlier URL.
+It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significanly friendlier than a long scary looking set of random characters    .
 
 ## Unfurling
 
@@ -42,10 +42,11 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 
 ## What the Recipient Sees
 
-When the link is clicked the following would appear:
+When the link is clicked the following will appear:
+
 ![Sharing: What the recipient sees](/assets/ShareGallery.png)
 
-**Theme-based:** The whitish background is shown when DBGallery's white theme is chosen in Tools | Preferences.  The above background may be Blue or Brown depending on the choice there.  RECOMMENDATION: Our white theme, introduced in the spring of 2025, is our recommended theme. It has a cleaner and more modern look. If your DBGallery has a your company logo, check that it is compatible with any new theme chosen, possibly using a new logo within DBGallery (See <a href="/white-labelling#logo-change">Logo Change</a>).
+**Theme-based:** The whitish background is shown when DBGallery's white theme is chosen in Tools / Preferences.  The above background may be Blue or Brown depending on the choice there.  **RECOMMENDATION:** Our white theme, introduced in the spring of 2025, is our recommended theme. It has a cleaner and more modern look. If your DBGallery has a your company logo, check that it is compatible with any new theme chosen, possibly using a new logo within DBGallery (See <a href="/white-labelling#logo-change">Logo Change</a>).
 
 Notes on this shared gallery view:
 - **Logo:** The logo shown is the one set in the main DBGallery. By default it is DBGallery's logo, but that can be easily changed, and may have already been on your DBGallery.  See <a href="/white-labelling#logo-change">Logo Change</a> under White Labelling.
@@ -56,8 +57,7 @@ Notes on this shared gallery view:
 - **Arrow Keys:** The up and down arrows are used to move to the next and previous image. 
 - **Expand to an even larger image:** Click the larger image on the right to open an expanded view, covered in detail in the next section below.
 
-**Keyboard TIP:**
-Use the right or down keyboard arrows to navigate to the next image.  Use left or up keyboard arrows to navigate to the previous image.
+**Keyboard TIP:** | Use the right or down keyboard arrows to navigate to the next image.  Use left or up keyboard arrows to navigate to the previous image.
 
 **Mobile APP Note:**
 The mobile version of the shared gallery view is diffent in that it shows just the list of thumbs.  From there, the user must tap an individual thumb to see an expanded image. From there, the Expanded View section below describes the funcationality (although the image in the screenshow won't be exactly the same).
@@ -67,6 +67,7 @@ The mobile version of the shared gallery view is diffent in that it shows just t
 Clicking on the larger image to the right in the above screenshot expands the image: 
 
 ![Sharing: What the recipient sees](/assets/Share-Result.webp)
+
 What's a available from there:
 - **Zoom:** Use the mouse wheel to zoom in and out, or your fingers if on a touch screen.
 - **Navigating to Next / Prev:** Move to the next or previous image.  Upon clicking the large image, the right and left arrow keys on your keyboard work to move back and forward. One a mobile device, or any touchscreen, swipe right and left. 
