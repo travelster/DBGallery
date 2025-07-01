@@ -31,7 +31,8 @@ Important options in the share window are:
 
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
 
-**TIP: Use Share Names.** There is little reason not to, and the benefit of being able to easily identify all your shares on the Share Management page (see screenshot below) is worth the effort.  And of couse the URL receiver seems a much friendlier URL.
+## TIP: Use Share Names 
+Give your share a name. There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page (see screenshot below) is worth the effort.  And of course the URL receiver seems a much friendlier URL.
 
 ## Unfurling
 
