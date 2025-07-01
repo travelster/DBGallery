@@ -44,7 +44,7 @@ Share links will unfurl when dropped onto most social media apps.  In the animat
 
 When the link is clicked the following will appear:
 
-![Sharing: What the recipient sees](/assets/ShareGallery.png)
+![Sharing: What the recipient sees](/assets/ShareGallery.jpg)
 
 **Theme-based:** The whitish background is shown when DBGallery's white theme is chosen in Tools / Preferences.  The above background may be Blue or Brown depending on the choice there.  **RECOMMENDATION:** Our white theme, introduced in the spring of 2025, is our recommended theme. It has a cleaner and more modern look. If your DBGallery has a your company logo, check that it is compatible with any new theme chosen, possibly using a new logo within DBGallery (See <a href="/white-labelling#logo-change">Logo Change</a>).
 
