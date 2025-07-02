@@ -25,13 +25,13 @@ Share links do not require a login.
 
 Important options in the share window are:
 - **Expiry Date**: The link will display an Expired message after the date and time set. This cannot be changed later.
-- **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see.
+- **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see. The title also shows in the share, the "Interesting Architecture Across the Globe" text in the **What the Recipient Sees** section below.
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
 
-**TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significanly friendlier than a long scary looking set of random characters.  This is mentioned becuase a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  
+**TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significanly friendlier than a long scary looking set of random characters.  This is mentioned because a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  Finally, the name appears as the title when a recipient opens a share URL (see What the Recipient Sees section below).
 
 ## Unfurling
 
