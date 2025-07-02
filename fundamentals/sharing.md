@@ -59,7 +59,7 @@ Notes on this shared gallery view:
 **Keyboard TIP:** | Use the right or down keyboard arrows to navigate to the next image.  Use left or up keyboard arrows to navigate to the previous image.
 
 **Mobile APP Note:**
-The mobile version of the shared gallery view is diffent in that it shows just the list of thumbs.  From there, the user must tap an individual thumb to see an expanded image. From there, the Expanded View section below describes the funcationality (although the image in the screenshow won't be exactly the same).
+The mobile version of the shared gallery view is different: it shows just the list of thumbs.  From there the user must tap an individual thumb to see an expanded image. See Expanded View section below which describes the funcationality after a thumb is pressed.
 
 
 ## Expanded View
@@ -97,6 +97,7 @@ Found under the Tools menu, the share management page provides a means to view p
 - Suspend shares (similar to expire but can be turned back on).
 - See the number of times the share has been opened.
 - View the number of images in the share.
+- Delete the share: You may delete a share after it has been created. This is especially useful if you've sent out a link with a mistake, or you want to later add or remove an image. You may delete the share and create a new one with the same name. Because the URL will have the same name, when the URL previously sent is clicked it will open the new share.
 - Find previous shares by sorting by when the share was created, its name, expiration date, and more.
 
 If logged in as an administrator, shares activity will be shown for all users. When logged in as an individual user, share activity for that use only will be displayed.
