@@ -12,7 +12,9 @@ nav_order: 40
 Sharing is simple and secure, with no login required by those receiving the shared images.
 
 The steps to sharing, which are each covered below, are:
-- Select the images to share. 
+- Select the images to share
+- Set share options
+- Post or send the newly created share URL 
 
 ## Selecting Images to Share 
 To share images select any number of thumbs and press the Share images button. (To select images, use the Ctrl or Shift key along with the left mouse button as you would in Windows Explorer or Mac Finder.  There is also a Select All button in DBGallery's menu.)
@@ -31,6 +33,8 @@ Alternatively, set these options in the share window:
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
 **TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significantly friendlier than a long scary looking set of random characters.  This is mentioned because a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  Finally, the name appears as the title when a recipient opens a share URL (see What the Recipient Sees section below).
+
+**TIP: See what the recipient sees** | In a new tab or browser window, paste the share URL to see exactly what those opening the share will see. 
 
 ## Changes after Sharing
 Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere. After an image is shared, several things can change regarding what the user will see.
@@ -105,3 +109,4 @@ Found under the Tools menu, the share management page provides a means to view p
 If logged in as an administrator, shares activity will be shown for all users. When logged in as an individual user, share activity for that use only will be displayed.
 
 ![Share Management](/assets/Share-Management.png)
+
