@@ -23,7 +23,7 @@ To share images select any number of thumbs and press the Share images button. (
 ![Sharing: Select and Share Button](/assets/Share-Button.webp)
 
 ## 2. Share Settings
-The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, a document, or anywhere else. Note again that share links do not require a login.
+The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, social media app, a document, or anywhere else. Note again that share links do not require a login.
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
 
@@ -33,7 +33,9 @@ Alternatively, set these options in the share window:
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
-**TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significantly friendlier than a long scary looking set of random characters.  This is mentioned because a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  Finally, the name appears as the title when a recipient opens a share URL (see What the Recipient Sees section below).
+To speed up subsequent shares, once set, all the above options except the name will be the default the next time the share settings are opened.
+
+**TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot in section 4 below).  Also, the URL the receiver sees is significantly friendlier than a long scary looking set of random characters.  This is mentioned because a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  Finally, the name appears as the title when a recipient opens a share URL (see What the Recipient Sees section below).
 
 **TIP: See what the recipient sees** | In a new tab or browser window, paste the share URL to see exactly what those opening the share will see. 
 
