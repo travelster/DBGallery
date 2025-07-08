@@ -9,29 +9,38 @@ nav_order: 40
 
 # Sharing
 
-Sharing is simple and secure, with no login required.
+Sharing is simple and secure, with no login required by those receiving the shared images.
+
+The steps to sharing, which are each covered below, are:
+- Select the images to share. 
 
 ## Selecting Images to Share 
-To share images select any number of thumbs and press the Share images button.
+To share images select any number of thumbs and press the Share images button. (To select images, use the Ctrl or Shift key along with the left mouse button as you would in Windows Explorer or Mac Finder.  There is also a Select All button in DBGallery's menu.)
 
 ![Sharing: Select and Share Button](/assets/Share-Button.webp)
 
 ## Share Settings
-The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, a document, or anywhere else.
+The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, a document, or anywhere else. Note again that share links do not require a login.
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
 
-Share links do not require a login.
-
-Important options in the share window are:
+Alternatively, set these options in the share window:
 - **Expiry Date**: The link will display an Expired message after the date and time set. This cannot be changed later.
 - **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see. The title also shows in the share, the "Interesting Architecture Across the Globe" text in the **What the Recipient Sees** section below.
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
-Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere.  If the image’s data is updated the new data will be seen when the share link is opened.  As well, if an image is deleted it will no longer show when the share link is opened. See "Changes after Sharing" below for more on how what the recipient sees can change.
-
 **TIP: Name the Share** | It's highly recommended that shares are provided a name. Why? There is little reason not to and the benefit of being able to easily identify all your shares on the Share Management page is worth the effort (see screenshot below).  Secondly, the URL the receiver sees is significantly friendlier than a long scary looking set of random characters.  This is mentioned because a year after releasing the share mgmt page and the ability to name shares, some clients still have many randomly generated share URLs instead of proper names!  Finally, the name appears as the title when a recipient opens a share URL (see What the Recipient Sees section below).
+
+## Changes after Sharing
+Shared images are viewed directly from their location within DBGallery, not a copy placed somewhere. After an image is shared, several things can change regarding what the user will see.
+
+- **Data Layout:** If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown for shared images.
+- **Image Data:** Any data which has changed since the share was created will be seen by those opening the share link.
+- **The image itself:** If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared, and hence the one viewed by share link recipients, can be replaced by adding a new version.  See <a href="/versioning">Version Control</a> for how a new version may be uploaded.
+- **Deleted images:** If an image is deleted it will no longer show when the share link is opened. 
+
+The first two items above are relevent only when the "View Info (data details) panel" checkbox was selected in the share setting window above.
 
 ## Unfurling
 
@@ -65,7 +74,7 @@ The mobile version of the shared gallery view is different: it shows just the li
 ## Expanded View
 Clicking on the larger image to the right in the above screenshot expands the image: 
 
-![Sharing: What the recipient sees](/assets/Share-Result.webp)
+![Sharing: Expanded view with an higher resolution](/assets/Share-Result.webp)
 
 What's a available from there:
 - **Zoom:** Use the mouse wheel to zoom in and out, or your fingers if on a touch screen.
@@ -77,28 +86,21 @@ What's a available from there:
     - A **slideshow** button.
     - **View image data** in the Info tab.
 
-Return to the gallery view by pressing Esc or clicking "Return to Gallery".
-
-## Changes after Sharing
-After an image is shared, several things can change regarding what the user will see.
-
-- **Data Layout:** If the data layout setting is changed after sharing images, the new layout is what the user will see (not the data layout when the images were shared).  See <a href="/datalayoutsettings">Data Layout Settings</a> for more on configuring which data is shown for shared images.
-- **Image Data:** Any data which has changed since the share was created will be seen by those opening the share link.
-- **The image itself:** If a new version of a shared image is uploaded, the latest version is shown.   I.e. The version shared, and hence the one viewed by share link recipients, can be replaced by adding a new version.  See <a href="/versioning">Version Control</a> for how a new version may be uploaded.
-
+Return to the gallery view by pressing Esc or clicking "Return to Gallery" in the top-right corner (not shown in the above screenshot).
 
 
 ## Share Management
 
 Found under the Tools menu, the share management page provides a means to view previous shares and perform operations on them.
 
-- Search for a share name.
-- Get a copy the share URL.
-- Suspend shares (similar to expire but can be turned back on).
-- See the number of times the share has been opened.
-- View the number of images in the share.
-- Delete the share: You may delete a share after it has been created. This is especially useful if you've sent out a link with a mistake, or you want to later add or remove an image. You may delete the share and create a new one with the same name. Because the URL will have the same name, when the URL previously sent is clicked it will open the new share.
-- Find previous shares by sorting by when the share was created, its name, expiration date, and more.
+- **Search:** Search for a share name. [Top-right corner]
+- **Copy the URL:** Get a copy the share URL. [Button to the right of the "Status" column]
+- **Suspend shares** (similar to expire but can be turned back on). [The 'eye' button the the right of Copy URL]
+- **Delete the share:** You may delete a share after it has been created. This is especially useful if you've sent out a link with a mistake, or you want to later add or remove an image. You may delete the share and create a new one with the same name. Because the URL will have the same name, when the URL previously sent is clicked it will open the new share. [Button not shown in the above screenshot, but is to the right of the Suspend button]
+- **Share Creator:** Column to view which user created the share.
+- **Open count:** Column showing the number of times the share has been opened.
+- **Shared images count:** Column to view the number of images in the share.
+- **Sort:** Find previous shares by sorting by when the share was created, its name, expiration date, and more, by clicking column headers.
 
 If logged in as an administrator, shares activity will be shown for all users. When logged in as an individual user, share activity for that use only will be displayed.
 
