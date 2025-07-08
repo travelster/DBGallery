@@ -12,16 +12,17 @@ nav_order: 40
 Sharing is simple and secure, with no login required by those receiving the shared images.
 
 The steps to sharing, which are each covered below, are:
-- Select the images to share
-- Set share options
-- Post or send the newly created share URL 
+1. Select the images to share
+2. Set share options
+3. Post or send the newly created share URL 
+4. After sharing: View and manage previous shares
 
-## Selecting Images to Share 
+## 1. Selecting Images to Share 
 To share images select any number of thumbs and press the Share images button. (To select images, use the Ctrl or Shift key along with the left mouse button as you would in Windows Explorer or Mac Finder.  There is also a Select All button in DBGallery's menu.)
 
 ![Sharing: Select and Share Button](/assets/Share-Button.webp)
 
-## Share Settings
+## 2. Share Settings
 The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, a document, or anywhere else. Note again that share links do not require a login.
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
@@ -45,6 +46,9 @@ Shared images are viewed directly from their location within DBGallery, not a co
 - **Deleted images:** If an image is deleted it will no longer show when the share link is opened. 
 
 The first two items above are relevent only when the "View Info (data details) panel" checkbox was selected in the share setting window above.
+
+## 3. Using the shares
+Once the share URL is created it may be send in an email, posted in social media apps, or send to colleagues in apps such as Slack or Discord. 
 
 ## Unfurling
 
@@ -74,7 +78,6 @@ Notes on this shared gallery view:
 **Mobile APP Note:**
 The mobile version of the shared gallery view is different: it shows just the list of thumbs.  From there the user must tap an individual thumb to see an expanded image. See Expanded View section below which describes the funcationality after a thumb is pressed.
 
-
 ## Expanded View
 Clicking on the larger image to the right in the above screenshot expands the image: 
 
@@ -93,9 +96,9 @@ What's a available from there:
 Return to the gallery view by pressing Esc or clicking "Return to Gallery" in the top-right corner (not shown in the above screenshot).
 
 
-## Share Management
+## 4. Share Management
 
-Found under the Tools menu, the share management page provides a means to view previous shares and perform operations on them.
+The share management page provides a means to view and manage previous shares.  It is found in the main menu under Tools || Share Management.
 
 - **Search:** Search for a share name. [Top-right corner]
 - **Copy the URL:** Get a copy the share URL. [Button to the right of the "Status" column]
