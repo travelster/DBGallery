@@ -18,13 +18,11 @@ The steps to sharing, which are each covered below, are:
 4. After sharing: View and manage previous shares
 
 ## 1. Selecting Images to Share 
-<hr>
 To share images select any number of thumbs and press the Share images button. (To select images, use the Ctrl or Shift key along with the left mouse button as you would in Windows Explorer or Mac Finder.  There is also a Select All button in DBGallery's menu.)
 
 ![Sharing: Select and Share Button](/assets/Share-Button.webp)
 
 ## 2. Share Settings
-<hr>
 The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, social media app, a document, or anywhere else. Note again that share links do not require a login.
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
@@ -52,7 +50,6 @@ Shared images are viewed directly from their location within DBGallery, not a co
 The first two items above are relevent only when the "View Info (data details) panel" checkbox was selected in the share setting window above.
 
 ## 3. Using the shares
-<hr>
 Once the share URL is created it may be send in an email, posted in social media apps, or send to colleagues in apps such as Slack or Discord. 
 
 ## Unfurling
@@ -102,8 +99,7 @@ Return to the gallery view by pressing Esc or clicking "Return to Gallery" in th
 
 
 ## 4. Share Management
-<hr>
-The share management page provides a means to view and manage previous shares.  It is found in the main menu under Tools || Share Management.
+The share management page provides a means to view and manage previous shares.  It is found in the main menu under Tools / Share Management.
 
 - **Search:** Search for a share name. [Top-right corner]
 - **Copy the URL:** Get a copy the share URL. [Button to the right of the "Status" column]
