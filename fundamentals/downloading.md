@@ -48,7 +48,7 @@ Images.csv would look something like the following, and will have all data assoc
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-csv-sample.png" alt="Download Multiple Files - CSV Sample"/></p>
 
-**Data without the images:** Also under the Download menu arrow is an option to "Export data-only as a CSV file".  This will download only the data from all selected files.  All data DBGallery holds for each image is downloaded as columns.  To removing unwanted columns, use a CSV editor such as Excel, and removing them after download.  
+**Data without the images:** Also under the Download menu arrow is an option to "Export data-only as a CSV file".  This will download only the data from all selected files.  All data DBGallery holds for each image is downloaded as columns.  To remove unwanted columns, use a CSV editor such as Excel, and removing them after download.  
 
 ## Downloading Previous Versions
 If versioning is enabled in your DBGallery, please see the Versioning section for how to download previous versions of an image.
