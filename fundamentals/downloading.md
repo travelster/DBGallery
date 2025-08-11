@@ -23,7 +23,7 @@ There are two ways to download a single file.
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Gallery.jpg" alt="Download Single File - Gallery"/></p>
 
 
-2) The second way is to open the image and choose the download button in the top left corner.  For common photo types, such as .jpg and .png, choose a resolution to download (as shown below).  For other file types, such as Photoshop or vector files, the original full-resolution file will download.  For Word or other document types, there will, of course, not be a resolution dropdown.
+2) The second way is to open the image and choose the download button in the top left corner.  For common photo types, such as .jpg and .png, as well as Photoshop files, choose a resolution to download (as shown below).  For some graphic file types, such as vector files, the original full-resolution file will download.  For Word or other document types, there will, of course, be no resolution dropdown.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Download-Single-Preview.jpg" alt="Download Single File - Preview"/></p>
 
