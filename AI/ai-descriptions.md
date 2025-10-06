@@ -9,7 +9,7 @@ nav_order: 26
 
 # AI-generated Descriptions
 
-This feature uses artificial intelligence to automatically generate detailed descriptions of images and graphics. Users can provide their 
+This feature uses artificial intelligence to automatically generate detailed descriptions of photos and graphics. Users can provide their 
 own prompts to the AI, asking it to describe specific aspects of the images.
 This provides valuable extra data to find images more easily.  Alternatively it can provide structured data to support business processes: see our <a href="/custom-prompts">Custom Prompts for AI-generated Descriptions</a> blog post for more on that.
 
@@ -22,6 +22,8 @@ There are 2 ways to get descriptions added to images' metadata.
 
 That default prompt is set by a system administrator, and would look something like the following:
 <p style="margin-left: 5%;">“Analyze this image and provide a detailed, context-aware description. Identify key objects, people, scenes, and any significant activities. If applicable, describe the mood, colors, and overall composition. If the image contains branding, logos, or text, mention those as well. Ensure the description is useful for cataloging and retrieval in a digital asset management system. Keep it concise yet informative.”</p>
+
+Note that some images may be rejected as harmful by the AI.  This is a restriction of the AI service used by DBGallery.
 
 ## Setting your own custom prompts
 Prompts can complex and creative, providing exceptionally valuable output descriptions.
