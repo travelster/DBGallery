@@ -53,5 +53,5 @@ in our Tools menu to place it in the Info tab and other areas of DBGallery.  See
 **A:** No. It reads text from photos and graphics only.
 
 ## Turning this feature on
-This feature is not turned on by default in all systems.  To turn it on, admins may go to Preferences | Tools, where the option is near the bottoom of the page.
+This feature is not turned on by default in all systems.  To turn it on, admins may go to <strong>Preferences | Tools</strong>, where the option is near the bottoom of the page.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=419605&public=2/turning-on-ai-descriptions&" alt="Turning on AI-generated descriptions"/></p>

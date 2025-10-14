@@ -45,6 +45,6 @@ nav_order: 28
 </ul>
 
 ## Turning this feature on
-This feature is not turned on by default in all systems.  To turn it on, admins may go to Preferences | Tools, where the option is near the bottoom of the page.  This feature may not currently be available on your system.  If not, contact either your system administrator or support@dbgallery.com to request it be made available.
+This feature is not turned on by default in all systems.  To turn it on, admins may go to <strong>Preferences | Tools</strong>, where the option is near the bottoom of the page.  This feature may not currently be available on your system.  If not, contact either your system administrator or support@dbgallery.com to request it be made available.
 <p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=419605&public=2/turning-on-ai-descriptions&" alt="Turning on AI-generated descriptions"/></p>
 
