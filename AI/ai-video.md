@@ -12,8 +12,8 @@ nav_order: 28
 <p>DBGallery uses AI-powered video analysis, enabling you to maximize the value of your video assets. This increases asset discoverability and reduces manual data entry.</p>
 
 ## Usage
-<strong>Analysis does not run automatically on upload.</strong> To begin AI video analysis, select one or more videos and click the <em>Video Analysis</em> button in the gallery view's main menu.
-<div class="flex justify-center"><img class="mt-4 rounded-lg shadow-md" style="width: 75%;" src="https://dbgallery.cloud/Download.aspx?id=502824&public=9810ac4ec14a4239ac6754dbaedb94fb&" alt="AI Video menu button" /></div>
+<strong>AI video analysis does not run automatically on upload.</strong> To begin AI video analysis, select one or more videos and click the <em>Video Analysis</em> button in the gallery view's main menu.
+<div class="flex justify-center"><img class="mt-4 rounded-lg shadow-md" style="margin-left: 5%; width: 75%;" src="https://dbgallery.cloud/Download.aspx?id=502824&public=9810ac4ec14a4239ac6754dbaedb94fb&" alt="AI Video menu button" /></div>
 
 ## Features
 <ul>
