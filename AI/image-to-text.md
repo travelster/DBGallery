@@ -37,7 +37,7 @@ Here an upload of a company logo had the text read.
 
 ### Handwritten
 Below is an example of handwritten text being read.
-<p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://dbgallery.cloud/Download.aspx?id=411511&public=2/image-to-text-handwritten&345362478" alt="Custom AI model settings"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid grey;" width="100%" src="https://cdn.dbgallery.cloud/Download.aspx?id=411511&public=2/image-to-text-handwritten&345362478" alt="Custom AI model settings"/></p>
 
 ### Reading poor quality text
 This example demonstrates how a fair poor photo of a screen can be read quite accurately.
