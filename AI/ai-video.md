@@ -9,7 +9,7 @@ nav_order: 28
 
 # AI for Video
 
-<p>DBGallery uses AI-powered video analysis, enabling you to maximize the value of your video assets. This increases asset discoverability and reduces manual data entry.</p>
+<p>DBGallery provides AI-powered video analysis, enabling you to maximize the value of your video assets. This increases asset discoverability and reduces manual data entry.</p>
 
 ## Usage
 <strong>AI video analysis does not run automatically on upload.</strong> To begin AI video analysis, select one or more videos and click the <em>Video Analysis</em> button in the gallery view's main menu.
@@ -20,7 +20,7 @@ nav_order: 28
 <li>AI Video Analysis may not yet be available in your DBGallery instance.</li>
 <li><strong>Time to process: </strong>It can take 2 minutes or greater per video to process, depending on the video size.</li>
 <li><strong>Maximum Size: </strong>The maximum video file size is 2GB.</li>
-<li>How many at once: Up to 200 videos at a time has been tested.  We recommend starting with 1 to 10 at a time when starting to use this new feature, moving to more once successful.</li>
+<li><strong>How many at once: </strong>Up to 200 videos at a time has been tested.  We recommend starting with 1 to 10 at a time when starting to use this new feature, moving to more once successful.</li>
 <li><strong>Cost: </strong>This feature is offered at no additional cost until at least <strong>March 2026</strong>. Beyond this date, usage-based pricing may apply.</li>
 <li>Some videos may be rejected as harmful by the AI.  This is a restriction of the Microsoft Azure AI Video Indexer service used by DBGallery.  This will often happen with photos of injured animals, for example.  The AI Description data field will show a message when this occurs.</li>
 <li><strong>EXPERIMENTAL: </strong>This is the 1st release of this large feature and we are considering it experimental. Any feedback would be greatly appreciated! Please send feedback to support@dbgallery.com.</li>
