@@ -20,8 +20,9 @@ nav_order: 28
 <li>AI Video Analysis may not yet be available in your DBGallery instance.</li>
 <li><strong>Time to process: </strong>It can take 2 minutes or greater per video to process, depending on the video size.</li>
 <li><strong>Maximum Size: </strong>The maximum video file size is 2GB.</li>
+<li><strong>How many at once: </strong>Up to 100 videos analysed at a time has been tested.</li>
 <li><strong>Cost: </strong>This feature is offered at no additional cost until at least <strong>March 2026</strong>. Beyond this date, usage-based pricing may apply.</li>
-<li>Some videos may be rejected as harmful by the AI.  This is a restriction of the Microsoft Azure AI Video Indexer service used by DBGallery.  The AI Description data field will show a message when this occurs.</li>
+<li>Some videos may be rejected as harmful by the AI.  This is a restriction of the Microsoft Azure AI Video Indexer service used by DBGallery.  This will often happen with photos of injured animals, for example.  The AI Description data field will show a message when this occurs.</li>
 </ul>
 
 ## Features
