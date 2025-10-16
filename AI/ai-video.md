@@ -15,6 +15,15 @@ nav_order: 28
 <strong>AI video analysis does not run automatically on upload.</strong> To begin AI video analysis, select one or more videos and click the <em>Video Analysis</em> button in the gallery view's main menu.
 <div class="flex justify-center"><img class="mt-4 rounded-lg shadow-md" style="margin-left: 5%; width: 75%;" src="https://dbgallery.cloud/Download.aspx?id=502824&public=9810ac4ec14a4239ac6754dbaedb94fb&" alt="AI Video menu button" /></div>
 
+## Important Notes
+<ul>
+<li>AI Video Analysis may not yet be available in your DBGallery instance.</li>
+<li><strong>Time to process: </strong>It can take 2 minutes or greater per video to process, depending on the video size.</li>
+<li><strong>Maximum Size: </strong>The maximum video file size is 2GB.</li>
+<li><strong>Cost: </strong>This feature is offered at no additional cost until at least <strong>March 2026</strong>. Beyond this date, usage-based pricing may apply.</li>
+<li>Some videos may be rejected as harmful by the AI.  This is a restriction of the Microsoft Azure AI Video Indexer service used by DBGallery.  The AI Description data field will show a message when this occurs.</li>
+</ul>
+
 ## Features
 <ul>
 <ul>
@@ -36,12 +45,6 @@ nav_order: 28
 <li><strong>Object Recognition</strong>
 <p>AI object recognition in video assets ensures that appearing objects are automatically identified and tagged, making categorization and discovery easier within your DAM library.</p>
 </li>
-</ul>
-<p><strong>Important Notes:</strong></p>
-<ul>
-<li>AI Video Analysis may not yet be available in your DBGallery instance.</li>
-<li>This feature is offered at no additional cost until at least<strong>March 2026</strong>. Beyond this date, usage-based pricing may apply.</li>
-<li>Some videos may be rejected as harmful by the AI.  This is a restriction of the Microsoft AI Video Indexer service used by DBGallery.  The AI Description data field with DBGallery will show a specific message when this occurs.</li>
 </ul>
 
 ## Turning this feature on
