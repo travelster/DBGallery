@@ -28,7 +28,7 @@ To set the icon shown in browsers' tab, select 'Upload and save' to choose eithe
 ## Color Theme
 The DBGallery color theme can be changed to more closely match that of your organization. It is changed from DBGallery's main menu under Tools || Preferences.  
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/UI-Theme-Dropdown.jpg" alt="White Labelling - Theme color change menu"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/UI-Theme-Dropdown.jpg" alt="White Labelling - Theme color change menu"  width="40%"/></p>
 
 The White theme is recommended as it is the cleanest and most modern.  
 
