@@ -25,6 +25,17 @@ To set the icon shown in browsers' tab, select 'Upload and save' to choose eithe
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/ChangeLogo-Icon.png" alt="White Labelling - Icon Change"/></p>
 
+## Color Theme
+The DBGallery color theme can be changed to more closely match that of your organization. It is changed from DBGallery's main menu under Tools || Preferences.  
+
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/UI-Theme-Dropdown.jpg" alt="White Labelling - Theme color change menu"/></p>
+
+The White theme is recommended as it is the cleanest and most modern.  
+
+**Tip:** Try each of them, reverting back to the original if others don't look better.
+
+**Notes:** The theme chosen is for all users, not just yourself.  Only system admins may change themes.
+
 ## Browser Tab Text
 <p>For Enterprise subscriptions and On-premise installations, the text of the browser tab can be specified. On the web server, change the appsettings.config file to add the following:</p>
 	<add key="MainHeaderText" value="My Company" />
