@@ -15,7 +15,7 @@ The steps to sharing, which are each covered below, are:
 1. Select the images to share
 2. Set share options
 3. Post or send the newly created share URL 
-4. After sharing: View and manage previous shares
+4. View and manage previous shares (Share Management)
 
 ## 1. Selecting Images to Share 
 To share images select any number of thumbs and press the Share images button. (To select images, use the Ctrl or Shift key along with the left mouse button as you would in Windows Explorer or Mac Finder.  There is also a Select All button in DBGallery's menu.)
