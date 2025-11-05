@@ -4,7 +4,7 @@ title: Custom Data Fields
 permalink: /custom-fields
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 2
+nav_order: 5
 ---
 
 # Custom Data Fields

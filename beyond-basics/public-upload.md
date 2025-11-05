@@ -4,7 +4,7 @@ title: Public Upload
 permalink: /collections
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 10
+nav_order: 40
 ---
 
 # Public Uploads

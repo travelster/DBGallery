@@ -4,6 +4,7 @@ title: Pinned Items
 permalink: /pinned-items
 parent: Beyond Basics
 grand_parent: DBGallery
+nav_order: 35
 ---
 
 # Pinned Items

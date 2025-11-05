@@ -4,7 +4,7 @@ title: Importing Data
 permalink: /import-image-data
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 10
+nav_order: 25
 ---
 
 # Importing Data

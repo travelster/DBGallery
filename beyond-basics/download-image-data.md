@@ -4,7 +4,7 @@ title: Exporting Data
 permalink: /download-data
 parent: Beyond Basics
 grand_parent: DBGallery
-nav_order: 11
+nav_order: 30
 ---
 
 # Exporting Data
