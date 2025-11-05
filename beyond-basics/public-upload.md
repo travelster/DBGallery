@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Public Upload
-permalink: /collections
+permalink: /public-uploads
 parent: Beyond Basics
 grand_parent: DBGallery
 nav_order: 40
