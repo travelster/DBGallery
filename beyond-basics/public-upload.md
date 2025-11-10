@@ -24,7 +24,7 @@ There are 3 steps
 ### 1. Select the folder
 Any folder may be chosen for configuring an upload.  Typically you would start with an empty folder, although that isn't a requirement.  As in the screenshot below, folders where uploads occur may be under a parent folder, where the sub-folders are shared with specific individuals or groups, but again, that isn't neccessary.
 
-<p><img src="/assets/public-upload-3dots.jpg" alt="Public sharing - select the folder" width="33%"/></p>
+<p><img src="/assets/public-upload-3dots.jpg" style="margin-left: 5%; alt="Public folders - select the folder" width="33%"/></p>
 
 ### 2. Choose the options
 Options here include:
@@ -32,7 +32,7 @@ Options here include:
 2. <strong>Set an expiry date</strong>: An expiry date may be set here, or later Share Management can be used to disable or delete the link. 
 3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide you with email notifications when uploads occur, a great way to be in the know when new files arrive. 
 
---SCREENSHOT--
+<p><img src="/assets/public-upload-config-named.jpg" style="margin-left: 5%; alt="Public folder - configuration" width="33%"/></p>
 
 ### 3. Share the link
 Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it to social media.
