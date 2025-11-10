@@ -32,12 +32,10 @@ Options here include:
 2. <strong>Set an expiry date</strong>: An expiry date may be set here, or later Share Management can be used to disable or delete the link. 
 3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide you with email notifications when uploads occur, a great way to be in the know when new files arrive. 
 
-<p><img src="/assets/public-upload-config-named.jpg" style="margin-left: 5%" alt="Public folder - configuration" width="66%"/><br/>Here the public folder is called '2020's External Contributors'. Note how the URL, or link, has includes the Title.</p>
-
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
-  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:100%;height:auto;border-radius:8px;">
+  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:66%;height:auto;border: 2px solid black;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
-    Sunset in Vietnam – captured November 2025
+    Here the public folder is named '2020's External Contributors'. Note how the link includes that name.  This is also the identifier to find it in Share Management.
   </figcaption>
 </figure>
 
