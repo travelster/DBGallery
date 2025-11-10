@@ -32,7 +32,14 @@ Options here include:
 2. <strong>Set an expiry date</strong>: An expiry date may be set here, or later Share Management can be used to disable or delete the link. 
 3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide you with email notifications when uploads occur, a great way to be in the know when new files arrive. 
 
-<p><img src="/assets/public-upload-config-named.jpg" style="margin-left: 5%" alt="Public folder - configuration" width="33%"/>Here the public folder is called '2020's External Contributors'. Note how the URL, or link, has includes the Title.</p>
+<p><img src="/assets/public-upload-config-named.jpg" style="margin-left: 5%" alt="Public folder - configuration" width="66%"/><br/>Here the public folder is called '2020's External Contributors'. Note how the URL, or link, has includes the Title.</p>
+
+<figure style="text-align:center;max-width:600px;margin:2rem auto;">
+  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:100%;height:auto;border-radius:8px;">
+  <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
+    Sunset in Vietnam – captured November 2025
+  </figcaption>
+</figure>
 
 Note: If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page (more on that below).
 
