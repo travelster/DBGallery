@@ -39,7 +39,7 @@ Options here include:
   </figcaption>
 </figure>
 
-If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
+If the Public Folders configuration window looks similiar to the <a href="https://docs.dbgallery.com/sharing">Sharing</a> configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
 
 ### 3. Share the link
 Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it on social media.
@@ -48,18 +48,20 @@ Upon pressing the "Save and copy public upload link" button, the link is copied 
 When a recipient clicks the link, they will see the following:
 
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
-  <img src="/assets/public-upload-user-sees.jpg" alt="Public folders - what the recipient sees" style="width:66%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <img src="/assets/public-upload-user-sees.jpg" alt="Public folders - what the recipient sees" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
     What the user sees before adding any images.  Either drag and drop files, or press Add files to choose.  This works the same no matter the device.
   </figcaption>
 </figure>
 
-<strong>NOTE:</strong>Existing files are never shown.  Even if clicking that link again the same user would not see the files the previously uploaded. 
+<strong>NOTE: </strong>Existing files are never shown.  Even if clicking that link again the same user would not see the files they previously uploaded. 
 
-If duplicate filenames are uploaded, they will automatically be give a new name, such as i-am-a-duplicate(2).jpg.
+Duplicates: If duplicate filenames are uploaded, they will automatically be give a new name, such as i-am-a-duplicate(2).jpg.
+
+Logo: The logo shown will be the one set within your DBGallery.  The default will be the DBGallery logo.  See more in <a href="https://docs.dbgallery.com/white-labelling">White Labelling</a>.
 
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
-  <img src="/assets/public-upload-user-sees-after-upload.jpg" alt="Public folders - what the recipient sees after upload" style="width:66%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <img src="/assets/public-upload-user-sees-after-upload.jpg" alt="Public folders - what the recipient sees after upload" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
     Upon uploading, thumbs are shown.  Clicking the Show Details button near the top right would show a subset of metadata, including what was AI generated.
   </figcaption>
