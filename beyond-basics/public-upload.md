@@ -33,13 +33,13 @@ Options here include:
 3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide email notifications when uploads occur, a great way to be in the know when new files arrive. 
 
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
-  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:66%;height:auto;border: 2px solid black; border-radius: 15px;">
+  <img src="/assets/public-upload-config-named.jpg" alt="Public folders - config options" style="width:66%;height:auto;border: 2px solid black; border-radius: 10px;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
     Here the public folder is named '2020's External Contributors'. Note how the link includes that name.  This is also the identifier to find it in Share Management.
   </figcaption>
 </figure>
 
-Note: If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
+If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
 
 ### 3. Share the link
 Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it on social media.
@@ -47,7 +47,23 @@ Upon pressing the "Save and copy public upload link" button, the link is copied 
 ## What the user sees
 When a recipient clicks the link, they will see the following:
 
---SCREENSHOT--
+<figure style="text-align:center;max-width:600px;margin:2rem auto;">
+  <img src="/assets/public-upload-user-sees.jpg" alt="Public folders - what the recipient sees" style="width:66%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
+    What the user sees before adding any images.  Either drag and drop files, or press Add files to choose.  This works the same no matter the device.
+  </figcaption>
+</figure>
+
+<strong>NOTE:</strong>Existing files are never shown.  Even if clicking that link again the same user would not see the files the previously uploaded. 
+
+If duplicate filenames are uploaded, they will automatically be give a new name, such as i-am-a-duplicate(2).jpg.
+
+<figure style="text-align:center;max-width:600px;margin:2rem auto;">
+  <img src="/assets/public-upload-user-sees-after-upload.jpg" alt="Public folders - what the recipient sees after upload" style="width:66%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
+    Upon uploading, thumbs are shown.  Clicking the Show Details button near the top right would show a subset of metadata, including what was AI generated.
+  </figcaption>
+</figure>
 
 If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
 
@@ -62,7 +78,7 @@ Other than the Share Type column, the other columns and functionality are essent
 ## FAQs
 <strong>Q</strong>: Can uploads be to a Collection?
 <br/>
-<strong>A</strong>: Collections can never have files uploaded to directly, whether it be public uploads or internally by those logged in.  Collections hold pointers to the original file location in a folder. Hence uploads only ever occur to a folder. 
+<strong>A</strong>: Collections can never have files uploaded to them directly, whether it be public uploads or internally by those logged in.  Collections hold pointers to the original file locations in a folder. Hence uploads only ever occur to a folder. 
 <br/>
 <br/>
 <strong>Q</strong>: Can a shared folder link be protected by a password?
