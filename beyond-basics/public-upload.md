@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Public Upload
+title: Public Uploads
 permalink: /public-uploads
 parent: Beyond Basics
 grand_parent: DBGallery
@@ -16,10 +16,12 @@ A folder can be configured to allow anyone with a created link to upload images.
 - The link can be disabled or removed completely using DBGallery's Share Management page.
 
 ## Creating the Public Upload Link
-There are 3 steps
+There are 3 steps:
 1. Select the 3 dots to the right of the folder where files will be uploaded.
 2. Choose configuration options.
 3. Send the public upload link to those who will perform the uploads.
+
+<strong>Permissions Note: </strong>Only SuperAdmins can create Public Upload links. 
 
 ### 1. Select the folder
 Any folder may be chosen for configuring an upload.  Typically you would start with an empty folder, although that isn't a requirement.  As in the screenshot below, folders where uploads occur may be under a parent folder, where the sub-folders are shared with specific individuals or groups, but again, that isn't neccessary.
@@ -70,11 +72,25 @@ Logo: The logo shown will be the one set within your DBGallery.  The default wil
 If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
 
 ## Finding public uploads in Share Management
-The Share Management page is an important resource for managing public upload links. This is the same Share Management page used for sharing images.  The indicator to distinguish between image shares and public upload links is the far left column: Share Type.  Hover the mouse pointer of the folder icon in that column to see exactly which folder was configured for the upload.  
+The <a href="https://docs.dbgallery.com/sharing#4-share-management">Share Management</a> page is an important resource for managing public upload links. This is the same Share Management page used for sharing images.  The indicator to distinguish between image shares and public upload links is the far left column: Share Type.  Hover the mouse pointer over the folder icon in that column to see exactly which folder was configured for the upload.  
 
 Other than the Share Type column, the other columns and functionality are essentially the same.  The Assets Count will be blank for public uploads.
 
---SCREENSHOT--
+<figure style="text-align:center;max-width:600px;margin:2rem auto;">
+  <img src="/assets/public-uploads-share-mgmt.jpg" alt="Public folders - Share Management" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
+    Accessed from Tools | Share Management, the Public Upload links can be identified by the folder icon in the Share Type column. Roll the mouse cursor over that icon to see the full folder name.
+  </figcaption>
+</figure>
+
+
+<figure style="text-align:center;max-width:600px;margin:2rem auto;">
+  <img src="/assets/public-uploads-sharemgmt-right-columns.jpg" alt="Public folders - Share Management operations columns" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
+  <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
+    From here you may copy the link, suspend (disable) the link, or delete it.  When suspended or delete, someone clicking the link will see a message indicating the link is no longer available.
+  </figcaption>
+</figure>
+
 
 
 ## FAQs
