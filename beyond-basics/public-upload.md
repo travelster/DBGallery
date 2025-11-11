@@ -26,7 +26,7 @@ There are 3 steps:
 ### 1. Select the folder
 Any folder may be chosen for configuring an upload.  Typically you would start with an empty folder, although that isn't a requirement.  As in the screenshot below, folders where uploads occur may be under a parent folder, where the sub-folders are shared with specific individuals or groups, but again, that isn't neccessary.
 
-<p><img src="/assets/public-upload-3dots.jpg" style="margin-left: 5%" alt="Public folders - select the folder" width="33%"/></p>
+<p><img src="/assets/public-upload-3dots.jpg" style="margin-left: 5%; height:auto;border: 2px solid black; border-radius: 10px;" alt="Public folders - select the folder" width="33%"/></p>
 
 ### 2. Choose the options
 Options here include:
@@ -69,7 +69,7 @@ Logo: The logo shown will be the one set within your DBGallery.  The default wil
   </figcaption>
 </figure>
 
-If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
+Mobile Devices: If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
 
 ## Finding public uploads in Share Management
 The <a href="https://docs.dbgallery.com/sharing#4-share-management">Share Management</a> page is an important resource for managing public upload links. This is the same Share Management page used for sharing images.  The indicator to distinguish between image shares and public upload links is the far left column: Share Type.  Hover the mouse pointer over the folder icon in that column to see exactly which folder was configured for the upload.  
@@ -87,10 +87,12 @@ Other than the Share Type column, the other columns and functionality are essent
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
   <img src="/assets/public-uploads-sharemgmt-right-columns.jpg" alt="Public folders - Share Management operations columns" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
-    From here you may copy the link, suspend (disable) the link, or delete it.  When suspended or delete, someone clicking the link will see a message indicating the link is no longer available.
+    From here you may copy the link, suspend (disable) the link, or delete it.  When suspended or deleted, someone clicking the link will see a message indicating the link is no longer available.
   </figcaption>
 </figure>
 
+## Security
+The Public Uploads feature is designed with robust security in mind, ensuring that only individuals who receive the shared link can contribute files. Access is strictly limited to uploads: no viewing of existing images in the folder, no deletions, no edits, and no other manipulations are possible, preventing unauthorized exposure or alteration of assets. Links are generated exclusively by SuperAdmins and can be configured with an expiry date, suspended, or fully revoked via the Share Management page at any time, rendering them inactive and displaying an error to any further access attempts. Without password protection (which requires full user accounts for enhanced controls), this link-based model prioritizes simplicity and containment, making it an ideal solution for secure, one-way contributions from external collaborators.
 
 
 ## FAQs
