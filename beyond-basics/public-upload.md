@@ -30,19 +30,19 @@ Any folder may be chosen for configuring an upload.  Typically you would start w
 Options here include:
 1. <strong>Naming the share</strong>: Naming the share is highly recommended.  This makes the link look more meaningful to those receiving the link.  As importantly, it make it more easily found in Share Management (more on that below).
 2. <strong>Set an expiry date</strong>: An expiry date may be set here, or later Share Management can be used to disable or delete the link. 
-3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide you with email notifications when uploads occur, a great way to be in the know when new files arrive. 
+3. <strong>Subscribe to upload notifications</strong>: Choosing this option will provide email notifications when uploads occur, a great way to be in the know when new files arrive. 
 
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
-  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:66%;height:auto;border: 2px solid black;">
+  <img src="/assets/public-upload-config-named.jpg" alt="Sunset over rice fields" style="width:66%;height:auto;border: 2px solid black; border-radius: 15px;">
   <figcaption style="margin-top:0.75rem;font-style:italic;color:#555;">
     Here the public folder is named '2020's External Contributors'. Note how the link includes that name.  This is also the identifier to find it in Share Management.
   </figcaption>
 </figure>
 
-Note: If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page (more on that below).
+Note: If the Public Folders configuration window looks similiar to the Sharing configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
 
 ### 3. Share the link
-Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it to social media.
+Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it on social media.
 
 ## What the user sees
 When a recipient clicks the link, they will see the following:
