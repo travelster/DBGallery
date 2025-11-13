@@ -13,6 +13,8 @@ The following scenario illustrates the added value workflows provides a business
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="https://cdn.dbgallery.cloud/Download.aspx?id=75755&amp;public=ec7b69a9c3454e529c9460ac33cf684f&amp;516231969" width="100%" /></p>
 
+**NOTE:** Specific Workflow status (New, Requires Adjustment, etc.) are created within DBGallery from the main menu's Tools | Workflow.
+
 ## **Stage 1:** Client uploads requirements
 The workflow begins when the client uploads a new requirements file. The details of the work required will be a digital asset itself, and the creative team will receive a notification of the new job that has been submitted. The uploaded digital asset will be filed electronically within the digital asset management system. There are variations on how that requirements file is created, sometimes by the team after discussions with the client, but in either case the requirements file being uploaded triggers the beginning of the process.
 
