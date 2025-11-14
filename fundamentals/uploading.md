@@ -49,7 +49,8 @@ Upon upload completion, choose one of three options:
 ## Showing images just uploaded.
 After returning to the folder, knowing which images where just uploaded isn't always obvious.  Have them rise to the top by choosing the sort by Added to DBG, and Desc.  (Added to DBG = Added to DBGallery)
 
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-SortByAddedToDBG.png" alt="Uploading: Sort by when added to the database"/></p>
+
 ## Uploading without a login
 Uploads can be performed without a login by those outside your organization using DBGallery's Public Upload link features.  See <a href="https://docs.dbgallery.com/public-uploads">Public Uploads</a>.
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-SortByAddedToDBG.png" alt="Uploading: Sort by when added to the database"/></p>
