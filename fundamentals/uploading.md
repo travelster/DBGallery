@@ -52,5 +52,5 @@ After returning to the folder, knowing which images where just uploaded isn't al
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-SortByAddedToDBG.png" alt="Uploading: Sort by when added to the database"/></p>
 
 ## Uploading without a login
-Uploads can be performed without a login by those outside your organization using DBGallery's Public Upload link features.  See <a href="https://docs.dbgallery.com/public-uploads">Public Uploads</a>.
+Uploads can be performed without a login by those outside your organization using DBGallery's Public Upload link feature.  See <a href="https://docs.dbgallery.com/public-uploads">Public Uploads</a>.
 
