@@ -9,10 +9,11 @@ nav_order: 40
 
 # Public Uploads
 
+Simply send a created link to invite recipients to upload images to a specific folder.
+
 For those that need a secure and simple method to collect digital content from external parties—such as vendors, partners, 
-or suppliers — Public Uploads provide a highly convenient solution. This link acts as a secure, controlled intake channel, enforced by the strictly upload-only mandate: external users can deposit 
-files of any type and size into a designated folder, but they are absolutely prevented from viewing, editing, or deleting any 
-existing assets within the system.
+or suppliers — Public Uploads provide a highly convenient solution. This link acts as a secure, controlled intake channel, enforced by the strictly upload-only mandate: <strong>external users can deposit files of any type and size into a designated folder, but they are absolutely prevented from viewing, editing, or deleting any 
+existing assets within the system.</strong>
 
 Reiterating a few key points:
 - No login is required.  
@@ -78,7 +79,7 @@ Logo: The logo shown will be the one set within your DBGallery.  The default wil
 Mobile Devices: If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
 
 ## Workflow Integration
-Newly uploaded image may be automatically given a workflow status of "New" or "Needs Review".  Internal staff would then manage the review queue, checking the quality and licensing status, or any use any other internal acceptance criteria, of the assets.  They would then be changed to an "Approved" or "Published" status, and in most cases, moved to a more appropriate folder within DBGallery.  See <a href="https://docs.dbgallery.com/workflow">Workflow</a> for how this is setup.
+Newly uploaded images may be automatically given a workflow status of "New" or "Needs Review".  Internal staff would then manage the review queue, checking the quality and licensing status, or any use any other internal acceptance criteria, of the assets.  They would then be changed to an "Approved" or "Published" status, and in most cases, moved to a more appropriate folder within DBGallery.  See <a href="https://docs.dbgallery.com/workflow">Workflow</a> for how this is setup.
 
 ## Finding public uploads in Share Management
 The <a href="https://docs.dbgallery.com/sharing#4-share-management">Share Management</a> page is an important resource for managing public upload links. This is the same Share Management page used for sharing images.  The indicator to distinguish between image shares and public upload links is the far left column: Share Type.  Hover the mouse pointer over the folder icon in that column to see exactly which folder was configured for the upload.  
