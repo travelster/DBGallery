@@ -9,11 +9,17 @@ nav_order: 40
 
 # Public Uploads
 
-A folder can be configured to allow anyone with a created link to upload images.  Essentially, simply press the 3 dots next to a folder, choose a few options, and then sent the created link to those who will upload images.  A few key points:
+For those that need a secure and simple method to collect digital content from external parties—such as vendors, partners, 
+or suppliers — Public Uploads provide a highly convenient solution. This link acts as a secure, controlled intake channel, enforced by the strictly upload-only mandate: external users can deposit 
+files of any type and size into a designated folder, but they are absolutely prevented from viewing, editing, or deleting any 
+existing assets within the system.
+
+Reiterating a few key points:
 - No login is required.  
 - Images already existing in the folder cannot be seen by those opening the link.
 - Nothing can be done within the folder by those opening the link except upload files.
 - The link can be disabled or removed completely using DBGallery's Share Management page.
+
 
 ## Creating the Public Upload Link
 There are 3 steps:
@@ -43,8 +49,8 @@ Options here include:
 
 If the Public Folders configuration window looks similiar to the <a href="https://docs.dbgallery.com/sharing">Sharing</a> configuration window, it is because they are indeed functionaly related. Public Uploads share a folder for uploading, and is accessible by anyone with the link.  Sharing allows viewing of images by anyone with the link.  This is also why both these are combined on the Share Management page.
 
-### 3. Share the link
-Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients.  That may be via email, a messaging platform such as Slack, or dropping it on social media.
+### 3. Invite anyone to upload images
+Upon pressing the "Save and copy public upload link" button, the link is copied to the clipboard and is ready to provide to recipients, inviting the to upload digital assets.  Do so via email, Slack, or any other way you normally communication with those you are inviting to upload.
 
 ## What the user sees
 When a recipient clicks the link, they will see the following:
@@ -70,6 +76,9 @@ Logo: The logo shown will be the one set within your DBGallery.  The default wil
 </figure>
 
 Mobile Devices: If the link is opened on a mobile device it will appear somewhat differently but has the same functionality.
+
+## Workflow Integration
+Newly uploaded image may be automatically given a workflow status of "New" or "Needs Review".  Internal staff would then manage the review queue, checking the quality and licensing status, or any use any other internal acceptance criteria, of the assets.  They would then be changed to an "Approved" or "Published" status, and in most cases, moved to a more appropriate folder within DBGallery.  See <a href="https://docs.dbgallery.com/workflow">Workflow</a> for how this is setup.
 
 ## Finding public uploads in Share Management
 The <a href="https://docs.dbgallery.com/sharing#4-share-management">Share Management</a> page is an important resource for managing public upload links. This is the same Share Management page used for sharing images.  The indicator to distinguish between image shares and public upload links is the far left column: Share Type.  Hover the mouse pointer over the folder icon in that column to see exactly which folder was configured for the upload.  
@@ -104,3 +113,8 @@ The Public Uploads feature is designed with robust security in mind, ensuring th
 <strong>Q</strong>: Can a shared folder link be protected by a password?
 <br/>
 <strong>A</strong>: If password protection is required, create a user within DBGallery and provide upload permissions to any specific folder for that user.
+<br/>
+<br/>
+<strong>Q</strong>: The name Public Uploads can be misleading since only those with the invitation link can upload.  What other names for this feature were considered?
+<br/>
+<strong>A</strong>: Guest Uploads was the main other contentor.  Others included: Invite Links, Guest Uploader, Secure Dropzone, Asset Contribution Portal, External Ingest Link, One-Way Asset Collection, and even Fast File Drop.
