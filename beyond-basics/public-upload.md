@@ -67,7 +67,7 @@ When a recipient clicks the link, they will see the following:
 
 Duplicates: If duplicate filenames are uploaded, they will automatically be give a new name, such as i-am-a-duplicate(2).jpg.
 
-Logo: The logo shown will be the one set within your DBGallery.  The default will be the DBGallery logo.  See more in <a href="https://docs.dbgallery.com/white-labelling">White Labelling</a>.
+Logo: The logo shown will be the one set within your DBGallery, usually your own.  The default will be the DBGallery logo.  See more in <a href="https://docs.dbgallery.com/white-labelling">White Labelling</a>.
 
 <figure style="text-align:center;max-width:600px;margin:2rem auto;">
   <img src="/assets/public-upload-user-sees-after-upload.jpg" alt="Public folders - what the recipient sees after upload" style="width:100%;height:auto;border: 2px solid black; border-radius: 10px;">
