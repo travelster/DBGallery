@@ -20,6 +20,7 @@ Reiterating a few key points:
 - Images already existing in the folder cannot be seen by those opening the link.
 - Nothing can be done within the folder by those opening the link except upload files.
 - The link can be disabled or removed completely using DBGallery's Share Management page.
+- Only SuperAdmin roles can configure Public Uploads.
 
 
 ## Creating the Public Upload Link
