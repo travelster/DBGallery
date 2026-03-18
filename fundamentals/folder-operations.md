@@ -9,7 +9,7 @@ nav_order: 80
 
 # Folder and File Operations
 
-Folders may be created, renamed and deleted by clicking the 3 dots to the right of any folder name:
+Folders may be created, renamed and deleted by clicking the 3 dots to the right of any folder name.  There is no limit to the number of sub-folders or levels which may be created.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/FolderOperationsMenuNew.jpg" alt="Folder Operations Menu"/></p>
 
