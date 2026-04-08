@@ -32,16 +32,16 @@ From there a dropdown of options can help refine a basic search.  When options s
 ## Removing Filters
 Remove all filters by clicking the x.  
 
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="80%" src="/assets/Search-RemoveFilters.jpg" alt="Remove Filters"/></p>
+
 Remove specific filters by clicking the blue badges.  Example: In the screenshot below, click "Image" to include all file types.
 
 Remove the text and press enter to clear that aspect of the filter while still keeping other search attributes listed as badges.
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="80%" src="/assets/Search-RemoveFilters.jpg" alt="Remove Filters"/></p>
-
 ## Binary Searches
 Then there are binary operations. A + sign indicates 'must have', and a - sign indicates 'must not have'. The following searches for images that must have both Toronto and Balcony, but must not includes images with Yorkville (a trendy upscale area of Toronto):
 
-<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="80%" src="/assets/Search-Boolean.jpg" alt="Search Boolean and Binary Syntax"/></p>
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="70%" src="/assets/Search-Boolean.jpg" alt="Search Boolean and Binary Syntax"/></p>
 
 **Search Syntax**
 
