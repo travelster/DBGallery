@@ -24,4 +24,4 @@ Search for Folders by typing the first three characters of the folder name being
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/FolderSearch.jpg" alt="Drag and Drop File and Folder Operations Animation"/></p>
 <p></p>
-Note: While there is some difference in the screenshots above due to the UI changing over time, they remain close enough for instructional purposes.
+<strong>Note:<strong> Screenshots may vary slightly due to ongoing UI updates, but the steps remain the same.
