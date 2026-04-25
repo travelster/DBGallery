@@ -39,7 +39,7 @@ Remove specific filters by clicking the blue badges.  Example: In the screenshot
 Remove the text and press enter to clear that aspect of the filter while still keeping other search attributes listed as badges.
 
 ## Find Folders and Collections
-Search for Folders (or Collections) by typing the first three characters of the name being saught, then choose it from the list below.  <strong>No need to manually scroll through the folders tree shown to the left in the image shown above.</strong> It auto-searches once three characters are typed.
+Search for Folders (or Collections) by typing the first three characters of the name being saught, then choose it from the list below.  <strong>No need to manually scroll through the folders tree shown to the left in the image shown above.</strong> It auto-searches for folders and collections once three characters are typed...press the Enter key or "Search files" button to search for files.
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/FolderSearch.jpg" alt="Drag and Drop File and Folder Operations Animation"/></p>
 
