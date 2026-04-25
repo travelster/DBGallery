@@ -25,7 +25,7 @@ Searching for two words may be the next step for many, which becomes a simple AN
 Put single quotes around multiple words to make it an OR search: 'beach sunset' will find images which have either beach or sunset.
 
 ## Additional Filters
-From there a dropdown of options can help refine a basic search.  When options such as Image or 4 stars are selected, they'll show as badges once the filter is set (see the next screenshot in the Removing Filters section below).
+From there a dropdown of options can help refine a basic search.  When options such as Image or 4 stars are selected, they'll show as badges once the filter is set (see the next screenshot in the Removing Filters section below to see how badges look).
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" width="80%" src="/assets/Search-AdvancedOptions.jpg" alt="Search Advanced Options"/></p>
 
@@ -37,6 +37,11 @@ Remove all filters by clicking the x.
 Remove specific filters by clicking the blue badges.  Example: In the screenshot below, click "Image" to include all file types.
 
 Remove the text and press enter to clear that aspect of the filter while still keeping other search attributes listed as badges.
+
+## Find Folders and Collections
+Search for Folders (or Collections) by typing the first three characters of the name being saught, then choose it from the list below.  <strong>No need to manually scroll through the folders tree shown to the left in the image shown above.</strong> It auto-searches once three characters are typed.
+
+<p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/FolderSearch.jpg" alt="Drag and Drop File and Folder Operations Animation"/></p>
 
 ## Binary Searches
 Then there are binary operations. A + sign indicates 'must have', and a - sign indicates 'must not have'. The following searches for images that must have both Toronto and Balcony, but must not includes images with Yorkville (a trendy upscale area of Toronto):
