@@ -104,7 +104,7 @@ The share management page provides a means to view and manage previous shares.  
 - **Search:** Search for a share name. [Top-right corner]
 - **Copy the URL:** Get a copy the share URL. [Button to the right of the "Status" column]
 - **Suspend shares** (similar to expire but can be turned back on). [The 'eye' button the the right of Copy URL]
-- **Delete the share:** You may delete a share after it has been created. This is especially useful if you've sent out a link with a mistake, or you want to later add or remove an image. You may delete the share and create a new one with the same name. Because the URL will have the same name, when the URL previously sent is clicked it will open the new share. [Button not shown in the above screenshot, but is to the right of the Suspend button]
+- **Delete the share:** You may delete a share after it has been created. This is especially useful if you've sent out a link with a mistake, or you want to later add or remove images. You may delete the share and create a new one with the same name. Because the URL will have the same name, when the URL previously sent is clicked it will open the new share. <strong>Dynamic Share</strong>: A delete and recreate with the same share name can be used as a dynamic share, even if manual, where a share name can be updated with new or removed images. [While the delete button is not shown in the screenshot below, but is to the right of the Suspend button.]
 - **Share Creator:** Column to view which user created the share.
 - **Open count:** Column showing the number of times the share has been opened.
 - **Shared images count:** Column to view the number of images in the share.
