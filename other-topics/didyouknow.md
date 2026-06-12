@@ -23,7 +23,7 @@ There are cool, interesting and useful features and capabilities in DBGallery th
 
 - If images have GPS stamps, they can be viewed across a map, and they'll also automatically have street address, city and country added as tags during upload.
 
-- In the Comments panel on image preview, you can rely to comments made by others (and get notified when new comments are added). It's a good place for a conversation if on a creative team:
+- In the Comments panel on image preview, you can reply to comments made by others (and get notified when new comments are added). It's a good place for a conversation if on a creative team:
 <p style="margin-left: 5%;"><img src="https://glennrogers.ca/Download.aspx?id=287366&public=23468965c68347a5891eefcc69440cc1&1933562503" alt="Comments and Replies Screenshot" width="100%" style="border:1px solid black"></p>
         
 - Leave a comment at a specific video frame by pausing then adding the comment. The timestamp stored with the comment is clickable and will return to that frame!
