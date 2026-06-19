@@ -13,4 +13,6 @@ grand_parent: DBGallery
 
 <a href="https://dbgallery.com/dbgallery-in-4-layers" target="_blank">Four layers of Digital Asset Management</a>
 
+<a href="https://dbgallery.com/home/trivia" target="_blank">Try our DAM Trivia Challenge</a>
+
 ![Four Layers of Digital Asset Management](/assets/fourlayersinfographic.jpg)
