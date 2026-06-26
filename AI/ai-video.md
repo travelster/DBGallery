@@ -43,7 +43,7 @@ nav_order: 28
 <img class="mt-4 rounded-lg shadow-md w-full max-w-3xl mx-auto block" src="https://cdn.dbgallery.cloud/Download.aspx?id=491722&amp;public=2/video-timeline&amp;" alt="Video Transcription Timeline Feature in DBGallery" /></li>
 </br>
 <li><strong>Scene Analysis / Descriptions</strong>
-<p>Scene analysis (aka scene descriptions) is automatically generated during pauses in speech, or if there is no speech in the video, rather than relying solely on spoken text. Those non-spoken scene descriptions are in square brackets in both our transcipt text as well as the timeline.</p>
+<p>Scene analysis (aka scene descriptions) is automatically generated during pauses in speech, or if there is no speech in the video, rather than relying solely on spoken text. Those non-spoken scene descriptions are in square brackets in both our transcipt text and the timeline.</p>
 </li>
 <li><strong>AI-Generated Summaries</strong>
 <p>Receive AI video summarization automatically for each analyzed video, providing an instant overview without needing to watch the entire file.</p>
