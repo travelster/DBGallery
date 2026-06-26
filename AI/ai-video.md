@@ -41,6 +41,10 @@ nav_order: 28
 <li><strong>Transcription Timeline</strong>
 <p>The video transcription timeline feature provides a dynamic, interactive way to explore videos. Each spoken sentence is time-stamped and aligned with the video, allowing you to jump instantly to the exact moment you need. I.e. It's a clickable timeline. This transforms how teams review, repurpose, and extract insights from video content&mdash;delivering a productivity boost for those where video is an important part of their digital asset management workflow.</p>
 <img class="mt-4 rounded-lg shadow-md w-full max-w-3xl mx-auto block" src="https://cdn.dbgallery.cloud/Download.aspx?id=491722&amp;public=2/video-timeline&amp;" alt="Video Transcription Timeline Feature in DBGallery" /></li>
+</br>
+<li><strong>Scene Analysis / Descriptions</strong>
+<p>Scene analysis (aka scene descriptions) is automatically generated during pauses in speech, or if there is no speech in the video, rather than relying solely on spoken text. Those non-spoken scene descriptions are in square brackets in both our transcipt text as well as the timeline.</p>
+</li>
 <li><strong>AI-Generated Summaries</strong>
 <p>Receive AI video summarization automatically for each analyzed video, providing an instant overview without needing to watch the entire file.</p>
 </li>
