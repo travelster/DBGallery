@@ -50,7 +50,11 @@ in our Tools menu to place it in the Info tab and other areas of DBGallery.  See
 ## Q&A
 **Q:** Will this feature read contents of documents, such as PDFs?
 
-**A:** No. It reads text from photos and graphics only.
+**A:** Somewhat. It reads just the first page of PDFs.
+
+**Q:** Can this data be displayed where I want across the areas of the system where other metadata is shown?
+
+**A:** Yes. As with all metadata fields, Data Layout Settings (Tools | Data Layout Settings) can be used to place it where it's needed.
 
 ## Turning this feature on
 This feature is not turned on by default in all systems.  To turn it on, admins may go to <strong>Preferences | Tools</strong>, where the option is near the bottoom of the page.
