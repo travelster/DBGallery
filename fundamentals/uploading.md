@@ -32,7 +32,8 @@ While uploading, data details of the images or just thumbs may be shown.  If det
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-Details.png" alt="Uploading Details"/></p>
 
-AI Metadata
+**AI Metadata**
+
 While not shown in the above screenshot, if "Automatically run AI analysis for uploaded media" is checked in the upload window, files will have the following AI metadata added:
 - Common objects
 - A description of images
@@ -41,7 +42,7 @@ While not shown in the above screenshot, if "Automatically run AI analysis for u
 
 Notes on AI metadata:
 - See the <a href="https://docs.dbgallery.com/ai">AI section</a> of this knowledge base for details on each of these.  
-- Each of these can be turned on and off within Tools | Preferences in DBGallery's main menu.
+- Each of these can be turned on and off within Tools || Preferences in DBGallery's main menu.
 - A custom prompt can be set for how the AI describes images.  See <a href="https://docs.dbgallery.com/ai-descriptions">AI-generated Descriptions</a> for more on this.
 
 Press the Show/Hide Details button to toggle between details and just thumbs:
