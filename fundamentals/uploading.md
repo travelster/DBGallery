@@ -28,9 +28,21 @@ Add files by dragging and dropping them onto the Upload window.  Alternatively, 
 Be sure to select Automatically Recognize Objects and Duplicates Detection if appropriate (they usually are). Recognizing objects will automatically tag common items found in photos.  Those two options are found by pressing 'Advanced settings' just under the Upload button (and are shown in the screenshot below the next one).
 
 ## During Upload
-While uploading, data details of the images or just thumbs may be shown.  If details are shown, recognized objects may be shown as well as address info for images which have GPS coordinates (see the info in the two red boxes below).  Any Camera Exif data as well as any existing IPTC/XMP metadata will also be read. IPTC/XMP metadata is the standard for storing metadata, such as title and keywords, directly in photo, video, and PDF files. 
+While uploading, data details of the images or just thumbs may be shown.  If details are shown, recognized objects may be shown as well as address info for images which have GPS coordinates (see the info in the two red boxes below).  Any Camera Exif data as well as any existing IPTC/XMP metadata will also be read. IPTC/XMP metadata is the standard for storing metadata, such as title and keywords, directly in photo, video, and PDF files. AI metadata is optionally added (more on this immediately below).
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-Details.png" alt="Uploading Details"/></p>
+
+AI Metadata
+While not shown in the above screenshot, if "Automatically run AI analysis for uploaded media" is checked in the upload window, files will have the following AI metadata added:
+- Common objects
+- A description of images
+- Text within images (OCR, or image-to-text)
+- Faces
+
+Notes on AI metadata:
+- See the <a href="https://docs.dbgallery.com/ai">AI section</a> of this knowledge base for details on each of these.  
+- Each of these can be turned on and off within Tools | Preferences in DBGallery's main menu.
+- A custom prompt can be set for how the AI describes images.  See <a href="https://docs.dbgallery.com/ai-descriptions">AI-generated Descriptions</a> for more on this.
 
 Press the Show/Hide Details button to toggle between details and just thumbs:
 

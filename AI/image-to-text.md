@@ -50,7 +50,7 @@ in our Tools menu to place it in the Info tab and other areas of DBGallery.  See
 ## Q&A
 **Q:** Will this feature read contents of documents, such as PDFs?
 
-**A:** Somewhat. It reads just the first page of PDFs.
+**A:** It reads the full text contents of PDFs, but not other document types such as Word. Note: Rare varieties of PDF files cannot be read and text in the images within are often not read. 
 
 **Q:** Can this data be displayed where I want across the areas of the system where other metadata is shown?
 
