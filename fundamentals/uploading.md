@@ -36,13 +36,13 @@ While uploading, data details of the images or just thumbs may be shown.  If det
 
 While not shown in the above screenshot, if "Automatically run AI analysis for uploaded media" is checked in the upload window, files will have the following AI metadata added:
 - Common objects
-- A description of images
-- Text within images (OCR, or image-to-text)
-- Faces
+- A general description of the image
+- Text found within images (OCR, or image-to-text)
+- Recognized people's names (faces are listed an 'unnamed' until named once with the People panel of image preview)
 
 Notes on AI metadata:
 - See the <a href="https://docs.dbgallery.com/ai">AI section</a> of this knowledge base for details on each of these.  
-- Each of these can be turned on and off within Tools || Preferences in DBGallery's main menu.
+- Each of these can be turned on and off within Tools / Preferences in DBGallery's main menu.
 - A custom prompt can be set for how the AI describes images.  See <a href="https://docs.dbgallery.com/ai-descriptions">AI-generated Descriptions</a> for more on this.
 
 Press the Show/Hide Details button to toggle between details and just thumbs:
