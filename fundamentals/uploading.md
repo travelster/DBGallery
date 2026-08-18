@@ -32,7 +32,7 @@ While uploading, data details of the images or just thumbs may be shown.  If det
 
 <p style="margin-left: 5%;"><img style="border: 1px solid purple;" src="/assets/Upload-Details.png" alt="Uploading Details"/></p>
 
-**AI Metadata**
+### AI Metadata
 
 While not shown in the above screenshot, if "Automatically run AI analysis for uploaded media" is checked in the upload window, files will have the following AI metadata added:
 - Common objects
