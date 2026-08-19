@@ -22,11 +22,6 @@ Click a marker to view the image.  To see the full image from there, click Open.
 
 ![Maps View](/assets/Maps-Icons-and-Preview.gif)
 
-## Map on the Main View
-See where it is on a map directly from the thumbs gallery view by clicking the View Map button on the thumb (see red box below).
-
-![Maps View Thumbs](/assets/MapsView-Thumbs.jpg){: width="65%" .ml-8}
-
 ## Setting GPS location within DBGallery
 When GPS stamps don't already exist in the image, set the location when editing data.  Start typing the location as you would in Google Maps and choose from the list. Press the expand button to see the map in full screen mode to tweak the map marker location. Tweak existing locations on images that already have GPS data by dragging the marker within the small map window or pressing the expand button.
 
