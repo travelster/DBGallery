@@ -23,13 +23,15 @@ To share images select any number of thumbs and press the Share images button. (
 ![Sharing: Select and Share Button](/assets/Share-Button.webp)
 
 ## 2. Share Settings
-The quickest way to share the selected images would be to press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, social media app, a document, or anywhere else. Note again that share links do not require a login.
+The quickest way to share the selected images would be to enter a share name and press Ok to have the URL copied to the clipboard, then drop it into an email, chat message, social media app, a document, or anywhere else. Note again that share links do not require a login.
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
 
-Alternatively, set these options in the share window:
+**Sorting Note**: The order of the images when the share is opened is the current sort order in the gallery view (where the image thumbs were selected and the share button pressed).
+
+Options in the share window:
+- **Share Name (highly recommended)**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see. The title also shows in the share, the "Interesting Architecture Across the Globe" text in the **What the Recipient Sees** section below.
 - **Expiry Date**: The link will display an Expired message after the date and time set. This cannot be changed later.
-- **Share Name**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see. The title also shows in the share, the "Interesting Architecture Across the Globe" text in the **What the Recipient Sees** section below.
 - **Download**: When checked, those opening the URL will be able to choose among download image resolutions.  There will also be a Download All option if more than one image is shared.  Each of these options are available to the recipient under the Download menu botton in the top left corner.
 - **Subscribe to a notification**: Receive an email each time the URL is opened.
 
