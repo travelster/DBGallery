@@ -27,7 +27,7 @@ The quickest way to share the selected images would be to enter a share name and
 
 ![Sharing Popup](/assets/Share-Dialog.webp)
 
-**Sort Order Note** | The order of the images when the share is opened is the current sort order in the gallery view (where the image thumbs were selected and the share button pressed).
+**Sort Order Note**: The order of the images when the share is opened is the current sort order in the gallery view (where the image thumbs were selected and the share button pressed).
 
 Options in the share window:
 - **Share Name (highly recommended)**: Give the share a name rather than using the default long random set of characters.  This allows it to be found more easily later in the Share Mgmt page (see below) and, perhaps more importantly, makes for a much more meaningful URL that the recipients see. The title also shows in the share, the "Interesting Architecture Across the Globe" text in the **What the Recipient Sees** section below.
