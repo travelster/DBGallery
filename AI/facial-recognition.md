@@ -20,6 +20,8 @@ Any subsequent uploads of that person will be named 'Johanna Jones'.  In the sea
 
 That is pretty well all that is needed to use facial recognition in DBGallery. The rest of this page will cover special cases, features, and Q&A.
 
+**Note:** Facial recognition does not apply to videos.
+
 **Note:** Not all DBGallery accounts have Facial Recogntion turned on.  Contact your DBGallery administrator to inquire about this, or send DBGallery support a message at support@dbgallery.  
 
 **Step 1: Upload.**
